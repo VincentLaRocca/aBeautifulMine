@@ -1,0 +1,646 @@
+{
+  "domain": {
+    "name": "Web Development Best Practices",
+    "id": "web_development",
+    "description": "Comprehensive knowledge base covering modern web development patterns, frameworks, and best practices",
+    "target_qa_total": 5000
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "category": "Frontend Fundamentals",
+      "subcategory": "Core Technologies",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "HTML5 Semantic Elements",
+          "description": "Modern HTML5 semantic tags, accessibility, and document structure",
+          "target_qa": 100,
+          "focus_areas": [
+            "Semantic tags (article, section, nav, etc.)",
+            "Accessibility best practices",
+            "SEO optimization",
+            "Document outline and structure"
+          ],
+          "example_questions": [
+            "What is the difference between <article> and <section>?",
+            "How do semantic elements improve accessibility?",
+            "What are ARIA roles and when should they be used?"
+          ]
+        },
+        {
+          "name": "CSS Grid Layout",
+          "description": "CSS Grid system for complex layouts",
+          "target_qa": 100,
+          "focus_areas": [
+            "Grid container and item properties",
+            "Named grid areas",
+            "Responsive grid patterns",
+            "Browser compatibility"
+          ]
+        },
+        {
+          "name": "CSS Flexbox",
+          "description": "Flexbox for one-dimensional layouts",
+          "target_qa": 100,
+          "focus_areas": [
+            "Flex container properties",
+            "Flex item properties",
+            "Common layout patterns",
+            "When to use Grid vs Flexbox"
+          ]
+        },
+        {
+          "name": "JavaScript ES6+ Features",
+          "description": "Modern JavaScript syntax and features",
+          "target_qa": 100,
+          "focus_areas": [
+            "Arrow functions",
+            "Destructuring",
+            "Template literals",
+            "Async/await",
+            "Modules"
+          ]
+        },
+        {
+          "name": "DOM Manipulation",
+          "description": "Working with the Document Object Model",
+          "target_qa": 100,
+          "focus_areas": [
+            "Selecting elements",
+            "Creating and modifying elements",
+            "Event handling",
+            "Performance considerations"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 2,
+      "category": "React Ecosystem",
+      "subcategory": "Core Concepts",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "React Hooks",
+          "description": "useState, useEffect, and custom hooks",
+          "target_qa": 100,
+          "focus_areas": [
+            "useState for state management",
+            "useEffect for side effects",
+            "useContext for context API",
+            "Custom hooks patterns"
+          ]
+        },
+        {
+          "name": "React Component Patterns",
+          "description": "Design patterns for React components",
+          "target_qa": 100,
+          "focus_areas": [
+            "Container vs Presentational",
+            "Higher-Order Components (HOC)",
+            "Render props",
+            "Compound components"
+          ]
+        },
+        {
+          "name": "React State Management",
+          "description": "Managing state in React applications",
+          "target_qa": 100,
+          "focus_areas": [
+            "Context API",
+            "Redux patterns",
+            "Zustand",
+            "State lifting"
+          ]
+        },
+        {
+          "name": "React Performance Optimization",
+          "description": "Techniques for optimizing React apps",
+          "target_qa": 100,
+          "focus_areas": [
+            "React.memo",
+            "useMemo and useCallback",
+            "Code splitting",
+            "Lazy loading"
+          ]
+        },
+        {
+          "name": "React Testing",
+          "description": "Testing React components",
+          "target_qa": 100,
+          "focus_areas": [
+            "React Testing Library",
+            "Jest",
+            "Integration tests",
+            "Mocking"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 3,
+      "category": "Backend Development",
+      "subcategory": "Node.js & Express",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Express.js Routing",
+          "description": "Building REST APIs with Express",
+          "target_qa": 100,
+          "focus_areas": [
+            "Route handlers",
+            "Middleware",
+            "Route parameters",
+            "Error handling"
+          ]
+        },
+        {
+          "name": "Authentication & Authorization",
+          "description": "Implementing secure auth systems",
+          "target_qa": 100,
+          "focus_areas": [
+            "JWT tokens",
+            "OAuth 2.0",
+            "Session management",
+            "Password hashing"
+          ]
+        },
+        {
+          "name": "Database Integration",
+          "description": "Working with databases in Node.js",
+          "target_qa": 100,
+          "focus_areas": [
+            "SQL vs NoSQL",
+            "ORMs (Sequelize, Prisma)",
+            "Query optimization",
+            "Migrations"
+          ]
+        },
+        {
+          "name": "API Design Best Practices",
+          "description": "Designing RESTful and GraphQL APIs",
+          "target_qa": 100,
+          "focus_areas": [
+            "REST principles",
+            "GraphQL schema design",
+            "Versioning",
+            "Documentation"
+          ]
+        },
+        {
+          "name": "Error Handling & Logging",
+          "description": "Production-ready error handling",
+          "target_qa": 100,
+          "focus_areas": [
+            "Error middleware",
+            "Logging strategies",
+            "Monitoring",
+            "Debugging"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 4,
+      "category": "Performance & Optimization",
+      "subcategory": "Web Performance",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Core Web Vitals",
+          "description": "Measuring and optimizing web vitals",
+          "target_qa": 100,
+          "focus_areas": [
+            "LCP (Largest Contentful Paint)",
+            "FID (First Input Delay)",
+            "CLS (Cumulative Layout Shift)",
+            "Measuring tools"
+          ]
+        },
+        {
+          "name": "Image Optimization",
+          "description": "Optimizing images for web",
+          "target_qa": 100,
+          "focus_areas": [
+            "Modern image formats (WebP, AVIF)",
+            "Responsive images",
+            "Lazy loading",
+            "CDN strategies"
+          ]
+        },
+        {
+          "name": "Code Splitting & Bundling",
+          "description": "Optimizing JavaScript bundles",
+          "target_qa": 100,
+          "focus_areas": [
+            "Webpack configuration",
+            "Dynamic imports",
+            "Tree shaking",
+            "Bundle analysis"
+          ]
+        },
+        {
+          "name": "Caching Strategies",
+          "description": "Client and server-side caching",
+          "target_qa": 100,
+          "focus_areas": [
+            "Browser caching",
+            "Service workers",
+            "Redis caching",
+            "Cache invalidation"
+          ]
+        },
+        {
+          "name": "Progressive Web Apps",
+          "description": "Building PWAs",
+          "target_qa": 100,
+          "focus_areas": [
+            "Service worker patterns",
+            "Offline functionality",
+            "Push notifications",
+            "Manifest files"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 5,
+      "category": "Security",
+      "subcategory": "Web Security",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "XSS Prevention",
+          "description": "Preventing cross-site scripting attacks",
+          "target_qa": 100,
+          "focus_areas": [
+            "Input sanitization",
+            "Output encoding",
+            "Content Security Policy",
+            "DOM-based XSS"
+          ]
+        },
+        {
+          "name": "CSRF Protection",
+          "description": "Cross-Site Request Forgery prevention",
+          "target_qa": 100,
+          "focus_areas": [
+            "CSRF tokens",
+            "SameSite cookies",
+            "Double submit cookies",
+            "Origin validation"
+          ]
+        },
+        {
+          "name": "SQL Injection Prevention",
+          "description": "Protecting against SQL injection",
+          "target_qa": 100,
+          "focus_areas": [
+            "Parameterized queries",
+            "ORM usage",
+            "Input validation",
+            "Least privilege"
+          ]
+        },
+        {
+          "name": "HTTPS & TLS",
+          "description": "Secure communications",
+          "target_qa": 100,
+          "focus_areas": [
+            "TLS configuration",
+            "Certificate management",
+            "HSTS",
+            "Mixed content"
+          ]
+        },
+        {
+          "name": "Secure Headers",
+          "description": "Security HTTP headers",
+          "target_qa": 100,
+          "focus_areas": [
+            "CSP",
+            "X-Frame-Options",
+            "X-Content-Type-Options",
+            "Referrer-Policy"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 6,
+      "category": "DevOps & Deployment",
+      "subcategory": "Modern Deployment",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Docker Containerization",
+          "description": "Containerizing web applications",
+          "target_qa": 100,
+          "focus_areas": [
+            "Dockerfile best practices",
+            "Multi-stage builds",
+            "Docker Compose",
+            "Container orchestration"
+          ]
+        },
+        {
+          "name": "CI/CD Pipelines",
+          "description": "Automated deployment pipelines",
+          "target_qa": 100,
+          "focus_areas": [
+            "GitHub Actions",
+            "GitLab CI",
+            "Testing automation",
+            "Deployment strategies"
+          ]
+        },
+        {
+          "name": "Cloud Deployment",
+          "description": "Deploying to cloud platforms",
+          "target_qa": 100,
+          "focus_areas": [
+            "AWS deployment",
+            "Vercel/Netlify",
+            "Environment variables",
+            "Scaling strategies"
+          ]
+        },
+        {
+          "name": "Monitoring & Observability",
+          "description": "Production monitoring",
+          "target_qa": 100,
+          "focus_areas": [
+            "Application monitoring",
+            "Error tracking (Sentry)",
+            "Performance monitoring",
+            "Log aggregation"
+          ]
+        },
+        {
+          "name": "Database Backups & Recovery",
+          "description": "Data protection strategies",
+          "target_qa": 100,
+          "focus_areas": [
+            "Backup strategies",
+            "Point-in-time recovery",
+            "Disaster recovery",
+            "Data migration"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 7,
+      "category": "Testing",
+      "subcategory": "Testing Strategies",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Unit Testing",
+          "description": "Testing individual components",
+          "target_qa": 100,
+          "focus_areas": [
+            "Jest configuration",
+            "Test structure",
+            "Mocking dependencies",
+            "Coverage targets"
+          ]
+        },
+        {
+          "name": "Integration Testing",
+          "description": "Testing component interactions",
+          "target_qa": 100,
+          "focus_areas": [
+            "API testing",
+            "Database testing",
+            "Test fixtures",
+            "Test environments"
+          ]
+        },
+        {
+          "name": "E2E Testing",
+          "description": "End-to-end testing with Playwright/Cypress",
+          "target_qa": 100,
+          "focus_areas": [
+            "Test scenarios",
+            "Selectors and assertions",
+            "Visual regression",
+            "CI integration"
+          ]
+        },
+        {
+          "name": "Performance Testing",
+          "description": "Load and performance testing",
+          "target_qa": 100,
+          "focus_areas": [
+            "Load testing",
+            "Stress testing",
+            "Performance benchmarks",
+            "Lighthouse CI"
+          ]
+        },
+        {
+          "name": "Accessibility Testing",
+          "description": "Testing for accessibility",
+          "target_qa": 100,
+          "focus_areas": [
+            "Automated a11y testing",
+            "Screen reader testing",
+            "Keyboard navigation",
+            "WCAG compliance"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 8,
+      "category": "TypeScript",
+      "subcategory": "Type Safety",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "TypeScript Fundamentals",
+          "description": "Core TypeScript concepts",
+          "target_qa": 100,
+          "focus_areas": [
+            "Basic types",
+            "Interfaces vs types",
+            "Generics",
+            "Union and intersection types"
+          ]
+        },
+        {
+          "name": "Advanced TypeScript Patterns",
+          "description": "Advanced type patterns",
+          "target_qa": 100,
+          "focus_areas": [
+            "Conditional types",
+            "Mapped types",
+            "Template literal types",
+            "Utility types"
+          ]
+        },
+        {
+          "name": "TypeScript with React",
+          "description": "Type-safe React development",
+          "target_qa": 100,
+          "focus_areas": [
+            "Component typing",
+            "Props interfaces",
+            "Hooks typing",
+            "Context typing"
+          ]
+        },
+        {
+          "name": "TypeScript Configuration",
+          "description": "Configuring TypeScript projects",
+          "target_qa": 100,
+          "focus_areas": [
+            "tsconfig.json",
+            "Strict mode",
+            "Path mapping",
+            "Build optimization"
+          ]
+        },
+        {
+          "name": "TypeScript Best Practices",
+          "description": "Production TypeScript patterns",
+          "target_qa": 100,
+          "focus_areas": [
+            "Type narrowing",
+            "Error handling",
+            "Type guards",
+            "Documentation"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 9,
+      "category": "Modern Frameworks",
+      "subcategory": "Next.js",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Next.js App Router",
+          "description": "Modern Next.js routing",
+          "target_qa": 100,
+          "focus_areas": [
+            "File-based routing",
+            "Server components",
+            "Client components",
+            "Layout patterns"
+          ]
+        },
+        {
+          "name": "Next.js Data Fetching",
+          "description": "Data fetching strategies",
+          "target_qa": 100,
+          "focus_areas": [
+            "Server-side rendering",
+            "Static generation",
+            "Incremental static regeneration",
+            "Client-side fetching"
+          ]
+        },
+        {
+          "name": "Next.js API Routes",
+          "description": "Building APIs in Next.js",
+          "target_qa": 100,
+          "focus_areas": [
+            "Route handlers",
+            "Middleware",
+            "Edge runtime",
+            "API best practices"
+          ]
+        },
+        {
+          "name": "Next.js Performance",
+          "description": "Optimizing Next.js applications",
+          "target_qa": 100,
+          "focus_areas": [
+            "Image optimization",
+            "Font optimization",
+            "Bundle analysis",
+            "Caching strategies"
+          ]
+        },
+        {
+          "name": "Next.js Deployment",
+          "description": "Deploying Next.js apps",
+          "target_qa": 100,
+          "focus_areas": [
+            "Vercel deployment",
+            "Self-hosting",
+            "Environment variables",
+            "CI/CD integration"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 10,
+      "category": "Build Tools",
+      "subcategory": "Modern Tooling",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Vite Configuration",
+          "description": "Modern build tool setup",
+          "target_qa": 100,
+          "focus_areas": [
+            "Vite config",
+            "Plugin ecosystem",
+            "Build optimization",
+            "Development server"
+          ]
+        },
+        {
+          "name": "ESLint & Prettier",
+          "description": "Code quality tools",
+          "target_qa": 100,
+          "focus_areas": [
+            "ESLint configuration",
+            "Custom rules",
+            "Prettier integration",
+            "Pre-commit hooks"
+          ]
+        },
+        {
+          "name": "Package Management",
+          "description": "npm, yarn, pnpm",
+          "target_qa": 100,
+          "focus_areas": [
+            "Lock files",
+            "Workspaces",
+            "Version management",
+            "Security audits"
+          ]
+        },
+        {
+          "name": "Git Workflows",
+          "description": "Version control best practices",
+          "target_qa": 100,
+          "focus_areas": [
+            "Branching strategies",
+            "Commit conventions",
+            "Pull request workflows",
+            "Git hooks"
+          ]
+        },
+        {
+          "name": "Monorepo Management",
+          "description": "Managing monorepos",
+          "target_qa": 100,
+          "focus_areas": [
+            "Turborepo",
+            "Nx",
+            "Shared dependencies",
+            "Build caching"
+          ]
+        }
+      ]
+    }
+  ]
+}

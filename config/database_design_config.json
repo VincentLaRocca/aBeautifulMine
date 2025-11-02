@@ -1,0 +1,519 @@
+{
+  "domain": {
+    "name": "Database Design & Management",
+    "id": "database_design",
+    "description": "Comprehensive knowledge base covering database design patterns, SQL optimization, and modern database management",
+    "target_qa_total": 4000
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "category": "Relational Database Fundamentals",
+      "subcategory": "Core Concepts",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Database Normalization",
+          "description": "Normal forms and normalization techniques",
+          "target_qa": 100,
+          "focus_areas": [
+            "1NF, 2NF, 3NF, BCNF",
+            "Denormalization strategies",
+            "When to normalize vs denormalize",
+            "Impact on performance"
+          ],
+          "example_questions": [
+            "What is the difference between 2NF and 3NF?",
+            "When should you denormalize a database?",
+            "How does normalization affect query performance?"
+          ]
+        },
+        {
+          "name": "Primary Keys & Foreign Keys",
+          "description": "Key constraints and relationships",
+          "target_qa": 100,
+          "focus_areas": [
+            "Natural vs surrogate keys",
+            "Composite keys",
+            "Foreign key constraints",
+            "Cascading operations"
+          ]
+        },
+        {
+          "name": "Entity-Relationship Modeling",
+          "description": "ER diagrams and data modeling",
+          "target_qa": 100,
+          "focus_areas": [
+            "ER diagram notation",
+            "Cardinality relationships",
+            "Weak vs strong entities",
+            "Converting ER to tables"
+          ]
+        },
+        {
+          "name": "Data Types & Constraints",
+          "description": "Choosing appropriate data types",
+          "target_qa": 100,
+          "focus_areas": [
+            "Numeric types",
+            "String types",
+            "Date/time types",
+            "CHECK constraints"
+          ]
+        },
+        {
+          "name": "Schema Design Patterns",
+          "description": "Common database schema patterns",
+          "target_qa": 100,
+          "focus_areas": [
+            "Star schema",
+            "Snowflake schema",
+            "Fact and dimension tables",
+            "Temporal tables"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 2,
+      "category": "SQL Optimization",
+      "subcategory": "Query Performance",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Indexing Strategies",
+          "description": "Index types and optimization",
+          "target_qa": 100,
+          "focus_areas": [
+            "B-tree vs Hash indexes",
+            "Clustered vs non-clustered",
+            "Composite indexes",
+            "Index maintenance"
+          ]
+        },
+        {
+          "name": "Query Optimization",
+          "description": "Writing efficient SQL queries",
+          "target_qa": 100,
+          "focus_areas": [
+            "Query execution plans",
+            "JOIN optimization",
+            "Subquery vs JOIN",
+            "Avoiding N+1 queries"
+          ]
+        },
+        {
+          "name": "Query Execution Plans",
+          "description": "Understanding and analyzing execution plans",
+          "target_qa": 100,
+          "focus_areas": [
+            "Reading execution plans",
+            "Identifying bottlenecks",
+            "Table scans vs index seeks",
+            "Plan caching"
+          ]
+        },
+        {
+          "name": "Stored Procedures & Functions",
+          "description": "Server-side programming",
+          "target_qa": 100,
+          "focus_areas": [
+            "Stored procedure benefits",
+            "Functions vs procedures",
+            "Parameter handling",
+            "Performance considerations"
+          ]
+        },
+        {
+          "name": "Views & Materialized Views",
+          "description": "Virtual and materialized views",
+          "target_qa": 100,
+          "focus_areas": [
+            "View creation",
+            "Materialized views",
+            "Refresh strategies",
+            "Security with views"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 3,
+      "category": "Transactions & Concurrency",
+      "subcategory": "ACID Properties",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Transaction Management",
+          "description": "ACID properties and transaction control",
+          "target_qa": 100,
+          "focus_areas": [
+            "ACID principles",
+            "Transaction isolation levels",
+            "COMMIT and ROLLBACK",
+            "Savepoints"
+          ]
+        },
+        {
+          "name": "Locking & Concurrency",
+          "description": "Handling concurrent access",
+          "target_qa": 100,
+          "focus_areas": [
+            "Pessimistic vs optimistic locking",
+            "Lock types (shared, exclusive)",
+            "Deadlock detection",
+            "Lock escalation"
+          ]
+        },
+        {
+          "name": "Isolation Levels",
+          "description": "Transaction isolation strategies",
+          "target_qa": 100,
+          "focus_areas": [
+            "Read uncommitted",
+            "Read committed",
+            "Repeatable read",
+            "Serializable"
+          ]
+        },
+        {
+          "name": "Deadlock Prevention",
+          "description": "Avoiding and handling deadlocks",
+          "target_qa": 100,
+          "focus_areas": [
+            "Deadlock causes",
+            "Detection strategies",
+            "Prevention techniques",
+            "Resolution approaches"
+          ]
+        },
+        {
+          "name": "Multi-Version Concurrency Control",
+          "description": "MVCC implementation",
+          "target_qa": 100,
+          "focus_areas": [
+            "MVCC concepts",
+            "Snapshot isolation",
+            "Version management",
+            "Garbage collection"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 4,
+      "category": "Database Security",
+      "subcategory": "Access Control",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Authentication & Authorization",
+          "description": "User access control",
+          "target_qa": 100,
+          "focus_areas": [
+            "User management",
+            "Role-based access control",
+            "Permissions and privileges",
+            "Password policies"
+          ]
+        },
+        {
+          "name": "SQL Injection Prevention",
+          "description": "Protecting against SQL injection",
+          "target_qa": 100,
+          "focus_areas": [
+            "Parameterized queries",
+            "Input validation",
+            "Stored procedures",
+            "ORMs and security"
+          ]
+        },
+        {
+          "name": "Data Encryption",
+          "description": "Encrypting sensitive data",
+          "target_qa": 100,
+          "focus_areas": [
+            "Encryption at rest",
+            "Encryption in transit",
+            "Column-level encryption",
+            "Key management"
+          ]
+        },
+        {
+          "name": "Auditing & Compliance",
+          "description": "Tracking database access",
+          "target_qa": 100,
+          "focus_areas": [
+            "Audit logging",
+            "Compliance requirements (GDPR, HIPAA)",
+            "Change tracking",
+            "Data retention policies"
+          ]
+        },
+        {
+          "name": "Row-Level Security",
+          "description": "Fine-grained access control",
+          "target_qa": 100,
+          "focus_areas": [
+            "RLS policies",
+            "Multi-tenant security",
+            "Implementation patterns",
+            "Performance impact"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 5,
+      "category": "Backup & Recovery",
+      "subcategory": "Data Protection",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Backup Strategies",
+          "description": "Database backup approaches",
+          "target_qa": 100,
+          "focus_areas": [
+            "Full vs incremental backups",
+            "Differential backups",
+            "Backup scheduling",
+            "Backup verification"
+          ]
+        },
+        {
+          "name": "Point-in-Time Recovery",
+          "description": "Restoring to specific timestamps",
+          "target_qa": 100,
+          "focus_areas": [
+            "Transaction log backups",
+            "Recovery models",
+            "PITR procedures",
+            "Testing recovery"
+          ]
+        },
+        {
+          "name": "Disaster Recovery Planning",
+          "description": "Planning for catastrophic failures",
+          "target_qa": 100,
+          "focus_areas": [
+            "RTO and RPO",
+            "DR site setup",
+            "Failover procedures",
+            "DR testing"
+          ]
+        },
+        {
+          "name": "High Availability",
+          "description": "Ensuring database uptime",
+          "target_qa": 100,
+          "focus_areas": [
+            "Replication strategies",
+            "Failover clustering",
+            "Load balancing",
+            "Monitoring and alerts"
+          ]
+        },
+        {
+          "name": "Database Replication",
+          "description": "Master-slave and multi-master replication",
+          "target_qa": 100,
+          "focus_areas": [
+            "Replication types",
+            "Conflict resolution",
+            "Lag monitoring",
+            "Replication topologies"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 6,
+      "category": "NoSQL Databases",
+      "subcategory": "Document & Key-Value Stores",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "MongoDB Design Patterns",
+          "description": "Document database modeling",
+          "target_qa": 100,
+          "focus_areas": [
+            "Embedding vs referencing",
+            "Schema design",
+            "Indexing strategies",
+            "Aggregation pipeline"
+          ]
+        },
+        {
+          "name": "Redis Patterns",
+          "description": "Key-value store patterns",
+          "target_qa": 100,
+          "focus_areas": [
+            "Data structures (strings, lists, sets)",
+            "Caching strategies",
+            "Pub/sub patterns",
+            "Persistence options"
+          ]
+        },
+        {
+          "name": "CAP Theorem",
+          "description": "Consistency, availability, partition tolerance",
+          "target_qa": 100,
+          "focus_areas": [
+            "CAP trade-offs",
+            "Eventual consistency",
+            "Choosing the right database",
+            "Conflict resolution"
+          ]
+        },
+        {
+          "name": "DynamoDB Design",
+          "description": "AWS NoSQL database patterns",
+          "target_qa": 100,
+          "focus_areas": [
+            "Partition keys",
+            "Sort keys",
+            "Global secondary indexes",
+            "Single-table design"
+          ]
+        },
+        {
+          "name": "Graph Databases",
+          "description": "Neo4j and graph modeling",
+          "target_qa": 100,
+          "focus_areas": [
+            "Node and relationship modeling",
+            "Cypher query language",
+            "Graph algorithms",
+            "Use cases"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 7,
+      "category": "Data Warehousing",
+      "subcategory": "Analytics",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Star Schema Design",
+          "description": "Dimensional modeling",
+          "target_qa": 100,
+          "focus_areas": [
+            "Fact tables",
+            "Dimension tables",
+            "Slowly changing dimensions",
+            "Conformed dimensions"
+          ]
+        },
+        {
+          "name": "ETL Processes",
+          "description": "Extract, transform, load pipelines",
+          "target_qa": 100,
+          "focus_areas": [
+            "ETL vs ELT",
+            "Data transformation",
+            "Error handling",
+            "Incremental loads"
+          ]
+        },
+        {
+          "name": "Columnar Databases",
+          "description": "Column-oriented storage",
+          "target_qa": 100,
+          "focus_areas": [
+            "Columnar vs row storage",
+            "Compression techniques",
+            "Query optimization",
+            "Use cases"
+          ]
+        },
+        {
+          "name": "OLAP vs OLTP",
+          "description": "Analytical vs transactional workloads",
+          "target_qa": 100,
+          "focus_areas": [
+            "Workload characteristics",
+            "Database design differences",
+            "Optimization strategies",
+            "Hybrid systems"
+          ]
+        },
+        {
+          "name": "Data Lake Architecture",
+          "description": "Modern data lake patterns",
+          "target_qa": 100,
+          "focus_areas": [
+            "Data lake vs warehouse",
+            "File formats (Parquet, Avro)",
+            "Partitioning strategies",
+            "Data governance"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 8,
+      "category": "Database Administration",
+      "subcategory": "DBA Tasks",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Performance Monitoring",
+          "description": "Monitoring database health",
+          "target_qa": 100,
+          "focus_areas": [
+            "Key metrics to monitor",
+            "Monitoring tools",
+            "Alert configuration",
+            "Capacity planning"
+          ]
+        },
+        {
+          "name": "Index Maintenance",
+          "description": "Index rebuilding and optimization",
+          "target_qa": 100,
+          "focus_areas": [
+            "Fragmentation detection",
+            "Rebuild vs reorganize",
+            "Maintenance windows",
+            "Statistics updates"
+          ]
+        },
+        {
+          "name": "Database Migrations",
+          "description": "Schema and data migrations",
+          "target_qa": 100,
+          "focus_areas": [
+            "Migration tools",
+            "Zero-downtime migrations",
+            "Rollback strategies",
+            "Version control"
+          ]
+        },
+        {
+          "name": "Partitioning",
+          "description": "Table and index partitioning",
+          "target_qa": 100,
+          "focus_areas": [
+            "Partitioning strategies",
+            "Partition pruning",
+            "Range vs list partitioning",
+            "Partition maintenance"
+          ]
+        },
+        {
+          "name": "Database Upgrades",
+          "description": "Upgrading database versions",
+          "target_qa": 100,
+          "focus_areas": [
+            "Compatibility testing",
+            "Upgrade paths",
+            "Downtime minimization",
+            "Post-upgrade validation"
+          ]
+        }
+      ]
+    }
+  ]
+}

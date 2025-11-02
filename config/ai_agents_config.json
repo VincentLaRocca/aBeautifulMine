@@ -1,0 +1,656 @@
+{
+  "domain": {
+    "name": "AI Agents & Autonomous Systems",
+    "id": "ai_agents",
+    "description": "Comprehensive knowledge base covering AI agent design, multi-agent systems, and autonomous behaviors",
+    "target_qa_total": 6000
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "category": "Agent Fundamentals",
+      "subcategory": "Core Concepts",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Agent Architecture",
+          "description": "Basic agent design patterns",
+          "target_qa": 100,
+          "focus_areas": [
+            "Reactive agents",
+            "Deliberative agents",
+            "Hybrid architectures",
+            "BDI (Belief-Desire-Intention) model"
+          ],
+          "example_questions": [
+            "What is the difference between reactive and deliberative agents?",
+            "How does the BDI model work?",
+            "When should you use a hybrid architecture?"
+          ]
+        },
+        {
+          "name": "Perception & Sensing",
+          "description": "Agent environment observation",
+          "target_qa": 100,
+          "focus_areas": [
+            "Sensor integration",
+            "State estimation",
+            "Perception pipelines",
+            "Noise filtering"
+          ]
+        },
+        {
+          "name": "Action Selection",
+          "description": "Decision-making mechanisms",
+          "target_qa": 100,
+          "focus_areas": [
+            "Policy-based selection",
+            "Utility-based decisions",
+            "Rule-based systems",
+            "Learning-based approaches"
+          ]
+        },
+        {
+          "name": "Agent Communication",
+          "description": "Inter-agent messaging",
+          "target_qa": 100,
+          "focus_areas": [
+            "Message protocols",
+            "FIPA standards",
+            "Ontologies",
+            "Communication patterns"
+          ]
+        },
+        {
+          "name": "Agent Lifecycle",
+          "description": "Agent spawning, execution, termination",
+          "target_qa": 100,
+          "focus_areas": [
+            "Initialization",
+            "State management",
+            "Graceful shutdown",
+            "Resource cleanup"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 2,
+      "category": "LLM-Based Agents",
+      "subcategory": "Language Model Agents",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Prompt Engineering for Agents",
+          "description": "Designing effective agent prompts",
+          "target_qa": 100,
+          "focus_areas": [
+            "System prompts",
+            "Role definition",
+            "Few-shot examples",
+            "Chain-of-thought prompting"
+          ]
+        },
+        {
+          "name": "ReAct Pattern",
+          "description": "Reasoning and acting interleaved",
+          "target_qa": 100,
+          "focus_areas": [
+            "Thought-action-observation cycle",
+            "Tool integration",
+            "Error recovery",
+            "Implementation patterns"
+          ]
+        },
+        {
+          "name": "Tool Use & Function Calling",
+          "description": "Enabling agents to use external tools",
+          "target_qa": 100,
+          "focus_areas": [
+            "Function calling API",
+            "Tool descriptions",
+            "Parameter validation",
+            "Result integration"
+          ]
+        },
+        {
+          "name": "Memory Systems",
+          "description": "Agent memory architectures",
+          "target_qa": 100,
+          "focus_areas": [
+            "Short-term vs long-term memory",
+            "Vector databases for memory",
+            "Episodic memory",
+            "Semantic memory"
+          ]
+        },
+        {
+          "name": "Agent Planning",
+          "description": "Multi-step task planning",
+          "target_qa": 100,
+          "focus_areas": [
+            "Task decomposition",
+            "Plan generation",
+            "Plan execution",
+            "Plan revision"
+          ]
+        },
+        {
+          "name": "Self-Reflection & Critique",
+          "description": "Agent self-evaluation",
+          "target_qa": 100,
+          "focus_areas": [
+            "Output critique",
+            "Self-improvement loops",
+            "Quality assessment",
+            "Iterative refinement"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 3,
+      "category": "Multi-Agent Systems",
+      "subcategory": "Agent Coordination",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Agent Coordination Mechanisms",
+          "description": "Coordinating multiple agents",
+          "target_qa": 100,
+          "focus_areas": [
+            "Centralized vs decentralized",
+            "Coordination protocols",
+            "Task allocation",
+            "Conflict resolution"
+          ]
+        },
+        {
+          "name": "Agent Communication Patterns",
+          "description": "Multi-agent messaging",
+          "target_qa": 100,
+          "focus_areas": [
+            "Broadcast vs unicast",
+            "Publish-subscribe",
+            "Request-reply",
+            "Message queues"
+          ]
+        },
+        {
+          "name": "Negotiation & Bargaining",
+          "description": "Agent negotiation strategies",
+          "target_qa": 100,
+          "focus_areas": [
+            "Negotiation protocols",
+            "Bargaining strategies",
+            "Coalition formation",
+            "Auction mechanisms"
+          ]
+        },
+        {
+          "name": "Consensus Algorithms",
+          "description": "Reaching agreement among agents",
+          "target_qa": 100,
+          "focus_areas": [
+            "Voting mechanisms",
+            "Consensus protocols",
+            "Byzantine fault tolerance",
+            "Distributed decision-making"
+          ]
+        },
+        {
+          "name": "Emergent Behavior",
+          "description": "Collective intelligence patterns",
+          "target_qa": 100,
+          "focus_areas": [
+            "Swarm intelligence",
+            "Self-organization",
+            "Stigmergy",
+            "Collective decision-making"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 4,
+      "category": "Agent Learning",
+      "subcategory": "Reinforcement Learning",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Q-Learning & DQN",
+          "description": "Value-based reinforcement learning",
+          "target_qa": 100,
+          "focus_areas": [
+            "Q-learning algorithm",
+            "Deep Q-Networks",
+            "Experience replay",
+            "Target networks"
+          ]
+        },
+        {
+          "name": "Policy Gradient Methods",
+          "description": "Direct policy optimization",
+          "target_qa": 100,
+          "focus_areas": [
+            "REINFORCE algorithm",
+            "Actor-critic methods",
+            "PPO (Proximal Policy Optimization)",
+            "Advantage estimation"
+          ]
+        },
+        {
+          "name": "Multi-Agent Reinforcement Learning",
+          "description": "Learning in multi-agent environments",
+          "target_qa": 100,
+          "focus_areas": [
+            "Independent learners",
+            "Centralized training decentralized execution",
+            "Communication learning",
+            "Credit assignment"
+          ]
+        },
+        {
+          "name": "Transfer Learning for Agents",
+          "description": "Transferring knowledge across tasks",
+          "target_qa": 100,
+          "focus_areas": [
+            "Task similarity",
+            "Feature transfer",
+            "Policy transfer",
+            "Meta-learning"
+          ]
+        },
+        {
+          "name": "Curriculum Learning",
+          "description": "Progressive task difficulty",
+          "target_qa": 100,
+          "focus_areas": [
+            "Curriculum design",
+            "Automatic curriculum generation",
+            "Task sequencing",
+            "Performance tracking"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 5,
+      "category": "Agent Safety & Alignment",
+      "subcategory": "Responsible AI",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Reward Hacking Prevention",
+          "description": "Avoiding misaligned optimization",
+          "target_qa": 100,
+          "focus_areas": [
+            "Reward specification",
+            "Goodhart's law",
+            "Reward modeling",
+            "Adversarial testing"
+          ]
+        },
+        {
+          "name": "Agent Robustness",
+          "description": "Handling adversarial scenarios",
+          "target_qa": 100,
+          "focus_areas": [
+            "Adversarial attacks",
+            "Robustness testing",
+            "Defensive mechanisms",
+            "Fault tolerance"
+          ]
+        },
+        {
+          "name": "Explainability & Interpretability",
+          "description": "Understanding agent decisions",
+          "target_qa": 100,
+          "focus_areas": [
+            "Decision logging",
+            "Explanation generation",
+            "Attention visualization",
+            "Counterfactual explanations"
+          ]
+        },
+        {
+          "name": "Value Alignment",
+          "description": "Aligning agent goals with human values",
+          "target_qa": 100,
+          "focus_areas": [
+            "Inverse reinforcement learning",
+            "Preference learning",
+            "Human feedback integration",
+            "Value learning frameworks"
+          ]
+        },
+        {
+          "name": "Agent Monitoring & Control",
+          "description": "Oversight mechanisms",
+          "target_qa": 100,
+          "focus_areas": [
+            "Real-time monitoring",
+            "Kill switches",
+            "Behavioral bounds",
+            "Audit logging"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 6,
+      "category": "Autonomous Systems",
+      "subcategory": "Real-World Applications",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Robotic Process Automation",
+          "description": "Software automation agents",
+          "target_qa": 100,
+          "focus_areas": [
+            "UI automation",
+            "Workflow automation",
+            "Error handling",
+            "Process mining"
+          ]
+        },
+        {
+          "name": "Autonomous Vehicles",
+          "description": "Self-driving agent systems",
+          "target_qa": 100,
+          "focus_areas": [
+            "Perception systems",
+            "Path planning",
+            "Control systems",
+            "Safety protocols"
+          ]
+        },
+        {
+          "name": "Trading Agents",
+          "description": "Algorithmic trading systems",
+          "target_qa": 100,
+          "focus_areas": [
+            "Market analysis",
+            "Order execution",
+            "Risk management",
+            "Portfolio optimization"
+          ]
+        },
+        {
+          "name": "Game-Playing Agents",
+          "description": "Agents for strategic games",
+          "target_qa": 100,
+          "focus_areas": [
+            "Minimax algorithms",
+            "Monte Carlo Tree Search",
+            "AlphaZero approach",
+            "Self-play"
+          ]
+        },
+        {
+          "name": "Customer Service Agents",
+          "description": "Conversational AI agents",
+          "target_qa": 100,
+          "focus_areas": [
+            "Intent recognition",
+            "Dialogue management",
+            "Knowledge retrieval",
+            "Human handoff"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 7,
+      "category": "Agent Frameworks & Tools",
+      "subcategory": "Implementation",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "LangChain Agents",
+          "description": "Building agents with LangChain",
+          "target_qa": 100,
+          "focus_areas": [
+            "Agent types (ReAct, Conversational)",
+            "Tool integration",
+            "Memory management",
+            "Custom agent creation"
+          ]
+        },
+        {
+          "name": "AutoGPT & BabyAGI",
+          "description": "Autonomous agent frameworks",
+          "target_qa": 100,
+          "focus_areas": [
+            "Task generation",
+            "Task prioritization",
+            "Task execution",
+            "Recursive improvement"
+          ]
+        },
+        {
+          "name": "Agent Communication Middleware",
+          "description": "Message brokers and protocols",
+          "target_qa": 100,
+          "focus_areas": [
+            "ROS (Robot Operating System)",
+            "MQTT",
+            "WebSockets",
+            "gRPC"
+          ]
+        },
+        {
+          "name": "Agent Simulation Environments",
+          "description": "Testing and training environments",
+          "target_qa": 100,
+          "focus_areas": [
+            "OpenAI Gym",
+            "PettingZoo (multi-agent)",
+            "Custom environments",
+            "Simulation fidelity"
+          ]
+        },
+        {
+          "name": "Agent Deployment",
+          "description": "Productionizing agents",
+          "target_qa": 100,
+          "focus_areas": [
+            "Containerization",
+            "Scaling strategies",
+            "API design",
+            "Monitoring and logging"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 8,
+      "category": "Advanced Agent Patterns",
+      "subcategory": "Specialized Architectures",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Hierarchical Agents",
+          "description": "Multi-level agent hierarchies",
+          "target_qa": 100,
+          "focus_areas": [
+            "Task decomposition",
+            "Abstraction levels",
+            "Manager-worker patterns",
+            "Hierarchical reinforcement learning"
+          ]
+        },
+        {
+          "name": "Modular Agents",
+          "description": "Composable agent systems",
+          "target_qa": 100,
+          "focus_areas": [
+            "Module design",
+            "Interface contracts",
+            "Module composition",
+            "Dynamic reconfiguration"
+          ]
+        },
+        {
+          "name": "Evolutionary Agents",
+          "description": "Agent evolution and adaptation",
+          "target_qa": 100,
+          "focus_areas": [
+            "Genetic algorithms",
+            "Evolution strategies",
+            "Population-based training",
+            "Fitness functions"
+          ]
+        },
+        {
+          "name": "Hybrid Neural-Symbolic Agents",
+          "description": "Combining neural and symbolic reasoning",
+          "target_qa": 100,
+          "focus_areas": [
+            "Knowledge graphs",
+            "Logic reasoning",
+            "Neural-symbolic integration",
+            "Explainability benefits"
+          ]
+        },
+        {
+          "name": "Meta-Agents",
+          "description": "Agents that manage other agents",
+          "target_qa": 100,
+          "focus_areas": [
+            "Agent selection",
+            "Agent composition",
+            "Performance monitoring",
+            "Dynamic orchestration"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 9,
+      "category": "Agent Evaluation",
+      "subcategory": "Testing & Benchmarks",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Performance Metrics",
+          "description": "Measuring agent effectiveness",
+          "target_qa": 100,
+          "focus_areas": [
+            "Success rate",
+            "Task completion time",
+            "Resource efficiency",
+            "Adaptability measures"
+          ]
+        },
+        {
+          "name": "Benchmark Environments",
+          "description": "Standard evaluation tasks",
+          "target_qa": 100,
+          "focus_areas": [
+            "Atari games",
+            "MuJoCo physics",
+            "WebShop",
+            "Custom benchmarks"
+          ]
+        },
+        {
+          "name": "Agent Testing Strategies",
+          "description": "Comprehensive testing approaches",
+          "target_qa": 100,
+          "focus_areas": [
+            "Unit testing",
+            "Integration testing",
+            "Scenario testing",
+            "Stress testing"
+          ]
+        },
+        {
+          "name": "A/B Testing Agents",
+          "description": "Comparing agent versions",
+          "target_qa": 100,
+          "focus_areas": [
+            "Experimental design",
+            "Statistical significance",
+            "Multi-armed bandits",
+            "Champion-challenger"
+          ]
+        },
+        {
+          "name": "Human Evaluation",
+          "description": "Human-in-the-loop assessment",
+          "target_qa": 100,
+          "focus_areas": [
+            "User studies",
+            "Expert evaluation",
+            "Preference collection",
+            "Quality assurance"
+          ]
+        }
+      ]
+    },
+    {
+      "session_number": 10,
+      "category": "Ethical & Social Considerations",
+      "subcategory": "Responsible Agent Design",
+      "target_qa": 100,
+      "topics": [
+        {
+          "name": "Privacy-Preserving Agents",
+          "description": "Protecting user privacy",
+          "target_qa": 100,
+          "focus_areas": [
+            "Differential privacy",
+            "Federated learning",
+            "Data minimization",
+            "Secure computation"
+          ]
+        },
+        {
+          "name": "Fair Agent Behavior",
+          "description": "Ensuring fairness in decisions",
+          "target_qa": 100,
+          "focus_areas": [
+            "Bias detection",
+            "Fairness metrics",
+            "Debiasing techniques",
+            "Equitable outcomes"
+          ]
+        },
+        {
+          "name": "Transparent Agent Actions",
+          "description": "Agent transparency and accountability",
+          "target_qa": 100,
+          "focus_areas": [
+            "Decision logging",
+            "Explanation interfaces",
+            "Audit trails",
+            "Accountability frameworks"
+          ]
+        },
+        {
+          "name": "Human-Agent Collaboration",
+          "description": "Effective human-agent interaction",
+          "target_qa": 100,
+          "focus_areas": [
+            "Handoff protocols",
+            "Collaborative decision-making",
+            "Trust calibration",
+            "Shared autonomy"
+          ]
+        },
+        {
+          "name": "Regulatory Compliance",
+          "description": "Meeting legal and ethical requirements",
+          "target_qa": 100,
+          "focus_areas": [
+            "AI regulations",
+            "Compliance frameworks",
+            "Documentation requirements",
+            "Certification processes"
+          ]
+        }
+      ]
+    }
+  ]
+}
