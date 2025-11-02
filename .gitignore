@@ -1,0 +1,57 @@
+# Database files (contains production data)
+*.db
+*.sqlite
+*.sqlite3
+
+# Large RAG export files (>100MB)
+*_rag_export_*.json
+qa_pairs_rag_export*.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Sensitive or personal data
+*credentials*
+*secrets*
+*api_key*
+
+# Large parsed data directory (optional - uncomment if too large)
+# parsed_qa_data/
+
+# Droid's working directories (if included)
+# inbox/droid/processed/
+# inbox/droid/*.txt
+
+# Backup files
+*.bak
+*.backup
