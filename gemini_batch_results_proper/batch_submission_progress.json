@@ -1,0 +1,307 @@
+{
+  "submission_date": "2025-11-02",
+  "total_requested": 204,
+  "total_submitted": 35,
+  "batches_successfully_created": [
+    {
+      "batch_number": 11,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/iinrcvj72uef",
+      "batch_name": "batches/gield77ir0zinuk5hdzg3pzsfulrigmy57qq",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 12,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/6of2x14k5bo8",
+      "batch_name": "batches/86kxgr3kxz3gam514b6zo06nkaaa2z4w0ots",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 13,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/itzrk0fcyact",
+      "batch_name": "batches/x4pe02b4mxpglw5149rl07zu1746ihbc34x3",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 14,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/suluecxwmnrd",
+      "batch_name": "batches/dobrrg43inh27gm5onh6yhbzho7dgwe6346y",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 15,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/amwqlzte8jiq",
+      "batch_name": "batches/96ali0pvrw5idjbvop1mfnltlzffvb4j2ukr",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 16,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/thgj5ww1muyo",
+      "batch_name": "batches/8ryx92e443tgi6t7rxr0ogx0x4jdo2ddusij",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 17,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/ahom8bf37uay",
+      "batch_name": "batches/50ix8q2wj8f1rfmz7wnjf4gy447sqx6q1uhm",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 18,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/e5xbb6yg05ha",
+      "batch_name": "batches/tsrtbf33h5t93ag0pnpvkrpex6ojdjtr3a46",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 19,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/ndiycjamll48",
+      "batch_name": "batches/7cdlbrfx9nh3nuqojr3iivua65j4jwqhnk5a",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 20,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/jisnybhylq7l",
+      "batch_name": "batches/jn2bpj72z8borb7fj132cn7w99faz1vrqjwo",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 21,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/vr8akgwj856v",
+      "batch_name": "batches/p6ww2x7329569eamiizv6uj7ggpbzo7kn9yc",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 22,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/hydnviwbtd1f",
+      "batch_name": "batches/bc5d25atpharq66haflcnmh9j92v78jhkr4p",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 23,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/ekrp3dfws1km",
+      "batch_name": "batches/qydbzj8h9y3ykn0lt1bngv2wocwo33dte3y7",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 24,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/f31pnxdfc49u",
+      "batch_name": "batches/byn9dp4it6gxz4d3xj8r3a6pead77ducy90r",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 25,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/h0dxm1aoja10",
+      "batch_name": "batches/m51v32t97fs8lnp8aesje6qa4du7p3fsein3",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 26,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/r3t702q5to0o",
+      "batch_name": "batches/nroiz93k2ift2z5v0cte03i3z2f954htrx7g",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 27,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/rbqjq0nk3t63",
+      "batch_name": "batches/nztx3hz14xn15vh5v4mokpf68ddlwtsqboo7",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 28,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/dsk8g2m17r2t",
+      "batch_name": "batches/pl1e58p59g0alpptsqqrfkv87uzlu5cs8hkg",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 29,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/74q7p548q372",
+      "batch_name": "batches/9d0po3gntcjhfju610effhnrf5v8pwo0i4b7",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 30,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/gse393td1amk",
+      "batch_name": "batches/tcxorb6o53pirvkfhd7j2b95f9cg6w0harxc",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 31,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/c0ch5bvnt07d",
+      "batch_name": "batches/sn6webzobhjezi5gsmgti49xe6il3xc6mupw",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 32,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/g3v2hv01huy7",
+      "batch_name": "batches/2xdqgmsupm6x3gpaj8s9op565d6ff7iqatxt",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 33,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/npv7zit0d7ry",
+      "batch_name": "batches/5eqcs1d9r0o651p0s9yi2rht5gf8vqycwz2n",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 34,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/30onzu6hw6u0",
+      "batch_name": "batches/d2idrdq0a6qaqi7h5dovbfj5ngkvkgedl46j",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 35,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/wploalqwsu57",
+      "batch_name": "batches/pg6aiyi0sv4kantz27t650hmx96jqef2m6j2",
+      "state": "JOB_STATE_PENDING",
+      "qa_count": 100
+    }
+  ],
+  "batches_uploaded_pending_job_creation": [
+    {
+      "batch_number": 36,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/fru4pditlrvq",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 37,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/jhabn0m77x30",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 38,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/rzbv056r3zxe",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 39,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/nvbq1nmx7zsj",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 40,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/idjq5hbyi89l",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 41,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/gscmwkyjpver",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 42,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/evk18mu2xxj3",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 43,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/dztk8u8dwktv",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 44,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/v4ysvime26mo",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 45,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/210hkkuj5bf7",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 46,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/ejcb10kkx8m5",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 47,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/quahbw3pgzka",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 48,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/vwrwvxeqiw3c",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 49,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/j9i05hzvjrpe",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    },
+    {
+      "batch_number": 50,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/u71rh777ux0g",
+      "batch_name": null,
+      "state": "FILE_UPLOADED",
+      "qa_count": 100
+    }
+  ],
+  "batches_not_yet_processed": {
+    "start": 51,
+    "end": 204,
+    "count": 154
+  },
+  "error_summary": {
+    "error_type": "RESOURCE_EXHAUSTED",
+    "error_code": 429,
+    "message": "Quota exceeded - billing/plan limit reached",
+    "occurred_at_batch": 36,
+    "recommendation": "Check Gemini API billing and quota limits at https://ai.dev/usage?tab=rate-limit"
+  },
+  "next_steps": [
+    "Check Gemini API quota and billing status",
+    "Wait for quota reset or upgrade plan",
+    "Resume by creating batch jobs for batches 36-50 (files already uploaded)",
+    "Then continue with batches 51-204 (upload and create jobs)"
+  ]
+}

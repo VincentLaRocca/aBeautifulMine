@@ -1,0 +1,217 @@
+Category	Subcategory	Indicator
+Price-Based Technical Indicators	Trend Indicators	Simple Moving Average (SMA)
+Price-Based Technical Indicators	Trend Indicators	Exponential Moving Average (EMA)
+Price-Based Technical Indicators	Trend Indicators	Weighted Moving Average (WMA)
+Price-Based Technical Indicators	Trend Indicators	Moving Average Convergence Divergence (MACD)
+Price-Based Technical Indicators	Trend Indicators	Average Directional Index (ADX)
+Price-Based Technical Indicators	Trend Indicators	Parabolic SAR
+Price-Based Technical Indicators	Trend Indicators	Ichimoku Cloud (Tenkan-sen)
+Price-Based Technical Indicators	Trend Indicators	Ichimoku Cloud (Kijun-sen)
+Price-Based Technical Indicators	Trend Indicators	Ichimoku Cloud (Senkou Span A)
+Price-Based Technical Indicators	Trend Indicators	Ichimoku Cloud (Senkou Span B)
+Price-Based Technical Indicators	Trend Indicators	Ichimoku Cloud (Chikou Span)
+Price-Based Technical Indicators	Trend Indicators	Aroon Indicator
+Price-Based Technical Indicators	Trend Indicators	Vortex Indicator
+Price-Based Technical Indicators	Momentum Indicators	Relative Strength Index (RSI)
+Price-Based Technical Indicators	Momentum Indicators	Stochastic Oscillator (Fast)
+Price-Based Technical Indicators	Momentum Indicators	Stochastic Oscillator (Slow)
+Price-Based Technical Indicators	Momentum Indicators	Stochastic Oscillator (Full)
+Price-Based Technical Indicators	Momentum Indicators	Rate of Change (ROC)
+Price-Based Technical Indicators	Momentum Indicators	Commodity Channel Index (CCI)
+Price-Based Technical Indicators	Momentum Indicators	Williams %R
+Price-Based Technical Indicators	Momentum Indicators	Momentum Indicator
+Price-Based Technical Indicators	Momentum Indicators	Ultimate Oscillator
+Price-Based Technical Indicators	Momentum Indicators	Know Sure Thing (KST)
+Price-Based Technical Indicators	Volatility Indicators	Bollinger Bands
+Price-Based Technical Indicators	Volatility Indicators	Average True Range (ATR)
+Price-Based Technical Indicators	Volatility Indicators	Keltner Channels
+Price-Based Technical Indicators	Volatility Indicators	Donchian Channels
+Price-Based Technical Indicators	Volatility Indicators	Standard Deviation
+Price-Based Technical Indicators	Volatility Indicators	Historical Volatility
+Price-Based Technical Indicators	Volatility Indicators	Chaikin Volatility
+Price-Based Technical Indicators	Volume Indicators	On-Balance Volume (OBV)
+Price-Based Technical Indicators	Volume Indicators	Volume Weighted Average Price (VWAP)
+Price-Based Technical Indicators	Volume Indicators	Chaikin Money Flow (CMF)
+Price-Based Technical Indicators	Volume Indicators	Money Flow Index (MFI)
+Price-Based Technical Indicators	Volume Indicators	Accumulation/Distribution Line
+Price-Based Technical Indicators	Volume Indicators	Volume Rate of Change
+Price-Based Technical Indicators	Volume Indicators	Ease of Movement (EOM)
+Price-Based Technical Indicators	Volume Indicators	Force Index
+Price-Based Technical Indicators	Volume Indicators	Negative Volume Index (NVI)
+Price-Based Technical Indicators	Volume Indicators	Positive Volume Index (PVI)
+On-Chain Indicators	Network Activity Metrics	Active Addresses (Daily)
+On-Chain Indicators	Network Activity Metrics	Active Addresses (Weekly)
+On-Chain Indicators	Network Activity Metrics	Active Addresses (Monthly)
+On-Chain Indicators	Network Activity Metrics	New Addresses Created
+On-Chain Indicators	Network Activity Metrics	Transaction Count (Total)
+On-Chain Indicators	Network Activity Metrics	Transaction Count (Per Block)
+On-Chain Indicators	Network Activity Metrics	Transaction Count (Per Day)
+On-Chain Indicators	Network Activity Metrics	Transaction Volume (Total Value Transferred)
+On-Chain Indicators	Network Activity Metrics	Mean Transaction Value
+On-Chain Indicators	Network Activity Metrics	Median Transaction Value
+On-Chain Indicators	Network Activity Metrics	Transaction Velocity
+On-Chain Indicators	Network Activity Metrics	Network Hash Rate (PoW chains)
+On-Chain Indicators	Network Activity Metrics	Network Staking Rate (PoS chains)
+On-Chain Indicators	Supply Metrics	Circulating Supply
+On-Chain Indicators	Supply Metrics	Total Supply
+On-Chain Indicators	Supply Metrics	Maximum Supply
+On-Chain Indicators	Supply Metrics	Inflation Rate
+On-Chain Indicators	Supply Metrics	Burn Rate (deflationary tokens)
+On-Chain Indicators	Supply Metrics	Supply on Exchanges (% of circulating)
+On-Chain Indicators	Supply Metrics	Supply in Smart Contracts
+On-Chain Indicators	Supply Metrics	Dormant Supply (coins not moved in X days)
+On-Chain Indicators	HODL Metrics	HODLer Net Position Change
+On-Chain Indicators	HODL Metrics	HODL Waves (Age distribution of UTXOs)
+On-Chain Indicators	HODL Metrics	Coin Days Destroyed (CDD)
+On-Chain Indicators	HODL Metrics	Average Coin Age
+On-Chain Indicators	HODL Metrics	Liveliness (ratio of CDD to total coin days)
+On-Chain Indicators	HODL Metrics	Entity-Adjusted Dormancy Flow
+On-Chain Indicators	Profit/Loss Metrics	MVRV Ratio (Market Value to Realized Value)
+On-Chain Indicators	Profit/Loss Metrics	NUPL (Net Unrealized Profit/Loss)
+On-Chain Indicators	Profit/Loss Metrics	SOPR (Spent Output Profit Ratio)
+On-Chain Indicators	Profit/Loss Metrics	aSOPR (Adjusted SOPR)
+On-Chain Indicators	Profit/Loss Metrics	Reserve Risk
+On-Chain Indicators	Profit/Loss Metrics	Puell Multiple
+On-Chain Indicators	Profit/Loss Metrics	Realized Price
+On-Chain Indicators	Profit/Loss Metrics	Unrealized Profit/Loss
+On-Chain Indicators	Holder Behavior	Exchange Inflow
+On-Chain Indicators	Holder Behavior	Exchange Outflow
+On-Chain Indicators	Holder Behavior	Exchange Net Position Change
+On-Chain Indicators	Holder Behavior	Exchange Reserve
+On-Chain Indicators	Holder Behavior	Whale Wallet Activity
+On-Chain Indicators	Holder Behavior	Large Transaction Volume (>$100K)
+On-Chain Indicators	Holder Behavior	Binary Coin Days Destroyed (CDD)
+On-Chain Indicators	Holder Behavior	Supply Held by Top Addresses (Top 1%)
+On-Chain Indicators	Holder Behavior	Supply Held by Top Addresses (Top 10%)
+On-Chain Indicators	Holder Behavior	Gini Coefficient (wealth distribution)
+On-Chain Indicators	Mining & Staking Metrics	Hash Ribbons
+On-Chain Indicators	Mining & Staking Metrics	Difficulty Adjustment
+On-Chain Indicators	Mining & Staking Metrics	Mining Revenue
+On-Chain Indicators	Mining & Staking Metrics	Miner Net Position Change
+On-Chain Indicators	Mining & Staking Metrics	Miner to Exchange Flow
+On-Chain Indicators	Mining & Staking Metrics	Hash Rate Momentum
+On-Chain Indicators	Mining & Staking Metrics	Staking Yield (PoS)
+On-Chain Indicators	Mining & Staking Metrics	Staking Participation Rate
+On-Chain Indicators	Mining & Staking Metrics	Validator Count
+Valuation Metrics	Network Value Metrics	Network Value to Transactions (NVT) Ratio
+Valuation Metrics	Network Value Metrics	NVT Signal
+Valuation Metrics	Network Value Metrics	Network Value to Metcalfe (NVM) Ratio
+Valuation Metrics	Network Value Metrics	Market Cap to Thermocap Ratio
+Valuation Metrics	Network Value Metrics	Market Cap to Realized Cap Ratio (MVRV)
+Valuation Metrics	Network Value Metrics	Price to Network Value
+Valuation Metrics	Stock-to-Flow Models	Stock-to-Flow (S2F) Ratio
+Valuation Metrics	Stock-to-Flow Models	Stock-to-Flow Deflection
+Valuation Metrics	Stock-to-Flow Models	Stock-to-Flow Model Price
+Valuation Metrics	Realized Metrics	Realized Cap
+Valuation Metrics	Realized Metrics	Realized Price
+Valuation Metrics	Realized Metrics	Realized Profit/Loss
+Valuation Metrics	Realized Metrics	Realized Volatility
+Market Sentiment Indicators	Fear & Greed	Crypto Fear & Greed Index
+Market Sentiment Indicators	Fear & Greed	Bitcoin Fear & Greed Index
+Market Sentiment Indicators	Fear & Greed	Alt Season Index
+Market Sentiment Indicators	Social Metrics	Twitter/X Mentions Volume
+Market Sentiment Indicators	Social Metrics	Twitter Sentiment Analysis
+Market Sentiment Indicators	Social Metrics	Reddit Activity (posts)
+Market Sentiment Indicators	Social Metrics	Reddit Activity (comments)
+Market Sentiment Indicators	Social Metrics	Reddit Activity (subscribers)
+Market Sentiment Indicators	Social Metrics	Telegram/Discord Activity
+Market Sentiment Indicators	Social Metrics	Google Trends Search Volume
+Market Sentiment Indicators	Social Metrics	Social Dominance
+Market Sentiment Indicators	Social Metrics	Social Volume
+Market Sentiment Indicators	Social Metrics	Weighted Sentiment
+Market Sentiment Indicators	Funding & Derivatives	Funding Rates (perpetual futures)
+Market Sentiment Indicators	Funding & Derivatives	Open Interest (futures/options)
+Market Sentiment Indicators	Funding & Derivatives	Long/Short Ratio
+Market Sentiment Indicators	Funding & Derivatives	Options Put/Call Ratio
+Market Sentiment Indicators	Funding & Derivatives	Liquidation Data (long liquidations)
+Market Sentiment Indicators	Funding & Derivatives	Liquidation Data (short liquidations)
+Market Sentiment Indicators	Funding & Derivatives	Basis Spread
+Market Sentiment Indicators	Funding & Derivatives	Term Structure (contango/backwardation)
+Market Sentiment Indicators	Funding & Derivatives	Implied Volatility
+Market Sentiment Indicators	Funding & Derivatives	Options Greeks (Delta)
+Market Sentiment Indicators	Funding & Derivatives	Options Greeks (Gamma)
+Market Sentiment Indicators	Funding & Derivatives	Options Greeks (Theta)
+Market Sentiment Indicators	Funding & Derivatives	Options Greeks (Vega)
+Market Sentiment Indicators	Institutional & Whale Activity	Grayscale Premium/Discount
+Market Sentiment Indicators	Institutional & Whale Activity	ETF Flows (net inflows/outflows)
+Market Sentiment Indicators	Institutional & Whale Activity	Institutional Holdings
+Market Sentiment Indicators	Institutional & Whale Activity	Whale Alert Transactions
+Market Sentiment Indicators	Institutional & Whale Activity	CME Futures Open Interest
+Market Sentiment Indicators	Institutional & Whale Activity	CME Gaps
+DeFi-Specific Indicators	Protocol Metrics	Total Value Locked (TVL)
+DeFi-Specific Indicators	Protocol Metrics	TVL Ratio (Market Cap / TVL)
+DeFi-Specific Indicators	Protocol Metrics	Protocol Revenue
+DeFi-Specific Indicators	Protocol Metrics	Protocol Fees
+DeFi-Specific Indicators	Protocol Metrics	Token Utility Ratio
+DeFi-Specific Indicators	Protocol Metrics	Staking Ratio (Staked / Circulating Supply)
+DeFi-Specific Indicators	DEX Metrics	DEX Volume (24h)
+DeFi-Specific Indicators	DEX Metrics	DEX Volume (7d)
+DeFi-Specific Indicators	DEX Metrics	DEX Volume (30d)
+DeFi-Specific Indicators	DEX Metrics	DEX to CEX Volume Ratio
+DeFi-Specific Indicators	DEX Metrics	Liquidity Pool Depth
+DeFi-Specific Indicators	DEX Metrics	Slippage
+DeFi-Specific Indicators	DEX Metrics	Impermanent Loss
+DeFi-Specific Indicators	Lending Protocol Metrics	Borrow Rate
+DeFi-Specific Indicators	Lending Protocol Metrics	Supply Rate
+DeFi-Specific Indicators	Lending Protocol Metrics	Utilization Rate
+DeFi-Specific Indicators	Lending Protocol Metrics	Total Borrowed
+DeFi-Specific Indicators	Lending Protocol Metrics	Liquidation Events
+Order Book & Market Microstructure	Orderbook Indicators	Bid-Ask Spread
+Order Book & Market Microstructure	Orderbook Indicators	Order Book Depth
+Order Book & Market Microstructure	Orderbook Indicators	Order Book Imbalance
+Order Book & Market Microstructure	Orderbook Indicators	Cumulative Volume Delta (CVD)
+Order Book & Market Microstructure	Orderbook Indicators	Footprint Charts
+Order Book & Market Microstructure	Orderbook Indicators	Delta Volume
+Order Book & Market Microstructure	Orderbook Indicators	Market Buy/Sell Ratio
+Order Book & Market Microstructure	Exchange-Specific	Exchange Reserve
+Order Book & Market Microstructure	Exchange-Specific	Exchange Netflows
+Order Book & Market Microstructure	Exchange-Specific	Taker Buy/Sell Volume
+Order Book & Market Microstructure	Exchange-Specific	Maker Buy/Sell Volume
+Order Book & Market Microstructure	Exchange-Specific	Trade Count
+Crypto Market Structure Indicators	Dominance Metrics	Bitcoin Dominance (BTC.D)
+Crypto Market Structure Indicators	Dominance Metrics	Ethereum Dominance (ETH.D)
+Crypto Market Structure Indicators	Dominance Metrics	Stablecoin Dominance
+Crypto Market Structure Indicators	Dominance Metrics	DeFi Dominance
+Crypto Market Structure Indicators	Dominance Metrics	Altcoin Season Index
+Crypto Market Structure Indicators	Market Cap Metrics	Total Crypto Market Cap
+Crypto Market Structure Indicators	Market Cap Metrics	Total2 (Total market cap - Bitcoin)
+Crypto Market Structure Indicators	Market Cap Metrics	Total3 (Total market cap - Bitcoin - Ethereum)
+Crypto Market Structure Indicators	Market Cap Metrics	Market Cap Growth Rate
+Crypto Market Structure Indicators	Correlation Metrics	BTC Correlation Index
+Crypto Market Structure Indicators	Correlation Metrics	Altcoin Correlation to BTC
+Crypto Market Structure Indicators	Correlation Metrics	Crypto to Stock Market Correlation
+Crypto Market Structure Indicators	Correlation Metrics	Crypto to Gold Correlation
+Advanced Crypto Indicators	Statistical Indicators	Z-Score
+Advanced Crypto Indicators	Statistical Indicators	Bollinger Band Width
+Advanced Crypto Indicators	Statistical Indicators	Kurtosis (tail risk)
+Advanced Crypto Indicators	Statistical Indicators	Skewness
+Advanced Crypto Indicators	Statistical Indicators	Sharpe Ratio
+Advanced Crypto Indicators	Statistical Indicators	Sortino Ratio
+Advanced Crypto Indicators	Cycle Indicators	Pi Cycle Top Indicator
+Advanced Crypto Indicators	Cycle Indicators	Rainbow Chart
+Advanced Crypto Indicators	Cycle Indicators	Bitcoin Logarithmic Regression
+Advanced Crypto Indicators	Cycle Indicators	2-Year Moving Average Multiplier
+Advanced Crypto Indicators	Cycle Indicators	200 Week Moving Average Heatmap
+Advanced Crypto Indicators	Cycle Indicators	Golden Ratio Multiplier
+Advanced Crypto Indicators	Network Growth	Metcalfe's Law
+Advanced Crypto Indicators	Network Growth	Network Effect Score
+Advanced Crypto Indicators	Network Growth	Adoption Curve Positioning
+Advanced Crypto Indicators	Network Growth	GitHub Commits
+Advanced Crypto Indicators	Network Growth	Developer Activity Index
+Stablecoin-Specific Indicators	Stablecoin Metrics	Stablecoin Supply Ratio (SSR)
+Stablecoin-Specific Indicators	Stablecoin Metrics	Stablecoin Market Cap
+Stablecoin-Specific Indicators	Stablecoin Metrics	Stablecoin Transfer Volume
+Stablecoin-Specific Indicators	Stablecoin Metrics	Exchange Stablecoin Reserve
+Stablecoin-Specific Indicators	Stablecoin Metrics	Stablecoin to Crypto Market Cap Ratio
+Stablecoin-Specific Indicators	Stablecoin Metrics	Stablecoin Dominance
+NFT & Token-Specific	NFT Metrics	Floor Price
+NFT & Token-Specific	NFT Metrics	Trading Volume
+NFT & Token-Specific	NFT Metrics	Holder Distribution
+NFT & Token-Specific	NFT Metrics	Wash Trading Score
+NFT & Token-Specific	NFT Metrics	Rarity Rank
+NFT & Token-Specific	NFT Metrics	Blue Chip Index
+NFT & Token-Specific	Token-Specific	Token Velocity
+NFT & Token-Specific	Token-Specific	Token Age Consumed
+NFT & Token-Specific	Token-Specific	Token Holder Count
+NFT & Token-Specific	Token-Specific	Top Holder Concentration
+NFT & Token-Specific	Token-Specific	Smart Money Holdings

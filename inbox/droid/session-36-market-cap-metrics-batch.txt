@@ -1,0 +1,5 @@
+CRYPTO INDICATOR Total2 (Total market cap - Bitcoin)
+CRYPTO INDICATOR Total3 (Total market cap - Bitcoin - Ethereum)
+CRYPTO INDICATOR Market Cap Growth Rate
+CRYPTO INDICATOR BTC Correlation Index
+CRYPTO INDICATOR Altcoin Correlation to BTC

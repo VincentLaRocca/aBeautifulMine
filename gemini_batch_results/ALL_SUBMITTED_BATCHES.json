@@ -1,0 +1,95 @@
+{
+  "submission_complete": "2025-11-02 14:22:10",
+  "total_submitted": 10,
+  "total_qa_pairs": 1000,
+  "status": "All batches in PENDING state",
+  "batches": [
+    {
+      "batch_number": 1,
+      "batch_id": "refinement_batch_001",
+      "job_name": "batches/w2svtdivbn1nl6vdis6e9f5g7qbwurvrarim",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/2xk9tzftmt6k",
+      "qa_count": 100,
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_number": 2,
+      "batch_id": "refinement_batch_002",
+      "job_name": "batches/ng3ytqktnlxu3zcm0y5o36znp0485x6tl82n",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/cs9ruq1g7s9f",
+      "qa_count": 100,
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_number": 3,
+      "batch_id": "refinement_batch_003",
+      "job_name": "batches/nygopfkw1hu6bgp5h594o262ah5u1r57s9wk",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/z0ku9tqhk610",
+      "qa_count": 100,
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_number": 4,
+      "batch_id": "refinement_batch_004",
+      "job_name": "batches/idyn0sl56x4w3a1e1oh1wimah16ty7xvbw24",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/ru6futy0ptlo",
+      "qa_count": 100,
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_number": 5,
+      "batch_id": "refinement_batch_005",
+      "job_name": "batches/i5kozseab2dtmqkbvne77awqwd5fuxojx5fc",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/nmv5uzi0r5n1",
+      "qa_count": 100,
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_number": 6,
+      "batch_id": "refinement_batch_006",
+      "job_name": "batches/5oaz0rwmd9qtjro2cnuszv5gs5wyg0yesko4",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/u4gtccqb6qsf",
+      "qa_count": 100,
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_number": 7,
+      "batch_id": "refinement_batch_007",
+      "job_name": "batches/xghx25jalld52o0bx8g5av09vwas029r0hct",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/1s8oswhqylns",
+      "qa_count": 100,
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_number": 8,
+      "batch_id": "refinement_batch_008",
+      "job_name": "batches/geve6txonnceqbcb30ok1nyt4l5ce7rzrike",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/10efaur4aekv",
+      "qa_count": 100,
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_number": 9,
+      "batch_id": "refinement_batch_009",
+      "job_name": "batches/0zcp068v97ol9s6c5bc0mcbnp36ctkxl4ob9",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/qmsih7mzkhnu",
+      "qa_count": 100,
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_number": 10,
+      "batch_id": "refinement_batch_010",
+      "job_name": "batches/otnrf9zh9ovedv7po5v529m1im9wgesi34vb",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/g4gciz9p3ew8",
+      "qa_count": 100,
+      "state": "JOB_STATE_PENDING"
+    }
+  ],
+  "remaining_batches": 186,
+  "remaining_qa_pairs": 18556,
+  "next_steps": [
+    "Monitor these 10 batches (check status in ~1 hour)",
+    "Once quality is confirmed, submit remaining 186 batches",
+    "Full completion expected in 24-48 hours"
+  ]
+}

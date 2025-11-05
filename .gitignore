@@ -44,6 +44,9 @@ desktop.ini
 *credentials*
 *secrets*
 *api_key*
+.env
+.env.local
+.env.*.local
 
 # Large parsed data directory (optional - uncomment if too large)
 # parsed_qa_data/

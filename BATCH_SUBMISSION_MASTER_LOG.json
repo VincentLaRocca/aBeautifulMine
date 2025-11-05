@@ -1,0 +1,31 @@
+{
+  "submission_summary": {
+    "total_target": 154,
+    "submitted_so_far": 15,
+    "remaining": 139,
+    "start_time": "2025-11-02T16:20:00Z",
+    "last_update": "2025-11-02T16:24:42Z"
+  },
+  "submitted_batches": {
+    "51": {"batch_job": "batches/ej8mfplrwj9lhg9i1k0fibc1m5qhnxaqlmeq", "display_name": "refinement_batch_051"},
+    "52": {"batch_job": "batches/stgtetixp5xxw0nzm5uv4n7tjgpftfl27nbw", "display_name": "refinement_batch_052"},
+    "53": {"batch_job": "batches/ci3inwvjsfr1ji925xcz2yly0po6hr1jfjnu", "display_name": "refinement_batch_053"},
+    "54": {"batch_job": "batches/g0nyg6kct41eudmjcuvhvu1j9vshgd7khkro", "display_name": "refinement_batch_054"},
+    "55": {"batch_job": "batches/3sm5rg8t2acxfsviyrwtkrtxtzavxke7hlj9", "display_name": "refinement_batch_055"},
+    "56": {"batch_job": "batches/eyrbhb9p3mpo6wl6m22ueqx500lv22c1idlz", "display_name": "refinement_batch_056"},
+    "57": {"batch_job": "batches/969rmcbvvmyg6a4cp892wezizoqv3lew7pg3", "display_name": "refinement_batch_057"},
+    "58": {"batch_job": "batches/53ba0n5g9hyt4l1bp961xsgbxmmn8uwc5uvp", "display_name": "refinement_batch_058"},
+    "59": {"batch_job": "batches/kdad6diwzrodvvf4v4fz43dqmlseysn57lkn", "display_name": "refinement_batch_059"},
+    "60": {"batch_job": "batches/50sdth2luvh5pz21xgu1jrp2wnbf9inin294", "display_name": "refinement_batch_060"},
+    "61": {"batch_job": "batches/roflndochsx0g3amy9tz4lihc87e9hg4yeky", "display_name": "refinement_batch_061"},
+    "62": {"batch_job": "batches/smfkn6mf8cr436ih14la3xkyw2llbpr5ense", "display_name": "refinement_batch_062"},
+    "63": {"batch_job": "batches/xd42xq8s2q02r1eo49goh1prcujia3jbvhcs", "display_name": "refinement_batch_063"},
+    "64": {"batch_job": "batches/vbtj0egaw576r6k35wgcfuf3mx1xvweuxrfx", "display_name": "refinement_batch_064"},
+    "65": {"batch_job": "batches/z53c9ehor1rid8za0rk3b4uttg1n29z9h8hz", "display_name": "refinement_batch_065"}
+  },
+  "configuration": {
+    "model": "gemini-2.5-flash",
+    "output_location": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_results_proper",
+    "batch_directory": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper"
+  }
+}

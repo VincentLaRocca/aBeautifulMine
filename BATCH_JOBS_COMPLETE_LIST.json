@@ -1,0 +1,209 @@
+{
+  "submission_metadata": {
+    "total_target": 154,
+    "submitted_count": 21,
+    "remaining_count": 133,
+    "submission_date": "2025-11-02",
+    "rate_limit_hit_at_batch": 72,
+    "model": "gemini-2.5-flash",
+    "output_location": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_results_proper"
+  },
+  "successfully_submitted_batches": [
+    {
+      "batch_num": 51,
+      "batch_job_name": "batches/ej8mfplrwj9lhg9i1k0fibc1m5qhnxaqlmeq",
+      "display_name": "refinement_batch_051",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 52,
+      "batch_job_name": "batches/stgtetixp5xxw0nzm5uv4n7tjgpftfl27nbw",
+      "display_name": "refinement_batch_052",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 53,
+      "batch_job_name": "batches/ci3inwvjsfr1ji925xcz2yly0po6hr1jfjnu",
+      "display_name": "refinement_batch_053",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 54,
+      "batch_job_name": "batches/g0nyg6kct41eudmjcuvhvu1j9vshgd7khkro",
+      "display_name": "refinement_batch_054",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 55,
+      "batch_job_name": "batches/3sm5rg8t2acxfsviyrwtkrtxtzavxke7hlj9",
+      "display_name": "refinement_batch_055",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 56,
+      "batch_job_name": "batches/eyrbhb9p3mpo6wl6m22ueqx500lv22c1idlz",
+      "display_name": "refinement_batch_056",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 57,
+      "batch_job_name": "batches/969rmcbvvmyg6a4cp892wezizoqv3lew7pg3",
+      "display_name": "refinement_batch_057",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 58,
+      "batch_job_name": "batches/53ba0n5g9hyt4l1bp961xsgbxmmn8uwc5uvp",
+      "display_name": "refinement_batch_058",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 59,
+      "batch_job_name": "batches/kdad6diwzrodvvf4v4fz43dqmlseysn57lkn",
+      "display_name": "refinement_batch_059",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 60,
+      "batch_job_name": "batches/50sdth2luvh5pz21xgu1jrp2wnbf9inin294",
+      "display_name": "refinement_batch_060",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 61,
+      "batch_job_name": "batches/roflndochsx0g3amy9tz4lihc87e9hg4yeky",
+      "display_name": "refinement_batch_061",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 62,
+      "batch_job_name": "batches/smfkn6mf8cr436ih14la3xkyw2llbpr5ense",
+      "display_name": "refinement_batch_062",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 63,
+      "batch_job_name": "batches/xd42xq8s2q02r1eo49goh1prcujia3jbvhcs",
+      "display_name": "refinement_batch_063",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 64,
+      "batch_job_name": "batches/vbtj0egaw576r6k35wgcfuf3mx1xvweuxrfx",
+      "display_name": "refinement_batch_064",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 65,
+      "batch_job_name": "batches/z53c9ehor1rid8za0rk3b4uttg1n29z9h8hz",
+      "display_name": "refinement_batch_065",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 66,
+      "batch_job_name": "batches/va29n45x0qnolf6drlicjr8rhqr432sfc2eo",
+      "display_name": "refinement_batch_066",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 67,
+      "batch_job_name": "batches/debxbutzk7n46whlkllw8ujy10rcna1156fj",
+      "display_name": "refinement_batch_067",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 68,
+      "batch_job_name": "batches/zu7paf96hvemvwgg9wy2a7avrqp5bfb7p66q",
+      "display_name": "refinement_batch_068",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 69,
+      "batch_job_name": "batches/kizoxzqc7aaoegsnxfgz71w37m4ppdj0eoyn",
+      "display_name": "refinement_batch_069",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 70,
+      "batch_job_name": "batches/0r0ilpr2ua1iwue9w1oepf1c816eqacybbtz",
+      "display_name": "refinement_batch_070",
+      "state": "JOB_STATE_PENDING"
+    },
+    {
+      "batch_num": 71,
+      "batch_job_name": "batches/6gp7mxbya4y9ygpjodbq9mst5srer5tphqow",
+      "display_name": "refinement_batch_071",
+      "state": "JOB_STATE_PENDING"
+    }
+  ],
+  "uploaded_awaiting_batch_creation": [
+    {
+      "batch_num": 72,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/z1lupf7w76in",
+      "display_name": "batch_072_proper.jsonl",
+      "action_needed": "Create batch job once rate limit resets"
+    },
+    {
+      "batch_num": 73,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/ewyzu7dqaou0",
+      "display_name": "batch_073_proper.jsonl",
+      "action_needed": "Create batch job once rate limit resets"
+    },
+    {
+      "batch_num": 74,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/rnfrtefbmplb",
+      "display_name": "batch_074_proper.jsonl",
+      "action_needed": "Create batch job once rate limit resets"
+    },
+    {
+      "batch_num": 75,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/nmlsogmy4f7a",
+      "display_name": "batch_075_proper.jsonl",
+      "action_needed": "Create batch job once rate limit resets"
+    },
+    {
+      "batch_num": 76,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/9jnyob68z4ab",
+      "display_name": "batch_076_proper.jsonl",
+      "action_needed": "Create batch job once rate limit resets"
+    },
+    {
+      "batch_num": 77,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/mpvmn1cq0vxk",
+      "display_name": "batch_077_proper.jsonl",
+      "action_needed": "Create batch job once rate limit resets"
+    },
+    {
+      "batch_num": 78,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/ymq4abnm73g2",
+      "display_name": "batch_078_proper.jsonl",
+      "action_needed": "Create batch job once rate limit resets"
+    },
+    {
+      "batch_num": 79,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/01cktipmxk6o",
+      "display_name": "batch_079_proper.jsonl",
+      "action_needed": "Create batch job once rate limit resets"
+    },
+    {
+      "batch_num": 80,
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/ilz3hdb1hqu8",
+      "display_name": "batch_080_proper.jsonl",
+      "action_needed": "Create batch job once rate limit resets"
+    }
+  ],
+  "not_yet_processed": {
+    "start_batch": 81,
+    "end_batch": 204,
+    "count": 124,
+    "note": "These batches need to be uploaded and batch jobs created after rate limit resets"
+  },
+  "resumption_commands": {
+    "step_1_create_batch_jobs_72_80": [
+      "mcp__gemini__batch_create with file_uri for batch 72",
+      "mcp__gemini__batch_create with file_uri for batch 73",
+      "... repeat for batches 74-80"
+    ],
+    "step_2_continue_81_204": "Upload and create batch jobs for remaining 124 batches with throttling"
+  }
+}

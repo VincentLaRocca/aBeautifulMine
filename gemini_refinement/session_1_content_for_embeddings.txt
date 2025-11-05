@@ -1,0 +1,5 @@
+# Session 1 Q&A Pairs for Embeddings
+# Each line represents one Q&A pair to embed
+
+INDICATOR: Futures Open Interest | Q: Factors influencing futures open interest | A: Certainly! Here is a detailed overview of the key factors that influence futures open interest: Open interest is the total number of outstanding contracts in a futures market...
+

@@ -1,0 +1,1641 @@
+{
+  "total_batches": 204,
+  "total_qa_pairs": 20356,
+  "batch_size": 100,
+  "batches": [
+    {
+      "batch_number": 1,
+      "file_path": "gemini_batch_submissions_proper\\batch_001_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 406892,
+      "first_pair_id": "200_0",
+      "last_pair_id": "200_99"
+    },
+    {
+      "batch_number": 2,
+      "file_path": "gemini_batch_submissions_proper\\batch_002_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 357560,
+      "first_pair_id": "199_0",
+      "last_pair_id": "199_99"
+    },
+    {
+      "batch_number": 3,
+      "file_path": "gemini_batch_submissions_proper\\batch_003_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 352857,
+      "first_pair_id": "198_0",
+      "last_pair_id": "198_99"
+    },
+    {
+      "batch_number": 4,
+      "file_path": "gemini_batch_submissions_proper\\batch_004_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 330576,
+      "first_pair_id": "197_0",
+      "last_pair_id": "197_99"
+    },
+    {
+      "batch_number": 5,
+      "file_path": "gemini_batch_submissions_proper\\batch_005_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 297193,
+      "first_pair_id": "196_0",
+      "last_pair_id": "196_99"
+    },
+    {
+      "batch_number": 6,
+      "file_path": "gemini_batch_submissions_proper\\batch_006_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 338927,
+      "first_pair_id": "195_0",
+      "last_pair_id": "195_99"
+    },
+    {
+      "batch_number": 7,
+      "file_path": "gemini_batch_submissions_proper\\batch_007_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 346361,
+      "first_pair_id": "194_0",
+      "last_pair_id": "194_99"
+    },
+    {
+      "batch_number": 8,
+      "file_path": "gemini_batch_submissions_proper\\batch_008_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 341084,
+      "first_pair_id": "193_0",
+      "last_pair_id": "193_99"
+    },
+    {
+      "batch_number": 9,
+      "file_path": "gemini_batch_submissions_proper\\batch_009_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 347167,
+      "first_pair_id": "192_0",
+      "last_pair_id": "192_99"
+    },
+    {
+      "batch_number": 10,
+      "file_path": "gemini_batch_submissions_proper\\batch_010_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 352720,
+      "first_pair_id": "191_0",
+      "last_pair_id": "191_99"
+    },
+    {
+      "batch_number": 11,
+      "file_path": "gemini_batch_submissions_proper\\batch_011_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 364539,
+      "first_pair_id": "190_0",
+      "last_pair_id": "190_99"
+    },
+    {
+      "batch_number": 12,
+      "file_path": "gemini_batch_submissions_proper\\batch_012_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 338642,
+      "first_pair_id": "189_0",
+      "last_pair_id": "189_99"
+    },
+    {
+      "batch_number": 13,
+      "file_path": "gemini_batch_submissions_proper\\batch_013_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 351586,
+      "first_pair_id": "188_0",
+      "last_pair_id": "188_99"
+    },
+    {
+      "batch_number": 14,
+      "file_path": "gemini_batch_submissions_proper\\batch_014_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 319181,
+      "first_pair_id": "187_0",
+      "last_pair_id": "187_99"
+    },
+    {
+      "batch_number": 15,
+      "file_path": "gemini_batch_submissions_proper\\batch_015_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 324869,
+      "first_pair_id": "186_0",
+      "last_pair_id": "186_99"
+    },
+    {
+      "batch_number": 16,
+      "file_path": "gemini_batch_submissions_proper\\batch_016_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 361225,
+      "first_pair_id": "185_0",
+      "last_pair_id": "185_99"
+    },
+    {
+      "batch_number": 17,
+      "file_path": "gemini_batch_submissions_proper\\batch_017_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 359959,
+      "first_pair_id": "184_0",
+      "last_pair_id": "184_99"
+    },
+    {
+      "batch_number": 18,
+      "file_path": "gemini_batch_submissions_proper\\batch_018_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 375125,
+      "first_pair_id": "183_0",
+      "last_pair_id": "183_99"
+    },
+    {
+      "batch_number": 19,
+      "file_path": "gemini_batch_submissions_proper\\batch_019_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 328745,
+      "first_pair_id": "182_0",
+      "last_pair_id": "182_99"
+    },
+    {
+      "batch_number": 20,
+      "file_path": "gemini_batch_submissions_proper\\batch_020_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 354611,
+      "first_pair_id": "181_0",
+      "last_pair_id": "181_99"
+    },
+    {
+      "batch_number": 21,
+      "file_path": "gemini_batch_submissions_proper\\batch_021_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 344242,
+      "first_pair_id": "180_0",
+      "last_pair_id": "180_99"
+    },
+    {
+      "batch_number": 22,
+      "file_path": "gemini_batch_submissions_proper\\batch_022_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 336548,
+      "first_pair_id": "179_0",
+      "last_pair_id": "179_99"
+    },
+    {
+      "batch_number": 23,
+      "file_path": "gemini_batch_submissions_proper\\batch_023_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 349376,
+      "first_pair_id": "178_0",
+      "last_pair_id": "178_99"
+    },
+    {
+      "batch_number": 24,
+      "file_path": "gemini_batch_submissions_proper\\batch_024_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 340272,
+      "first_pair_id": "177_0",
+      "last_pair_id": "177_99"
+    },
+    {
+      "batch_number": 25,
+      "file_path": "gemini_batch_submissions_proper\\batch_025_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 322953,
+      "first_pair_id": "176_0",
+      "last_pair_id": "176_99"
+    },
+    {
+      "batch_number": 26,
+      "file_path": "gemini_batch_submissions_proper\\batch_026_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 351814,
+      "first_pair_id": "175_0",
+      "last_pair_id": "175_99"
+    },
+    {
+      "batch_number": 27,
+      "file_path": "gemini_batch_submissions_proper\\batch_027_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 372252,
+      "first_pair_id": "174_0",
+      "last_pair_id": "174_99"
+    },
+    {
+      "batch_number": 28,
+      "file_path": "gemini_batch_submissions_proper\\batch_028_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 353582,
+      "first_pair_id": "173_0",
+      "last_pair_id": "173_99"
+    },
+    {
+      "batch_number": 29,
+      "file_path": "gemini_batch_submissions_proper\\batch_029_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 327292,
+      "first_pair_id": "172_0",
+      "last_pair_id": "172_99"
+    },
+    {
+      "batch_number": 30,
+      "file_path": "gemini_batch_submissions_proper\\batch_030_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 351150,
+      "first_pair_id": "171_0",
+      "last_pair_id": "171_99"
+    },
+    {
+      "batch_number": 31,
+      "file_path": "gemini_batch_submissions_proper\\batch_031_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 328542,
+      "first_pair_id": "170_0",
+      "last_pair_id": "170_99"
+    },
+    {
+      "batch_number": 32,
+      "file_path": "gemini_batch_submissions_proper\\batch_032_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 381175,
+      "first_pair_id": "169_0",
+      "last_pair_id": "169_99"
+    },
+    {
+      "batch_number": 33,
+      "file_path": "gemini_batch_submissions_proper\\batch_033_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 360532,
+      "first_pair_id": "168_0",
+      "last_pair_id": "168_99"
+    },
+    {
+      "batch_number": 34,
+      "file_path": "gemini_batch_submissions_proper\\batch_034_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 376821,
+      "first_pair_id": "167_0",
+      "last_pair_id": "167_99"
+    },
+    {
+      "batch_number": 35,
+      "file_path": "gemini_batch_submissions_proper\\batch_035_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 317722,
+      "first_pair_id": "166_0",
+      "last_pair_id": "166_99"
+    },
+    {
+      "batch_number": 36,
+      "file_path": "gemini_batch_submissions_proper\\batch_036_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 377569,
+      "first_pair_id": "165_0",
+      "last_pair_id": "165_99"
+    },
+    {
+      "batch_number": 37,
+      "file_path": "gemini_batch_submissions_proper\\batch_037_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 336444,
+      "first_pair_id": "164_0",
+      "last_pair_id": "164_99"
+    },
+    {
+      "batch_number": 38,
+      "file_path": "gemini_batch_submissions_proper\\batch_038_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 330020,
+      "first_pair_id": "163_0",
+      "last_pair_id": "163_99"
+    },
+    {
+      "batch_number": 39,
+      "file_path": "gemini_batch_submissions_proper\\batch_039_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 353200,
+      "first_pair_id": "162_0",
+      "last_pair_id": "162_99"
+    },
+    {
+      "batch_number": 40,
+      "file_path": "gemini_batch_submissions_proper\\batch_040_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 356127,
+      "first_pair_id": "161_0",
+      "last_pair_id": "161_99"
+    },
+    {
+      "batch_number": 41,
+      "file_path": "gemini_batch_submissions_proper\\batch_041_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 377183,
+      "first_pair_id": "160_0",
+      "last_pair_id": "160_99"
+    },
+    {
+      "batch_number": 42,
+      "file_path": "gemini_batch_submissions_proper\\batch_042_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 298680,
+      "first_pair_id": "159_0",
+      "last_pair_id": "159_99"
+    },
+    {
+      "batch_number": 43,
+      "file_path": "gemini_batch_submissions_proper\\batch_043_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 325798,
+      "first_pair_id": "158_0",
+      "last_pair_id": "158_99"
+    },
+    {
+      "batch_number": 44,
+      "file_path": "gemini_batch_submissions_proper\\batch_044_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 291901,
+      "first_pair_id": "157_0",
+      "last_pair_id": "156_10"
+    },
+    {
+      "batch_number": 45,
+      "file_path": "gemini_batch_submissions_proper\\batch_045_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 344089,
+      "first_pair_id": "156_11",
+      "last_pair_id": "155_10"
+    },
+    {
+      "batch_number": 46,
+      "file_path": "gemini_batch_submissions_proper\\batch_046_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 376477,
+      "first_pair_id": "155_11",
+      "last_pair_id": "154_13"
+    },
+    {
+      "batch_number": 47,
+      "file_path": "gemini_batch_submissions_proper\\batch_047_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 349664,
+      "first_pair_id": "154_14",
+      "last_pair_id": "153_27"
+    },
+    {
+      "batch_number": 48,
+      "file_path": "gemini_batch_submissions_proper\\batch_048_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 261306,
+      "first_pair_id": "153_28",
+      "last_pair_id": "152_27"
+    },
+    {
+      "batch_number": 49,
+      "file_path": "gemini_batch_submissions_proper\\batch_049_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 333320,
+      "first_pair_id": "152_28",
+      "last_pair_id": "151_27"
+    },
+    {
+      "batch_number": 50,
+      "file_path": "gemini_batch_submissions_proper\\batch_050_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 336035,
+      "first_pair_id": "151_28",
+      "last_pair_id": "150_27"
+    },
+    {
+      "batch_number": 51,
+      "file_path": "gemini_batch_submissions_proper\\batch_051_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 363710,
+      "first_pair_id": "150_28",
+      "last_pair_id": "149_31"
+    },
+    {
+      "batch_number": 52,
+      "file_path": "gemini_batch_submissions_proper\\batch_052_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 337035,
+      "first_pair_id": "149_32",
+      "last_pair_id": "148_31"
+    },
+    {
+      "batch_number": 53,
+      "file_path": "gemini_batch_submissions_proper\\batch_053_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 301489,
+      "first_pair_id": "148_32",
+      "last_pair_id": "147_31"
+    },
+    {
+      "batch_number": 54,
+      "file_path": "gemini_batch_submissions_proper\\batch_054_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 318561,
+      "first_pair_id": "147_32",
+      "last_pair_id": "146_31"
+    },
+    {
+      "batch_number": 55,
+      "file_path": "gemini_batch_submissions_proper\\batch_055_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 389871,
+      "first_pair_id": "146_32",
+      "last_pair_id": "145_31"
+    },
+    {
+      "batch_number": 56,
+      "file_path": "gemini_batch_submissions_proper\\batch_056_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 330051,
+      "first_pair_id": "145_32",
+      "last_pair_id": "144_31"
+    },
+    {
+      "batch_number": 57,
+      "file_path": "gemini_batch_submissions_proper\\batch_057_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 342578,
+      "first_pair_id": "144_32",
+      "last_pair_id": "143_31"
+    },
+    {
+      "batch_number": 58,
+      "file_path": "gemini_batch_submissions_proper\\batch_058_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 364452,
+      "first_pair_id": "143_32",
+      "last_pair_id": "142_31"
+    },
+    {
+      "batch_number": 59,
+      "file_path": "gemini_batch_submissions_proper\\batch_059_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 348952,
+      "first_pair_id": "142_32",
+      "last_pair_id": "141_31"
+    },
+    {
+      "batch_number": 60,
+      "file_path": "gemini_batch_submissions_proper\\batch_060_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 329699,
+      "first_pair_id": "141_32",
+      "last_pair_id": "140_31"
+    },
+    {
+      "batch_number": 61,
+      "file_path": "gemini_batch_submissions_proper\\batch_061_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 332567,
+      "first_pair_id": "140_32",
+      "last_pair_id": "139_31"
+    },
+    {
+      "batch_number": 62,
+      "file_path": "gemini_batch_submissions_proper\\batch_062_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 301275,
+      "first_pair_id": "139_32",
+      "last_pair_id": "138_31"
+    },
+    {
+      "batch_number": 63,
+      "file_path": "gemini_batch_submissions_proper\\batch_063_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 352882,
+      "first_pair_id": "138_32",
+      "last_pair_id": "137_31"
+    },
+    {
+      "batch_number": 64,
+      "file_path": "gemini_batch_submissions_proper\\batch_064_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 362834,
+      "first_pair_id": "137_32",
+      "last_pair_id": "136_31"
+    },
+    {
+      "batch_number": 65,
+      "file_path": "gemini_batch_submissions_proper\\batch_065_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 354107,
+      "first_pair_id": "136_32",
+      "last_pair_id": "135_31"
+    },
+    {
+      "batch_number": 66,
+      "file_path": "gemini_batch_submissions_proper\\batch_066_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 338848,
+      "first_pair_id": "135_32",
+      "last_pair_id": "134_31"
+    },
+    {
+      "batch_number": 67,
+      "file_path": "gemini_batch_submissions_proper\\batch_067_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 377088,
+      "first_pair_id": "134_32",
+      "last_pair_id": "133_31"
+    },
+    {
+      "batch_number": 68,
+      "file_path": "gemini_batch_submissions_proper\\batch_068_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 345406,
+      "first_pair_id": "133_32",
+      "last_pair_id": "132_31"
+    },
+    {
+      "batch_number": 69,
+      "file_path": "gemini_batch_submissions_proper\\batch_069_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 299462,
+      "first_pair_id": "132_32",
+      "last_pair_id": "131_31"
+    },
+    {
+      "batch_number": 70,
+      "file_path": "gemini_batch_submissions_proper\\batch_070_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 314894,
+      "first_pair_id": "131_32",
+      "last_pair_id": "130_31"
+    },
+    {
+      "batch_number": 71,
+      "file_path": "gemini_batch_submissions_proper\\batch_071_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 576203,
+      "first_pair_id": "130_32",
+      "last_pair_id": "129_31"
+    },
+    {
+      "batch_number": 72,
+      "file_path": "gemini_batch_submissions_proper\\batch_072_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 776231,
+      "first_pair_id": "129_32",
+      "last_pair_id": "128_31"
+    },
+    {
+      "batch_number": 73,
+      "file_path": "gemini_batch_submissions_proper\\batch_073_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 638996,
+      "first_pair_id": "128_32",
+      "last_pair_id": "127_31"
+    },
+    {
+      "batch_number": 74,
+      "file_path": "gemini_batch_submissions_proper\\batch_074_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 889087,
+      "first_pair_id": "127_32",
+      "last_pair_id": "126_31"
+    },
+    {
+      "batch_number": 75,
+      "file_path": "gemini_batch_submissions_proper\\batch_075_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 376856,
+      "first_pair_id": "126_32",
+      "last_pair_id": "125_31"
+    },
+    {
+      "batch_number": 76,
+      "file_path": "gemini_batch_submissions_proper\\batch_076_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 346242,
+      "first_pair_id": "125_32",
+      "last_pair_id": "124_31"
+    },
+    {
+      "batch_number": 77,
+      "file_path": "gemini_batch_submissions_proper\\batch_077_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 351863,
+      "first_pair_id": "124_32",
+      "last_pair_id": "123_31"
+    },
+    {
+      "batch_number": 78,
+      "file_path": "gemini_batch_submissions_proper\\batch_078_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 341623,
+      "first_pair_id": "123_32",
+      "last_pair_id": "122_31"
+    },
+    {
+      "batch_number": 79,
+      "file_path": "gemini_batch_submissions_proper\\batch_079_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 353139,
+      "first_pair_id": "122_32",
+      "last_pair_id": "121_31"
+    },
+    {
+      "batch_number": 80,
+      "file_path": "gemini_batch_submissions_proper\\batch_080_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 345032,
+      "first_pair_id": "121_32",
+      "last_pair_id": "120_31"
+    },
+    {
+      "batch_number": 81,
+      "file_path": "gemini_batch_submissions_proper\\batch_081_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 329760,
+      "first_pair_id": "120_32",
+      "last_pair_id": "119_31"
+    },
+    {
+      "batch_number": 82,
+      "file_path": "gemini_batch_submissions_proper\\batch_082_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 351640,
+      "first_pair_id": "119_32",
+      "last_pair_id": "118_31"
+    },
+    {
+      "batch_number": 83,
+      "file_path": "gemini_batch_submissions_proper\\batch_083_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 386887,
+      "first_pair_id": "118_32",
+      "last_pair_id": "117_31"
+    },
+    {
+      "batch_number": 84,
+      "file_path": "gemini_batch_submissions_proper\\batch_084_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 398119,
+      "first_pair_id": "117_32",
+      "last_pair_id": "116_31"
+    },
+    {
+      "batch_number": 85,
+      "file_path": "gemini_batch_submissions_proper\\batch_085_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 387085,
+      "first_pair_id": "116_32",
+      "last_pair_id": "115_31"
+    },
+    {
+      "batch_number": 86,
+      "file_path": "gemini_batch_submissions_proper\\batch_086_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 411293,
+      "first_pair_id": "115_32",
+      "last_pair_id": "114_31"
+    },
+    {
+      "batch_number": 87,
+      "file_path": "gemini_batch_submissions_proper\\batch_087_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 386613,
+      "first_pair_id": "114_32",
+      "last_pair_id": "113_31"
+    },
+    {
+      "batch_number": 88,
+      "file_path": "gemini_batch_submissions_proper\\batch_088_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 369838,
+      "first_pair_id": "113_32",
+      "last_pair_id": "112_31"
+    },
+    {
+      "batch_number": 89,
+      "file_path": "gemini_batch_submissions_proper\\batch_089_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 391478,
+      "first_pair_id": "112_32",
+      "last_pair_id": "111_31"
+    },
+    {
+      "batch_number": 90,
+      "file_path": "gemini_batch_submissions_proper\\batch_090_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 390827,
+      "first_pair_id": "111_32",
+      "last_pair_id": "110_31"
+    },
+    {
+      "batch_number": 91,
+      "file_path": "gemini_batch_submissions_proper\\batch_091_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 380243,
+      "first_pair_id": "110_32",
+      "last_pair_id": "109_31"
+    },
+    {
+      "batch_number": 92,
+      "file_path": "gemini_batch_submissions_proper\\batch_092_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 428703,
+      "first_pair_id": "109_32",
+      "last_pair_id": "108_31"
+    },
+    {
+      "batch_number": 93,
+      "file_path": "gemini_batch_submissions_proper\\batch_093_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 416584,
+      "first_pair_id": "108_32",
+      "last_pair_id": "107_31"
+    },
+    {
+      "batch_number": 94,
+      "file_path": "gemini_batch_submissions_proper\\batch_094_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 399242,
+      "first_pair_id": "107_32",
+      "last_pair_id": "106_31"
+    },
+    {
+      "batch_number": 95,
+      "file_path": "gemini_batch_submissions_proper\\batch_095_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 347484,
+      "first_pair_id": "106_32",
+      "last_pair_id": "105_31"
+    },
+    {
+      "batch_number": 96,
+      "file_path": "gemini_batch_submissions_proper\\batch_096_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 350848,
+      "first_pair_id": "105_32",
+      "last_pair_id": "104_31"
+    },
+    {
+      "batch_number": 97,
+      "file_path": "gemini_batch_submissions_proper\\batch_097_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 371265,
+      "first_pair_id": "104_32",
+      "last_pair_id": "103_31"
+    },
+    {
+      "batch_number": 98,
+      "file_path": "gemini_batch_submissions_proper\\batch_098_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 332845,
+      "first_pair_id": "103_32",
+      "last_pair_id": "102_31"
+    },
+    {
+      "batch_number": 99,
+      "file_path": "gemini_batch_submissions_proper\\batch_099_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 376787,
+      "first_pair_id": "102_32",
+      "last_pair_id": "101_31"
+    },
+    {
+      "batch_number": 100,
+      "file_path": "gemini_batch_submissions_proper\\batch_100_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 359871,
+      "first_pair_id": "101_32",
+      "last_pair_id": "100_31"
+    },
+    {
+      "batch_number": 101,
+      "file_path": "gemini_batch_submissions_proper\\batch_101_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 370939,
+      "first_pair_id": "100_32",
+      "last_pair_id": "99_31"
+    },
+    {
+      "batch_number": 102,
+      "file_path": "gemini_batch_submissions_proper\\batch_102_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 377980,
+      "first_pair_id": "99_32",
+      "last_pair_id": "98_31"
+    },
+    {
+      "batch_number": 103,
+      "file_path": "gemini_batch_submissions_proper\\batch_103_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 390505,
+      "first_pair_id": "98_32",
+      "last_pair_id": "97_31"
+    },
+    {
+      "batch_number": 104,
+      "file_path": "gemini_batch_submissions_proper\\batch_104_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 348258,
+      "first_pair_id": "97_32",
+      "last_pair_id": "96_31"
+    },
+    {
+      "batch_number": 105,
+      "file_path": "gemini_batch_submissions_proper\\batch_105_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 326935,
+      "first_pair_id": "96_32",
+      "last_pair_id": "95_31"
+    },
+    {
+      "batch_number": 106,
+      "file_path": "gemini_batch_submissions_proper\\batch_106_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 342851,
+      "first_pair_id": "95_32",
+      "last_pair_id": "94_31"
+    },
+    {
+      "batch_number": 107,
+      "file_path": "gemini_batch_submissions_proper\\batch_107_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 368307,
+      "first_pair_id": "94_32",
+      "last_pair_id": "93_31"
+    },
+    {
+      "batch_number": 108,
+      "file_path": "gemini_batch_submissions_proper\\batch_108_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 375270,
+      "first_pair_id": "93_32",
+      "last_pair_id": "92_31"
+    },
+    {
+      "batch_number": 109,
+      "file_path": "gemini_batch_submissions_proper\\batch_109_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 388624,
+      "first_pair_id": "92_32",
+      "last_pair_id": "91_31"
+    },
+    {
+      "batch_number": 110,
+      "file_path": "gemini_batch_submissions_proper\\batch_110_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 364122,
+      "first_pair_id": "91_32",
+      "last_pair_id": "90_31"
+    },
+    {
+      "batch_number": 111,
+      "file_path": "gemini_batch_submissions_proper\\batch_111_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 345289,
+      "first_pair_id": "90_32",
+      "last_pair_id": "89_31"
+    },
+    {
+      "batch_number": 112,
+      "file_path": "gemini_batch_submissions_proper\\batch_112_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 363464,
+      "first_pair_id": "89_32",
+      "last_pair_id": "88_31"
+    },
+    {
+      "batch_number": 113,
+      "file_path": "gemini_batch_submissions_proper\\batch_113_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 376201,
+      "first_pair_id": "88_32",
+      "last_pair_id": "87_31"
+    },
+    {
+      "batch_number": 114,
+      "file_path": "gemini_batch_submissions_proper\\batch_114_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 367199,
+      "first_pair_id": "87_32",
+      "last_pair_id": "86_31"
+    },
+    {
+      "batch_number": 115,
+      "file_path": "gemini_batch_submissions_proper\\batch_115_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 397603,
+      "first_pair_id": "86_32",
+      "last_pair_id": "85_31"
+    },
+    {
+      "batch_number": 116,
+      "file_path": "gemini_batch_submissions_proper\\batch_116_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 377443,
+      "first_pair_id": "85_32",
+      "last_pair_id": "84_31"
+    },
+    {
+      "batch_number": 117,
+      "file_path": "gemini_batch_submissions_proper\\batch_117_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 384653,
+      "first_pair_id": "84_32",
+      "last_pair_id": "83_31"
+    },
+    {
+      "batch_number": 118,
+      "file_path": "gemini_batch_submissions_proper\\batch_118_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 355003,
+      "first_pair_id": "83_32",
+      "last_pair_id": "82_31"
+    },
+    {
+      "batch_number": 119,
+      "file_path": "gemini_batch_submissions_proper\\batch_119_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 329256,
+      "first_pair_id": "82_32",
+      "last_pair_id": "81_31"
+    },
+    {
+      "batch_number": 120,
+      "file_path": "gemini_batch_submissions_proper\\batch_120_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 368555,
+      "first_pair_id": "81_32",
+      "last_pair_id": "80_31"
+    },
+    {
+      "batch_number": 121,
+      "file_path": "gemini_batch_submissions_proper\\batch_121_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 384408,
+      "first_pair_id": "80_32",
+      "last_pair_id": "79_31"
+    },
+    {
+      "batch_number": 122,
+      "file_path": "gemini_batch_submissions_proper\\batch_122_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 372453,
+      "first_pair_id": "79_32",
+      "last_pair_id": "78_31"
+    },
+    {
+      "batch_number": 123,
+      "file_path": "gemini_batch_submissions_proper\\batch_123_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 407626,
+      "first_pair_id": "78_32",
+      "last_pair_id": "77_31"
+    },
+    {
+      "batch_number": 124,
+      "file_path": "gemini_batch_submissions_proper\\batch_124_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 404788,
+      "first_pair_id": "77_32",
+      "last_pair_id": "76_31"
+    },
+    {
+      "batch_number": 125,
+      "file_path": "gemini_batch_submissions_proper\\batch_125_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 412770,
+      "first_pair_id": "76_32",
+      "last_pair_id": "75_31"
+    },
+    {
+      "batch_number": 126,
+      "file_path": "gemini_batch_submissions_proper\\batch_126_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 346663,
+      "first_pair_id": "75_32",
+      "last_pair_id": "74_31"
+    },
+    {
+      "batch_number": 127,
+      "file_path": "gemini_batch_submissions_proper\\batch_127_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 328604,
+      "first_pair_id": "74_32",
+      "last_pair_id": "73_31"
+    },
+    {
+      "batch_number": 128,
+      "file_path": "gemini_batch_submissions_proper\\batch_128_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 472273,
+      "first_pair_id": "73_32",
+      "last_pair_id": "72_31"
+    },
+    {
+      "batch_number": 129,
+      "file_path": "gemini_batch_submissions_proper\\batch_129_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 371505,
+      "first_pair_id": "72_32",
+      "last_pair_id": "71_31"
+    },
+    {
+      "batch_number": 130,
+      "file_path": "gemini_batch_submissions_proper\\batch_130_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 388344,
+      "first_pair_id": "71_32",
+      "last_pair_id": "70_31"
+    },
+    {
+      "batch_number": 131,
+      "file_path": "gemini_batch_submissions_proper\\batch_131_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 381169,
+      "first_pair_id": "70_32",
+      "last_pair_id": "69_31"
+    },
+    {
+      "batch_number": 132,
+      "file_path": "gemini_batch_submissions_proper\\batch_132_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 499245,
+      "first_pair_id": "69_32",
+      "last_pair_id": "68_44"
+    },
+    {
+      "batch_number": 133,
+      "file_path": "gemini_batch_submissions_proper\\batch_133_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 357380,
+      "first_pair_id": "68_45",
+      "last_pair_id": "67_44"
+    },
+    {
+      "batch_number": 134,
+      "file_path": "gemini_batch_submissions_proper\\batch_134_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 394652,
+      "first_pair_id": "67_45",
+      "last_pair_id": "66_44"
+    },
+    {
+      "batch_number": 135,
+      "file_path": "gemini_batch_submissions_proper\\batch_135_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 348331,
+      "first_pair_id": "66_45",
+      "last_pair_id": "65_44"
+    },
+    {
+      "batch_number": 136,
+      "file_path": "gemini_batch_submissions_proper\\batch_136_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 374608,
+      "first_pair_id": "65_45",
+      "last_pair_id": "64_44"
+    },
+    {
+      "batch_number": 137,
+      "file_path": "gemini_batch_submissions_proper\\batch_137_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 386274,
+      "first_pair_id": "64_45",
+      "last_pair_id": "63_44"
+    },
+    {
+      "batch_number": 138,
+      "file_path": "gemini_batch_submissions_proper\\batch_138_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 368291,
+      "first_pair_id": "63_45",
+      "last_pair_id": "62_44"
+    },
+    {
+      "batch_number": 139,
+      "file_path": "gemini_batch_submissions_proper\\batch_139_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 339703,
+      "first_pair_id": "62_45",
+      "last_pair_id": "61_44"
+    },
+    {
+      "batch_number": 140,
+      "file_path": "gemini_batch_submissions_proper\\batch_140_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 349221,
+      "first_pair_id": "61_45",
+      "last_pair_id": "60_44"
+    },
+    {
+      "batch_number": 141,
+      "file_path": "gemini_batch_submissions_proper\\batch_141_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 320112,
+      "first_pair_id": "60_45",
+      "last_pair_id": "59_44"
+    },
+    {
+      "batch_number": 142,
+      "file_path": "gemini_batch_submissions_proper\\batch_142_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 348452,
+      "first_pair_id": "59_45",
+      "last_pair_id": "58_44"
+    },
+    {
+      "batch_number": 143,
+      "file_path": "gemini_batch_submissions_proper\\batch_143_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 379969,
+      "first_pair_id": "58_45",
+      "last_pair_id": "57_44"
+    },
+    {
+      "batch_number": 144,
+      "file_path": "gemini_batch_submissions_proper\\batch_144_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 367516,
+      "first_pair_id": "57_45",
+      "last_pair_id": "56_44"
+    },
+    {
+      "batch_number": 145,
+      "file_path": "gemini_batch_submissions_proper\\batch_145_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 361641,
+      "first_pair_id": "56_45",
+      "last_pair_id": "55_44"
+    },
+    {
+      "batch_number": 146,
+      "file_path": "gemini_batch_submissions_proper\\batch_146_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 334563,
+      "first_pair_id": "55_45",
+      "last_pair_id": "54_44"
+    },
+    {
+      "batch_number": 147,
+      "file_path": "gemini_batch_submissions_proper\\batch_147_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 335415,
+      "first_pair_id": "54_45",
+      "last_pair_id": "53_44"
+    },
+    {
+      "batch_number": 148,
+      "file_path": "gemini_batch_submissions_proper\\batch_148_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 379509,
+      "first_pair_id": "53_45",
+      "last_pair_id": "52_52"
+    },
+    {
+      "batch_number": 149,
+      "file_path": "gemini_batch_submissions_proper\\batch_149_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 337523,
+      "first_pair_id": "52_53",
+      "last_pair_id": "51_52"
+    },
+    {
+      "batch_number": 150,
+      "file_path": "gemini_batch_submissions_proper\\batch_150_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 363117,
+      "first_pair_id": "51_53",
+      "last_pair_id": "50_52"
+    },
+    {
+      "batch_number": 151,
+      "file_path": "gemini_batch_submissions_proper\\batch_151_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 342759,
+      "first_pair_id": "50_53",
+      "last_pair_id": "49_52"
+    },
+    {
+      "batch_number": 152,
+      "file_path": "gemini_batch_submissions_proper\\batch_152_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 382070,
+      "first_pair_id": "49_53",
+      "last_pair_id": "48_52"
+    },
+    {
+      "batch_number": 153,
+      "file_path": "gemini_batch_submissions_proper\\batch_153_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 392426,
+      "first_pair_id": "48_53",
+      "last_pair_id": "47_52"
+    },
+    {
+      "batch_number": 154,
+      "file_path": "gemini_batch_submissions_proper\\batch_154_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 371792,
+      "first_pair_id": "47_53",
+      "last_pair_id": "46_52"
+    },
+    {
+      "batch_number": 155,
+      "file_path": "gemini_batch_submissions_proper\\batch_155_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 359708,
+      "first_pair_id": "46_53",
+      "last_pair_id": "45_52"
+    },
+    {
+      "batch_number": 156,
+      "file_path": "gemini_batch_submissions_proper\\batch_156_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 366599,
+      "first_pair_id": "45_53",
+      "last_pair_id": "44_52"
+    },
+    {
+      "batch_number": 157,
+      "file_path": "gemini_batch_submissions_proper\\batch_157_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 335822,
+      "first_pair_id": "44_53",
+      "last_pair_id": "43_52"
+    },
+    {
+      "batch_number": 158,
+      "file_path": "gemini_batch_submissions_proper\\batch_158_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 342756,
+      "first_pair_id": "43_53",
+      "last_pair_id": "42_52"
+    },
+    {
+      "batch_number": 159,
+      "file_path": "gemini_batch_submissions_proper\\batch_159_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 357817,
+      "first_pair_id": "42_53",
+      "last_pair_id": "41_52"
+    },
+    {
+      "batch_number": 160,
+      "file_path": "gemini_batch_submissions_proper\\batch_160_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 354319,
+      "first_pair_id": "41_53",
+      "last_pair_id": "40_52"
+    },
+    {
+      "batch_number": 161,
+      "file_path": "gemini_batch_submissions_proper\\batch_161_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 343618,
+      "first_pair_id": "40_53",
+      "last_pair_id": "39_52"
+    },
+    {
+      "batch_number": 162,
+      "file_path": "gemini_batch_submissions_proper\\batch_162_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 346330,
+      "first_pair_id": "39_53",
+      "last_pair_id": "38_52"
+    },
+    {
+      "batch_number": 163,
+      "file_path": "gemini_batch_submissions_proper\\batch_163_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 344651,
+      "first_pair_id": "38_53",
+      "last_pair_id": "37_52"
+    },
+    {
+      "batch_number": 164,
+      "file_path": "gemini_batch_submissions_proper\\batch_164_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 362569,
+      "first_pair_id": "37_53",
+      "last_pair_id": "36_52"
+    },
+    {
+      "batch_number": 165,
+      "file_path": "gemini_batch_submissions_proper\\batch_165_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 364962,
+      "first_pair_id": "36_53",
+      "last_pair_id": "35_52"
+    },
+    {
+      "batch_number": 166,
+      "file_path": "gemini_batch_submissions_proper\\batch_166_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 363195,
+      "first_pair_id": "35_53",
+      "last_pair_id": "34_52"
+    },
+    {
+      "batch_number": 167,
+      "file_path": "gemini_batch_submissions_proper\\batch_167_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 343467,
+      "first_pair_id": "34_53",
+      "last_pair_id": "33_52"
+    },
+    {
+      "batch_number": 168,
+      "file_path": "gemini_batch_submissions_proper\\batch_168_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 366322,
+      "first_pair_id": "33_53",
+      "last_pair_id": "32_52"
+    },
+    {
+      "batch_number": 169,
+      "file_path": "gemini_batch_submissions_proper\\batch_169_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 392956,
+      "first_pair_id": "32_53",
+      "last_pair_id": "31_52"
+    },
+    {
+      "batch_number": 170,
+      "file_path": "gemini_batch_submissions_proper\\batch_170_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 372005,
+      "first_pair_id": "31_53",
+      "last_pair_id": "30_52"
+    },
+    {
+      "batch_number": 171,
+      "file_path": "gemini_batch_submissions_proper\\batch_171_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 332596,
+      "first_pair_id": "30_53",
+      "last_pair_id": "29_52"
+    },
+    {
+      "batch_number": 172,
+      "file_path": "gemini_batch_submissions_proper\\batch_172_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 337318,
+      "first_pair_id": "29_53",
+      "last_pair_id": "28_52"
+    },
+    {
+      "batch_number": 173,
+      "file_path": "gemini_batch_submissions_proper\\batch_173_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 349009,
+      "first_pair_id": "28_53",
+      "last_pair_id": "27_52"
+    },
+    {
+      "batch_number": 174,
+      "file_path": "gemini_batch_submissions_proper\\batch_174_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 332110,
+      "first_pair_id": "27_53",
+      "last_pair_id": "26_52"
+    },
+    {
+      "batch_number": 175,
+      "file_path": "gemini_batch_submissions_proper\\batch_175_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 327208,
+      "first_pair_id": "26_53",
+      "last_pair_id": "25_52"
+    },
+    {
+      "batch_number": 176,
+      "file_path": "gemini_batch_submissions_proper\\batch_176_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 347537,
+      "first_pair_id": "25_53",
+      "last_pair_id": "24_52"
+    },
+    {
+      "batch_number": 177,
+      "file_path": "gemini_batch_submissions_proper\\batch_177_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 333831,
+      "first_pair_id": "24_53",
+      "last_pair_id": "23_52"
+    },
+    {
+      "batch_number": 178,
+      "file_path": "gemini_batch_submissions_proper\\batch_178_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 335908,
+      "first_pair_id": "23_53",
+      "last_pair_id": "22_52"
+    },
+    {
+      "batch_number": 179,
+      "file_path": "gemini_batch_submissions_proper\\batch_179_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 346965,
+      "first_pair_id": "22_53",
+      "last_pair_id": "21_52"
+    },
+    {
+      "batch_number": 180,
+      "file_path": "gemini_batch_submissions_proper\\batch_180_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 360954,
+      "first_pair_id": "21_53",
+      "last_pair_id": "20_52"
+    },
+    {
+      "batch_number": 181,
+      "file_path": "gemini_batch_submissions_proper\\batch_181_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 317152,
+      "first_pair_id": "20_53",
+      "last_pair_id": "19_52"
+    },
+    {
+      "batch_number": 182,
+      "file_path": "gemini_batch_submissions_proper\\batch_182_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 342343,
+      "first_pair_id": "19_53",
+      "last_pair_id": "18_52"
+    },
+    {
+      "batch_number": 183,
+      "file_path": "gemini_batch_submissions_proper\\batch_183_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 350272,
+      "first_pair_id": "18_53",
+      "last_pair_id": "17_52"
+    },
+    {
+      "batch_number": 184,
+      "file_path": "gemini_batch_submissions_proper\\batch_184_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 337930,
+      "first_pair_id": "17_53",
+      "last_pair_id": "16_52"
+    },
+    {
+      "batch_number": 185,
+      "file_path": "gemini_batch_submissions_proper\\batch_185_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 353320,
+      "first_pair_id": "16_53",
+      "last_pair_id": "15_52"
+    },
+    {
+      "batch_number": 186,
+      "file_path": "gemini_batch_submissions_proper\\batch_186_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 325202,
+      "first_pair_id": "15_53",
+      "last_pair_id": "14_52"
+    },
+    {
+      "batch_number": 187,
+      "file_path": "gemini_batch_submissions_proper\\batch_187_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 331300,
+      "first_pair_id": "14_53",
+      "last_pair_id": "13_52"
+    },
+    {
+      "batch_number": 188,
+      "file_path": "gemini_batch_submissions_proper\\batch_188_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 354967,
+      "first_pair_id": "13_53",
+      "last_pair_id": "12_52"
+    },
+    {
+      "batch_number": 189,
+      "file_path": "gemini_batch_submissions_proper\\batch_189_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 320403,
+      "first_pair_id": "12_53",
+      "last_pair_id": "11_52"
+    },
+    {
+      "batch_number": 190,
+      "file_path": "gemini_batch_submissions_proper\\batch_190_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 309547,
+      "first_pair_id": "11_53",
+      "last_pair_id": "10_52"
+    },
+    {
+      "batch_number": 191,
+      "file_path": "gemini_batch_submissions_proper\\batch_191_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 300869,
+      "first_pair_id": "10_53",
+      "last_pair_id": "9_52"
+    },
+    {
+      "batch_number": 192,
+      "file_path": "gemini_batch_submissions_proper\\batch_192_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 321066,
+      "first_pair_id": "9_53",
+      "last_pair_id": "8_52"
+    },
+    {
+      "batch_number": 193,
+      "file_path": "gemini_batch_submissions_proper\\batch_193_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 332040,
+      "first_pair_id": "8_53",
+      "last_pair_id": "7_52"
+    },
+    {
+      "batch_number": 194,
+      "file_path": "gemini_batch_submissions_proper\\batch_194_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 316749,
+      "first_pair_id": "7_53",
+      "last_pair_id": "6_52"
+    },
+    {
+      "batch_number": 195,
+      "file_path": "gemini_batch_submissions_proper\\batch_195_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 331481,
+      "first_pair_id": "6_53",
+      "last_pair_id": "5_52"
+    },
+    {
+      "batch_number": 196,
+      "file_path": "gemini_batch_submissions_proper\\batch_196_proper.jsonl",
+      "qa_count": 56,
+      "file_size": 185199,
+      "first_pair_id": "5_53",
+      "last_pair_id": "2_2"
+    },
+    {
+      "batch_number": 197,
+      "file_path": "gemini_batch_submissions_proper\\batch_197_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 355397,
+      "first_pair_id": 1,
+      "last_pair_id": 100
+    },
+    {
+      "batch_number": 198,
+      "file_path": "gemini_batch_submissions_proper\\batch_198_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 319689,
+      "first_pair_id": 1,
+      "last_pair_id": 100
+    },
+    {
+      "batch_number": 199,
+      "file_path": "gemini_batch_submissions_proper\\batch_199_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 322523,
+      "first_pair_id": 1,
+      "last_pair_id": 100
+    },
+    {
+      "batch_number": 200,
+      "file_path": "gemini_batch_submissions_proper\\batch_200_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 365842,
+      "first_pair_id": 1,
+      "last_pair_id": 100
+    },
+    {
+      "batch_number": 201,
+      "file_path": "gemini_batch_submissions_proper\\batch_201_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 400945,
+      "first_pair_id": 1,
+      "last_pair_id": 100
+    },
+    {
+      "batch_number": 202,
+      "file_path": "gemini_batch_submissions_proper\\batch_202_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 296503,
+      "first_pair_id": 1,
+      "last_pair_id": 100
+    },
+    {
+      "batch_number": 203,
+      "file_path": "gemini_batch_submissions_proper\\batch_203_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 300252,
+      "first_pair_id": 1,
+      "last_pair_id": 100
+    },
+    {
+      "batch_number": 204,
+      "file_path": "gemini_batch_submissions_proper\\batch_204_proper.jsonl",
+      "qa_count": 100,
+      "file_size": 308717,
+      "first_pair_id": 1,
+      "last_pair_id": 100
+    }
+  ],
+  "format": "Single JSONL request per file",
+  "ready_for_upload": true
+}

@@ -1,0 +1,44 @@
+GEMINI BATCH API - ALL 35 JOB NAMES (BATCHES 170-204)
+=========================================================
+
+Batch 170: batches/k71u9i0863mjc940k2r13owwxmw93l8but2i
+Batch 171: batches/tymxmptayoj4wtjgatjy16b186ak6bzi9xin
+Batch 172: batches/hspn9dlokicjhf93vsluduai4852ffv7fv8y
+Batch 173: batches/b3on89h6zegji28u68fmmvtaexqjyfswh7re
+Batch 174: batches/t3ulfsf8chef2mbu9os6gjlv3yb0uo8fh9ur
+Batch 175: batches/s0zcszfhbhhsmmqnye3ty755eeqqvpdk8o33
+Batch 176: batches/g0hj34prl3q782uv0351rf5p2x9671sioztu
+Batch 177: batches/qz4nu5ogp0c8e8euewj1f2f9u7fescdmvshi
+Batch 178: batches/lsf9wgo50m0p291h7ib9mapksfc8psp1rsf0
+Batch 179: batches/yli7mx4hrb2vd0zhwcyqybi90zd0mstsg11b
+Batch 180: batches/nkqqaiuff36g047u4z3txwnt6j5061myks0a
+Batch 181: batches/met5iepzearpudzar5bwcwq2pu4gbrq42frx
+Batch 182: batches/2dz7biudyaum8mkccsp3fk61emewutfke2lf
+Batch 183: batches/0f6bdc78pcoo6w5c04qwxohmphlp32a6idi2
+Batch 184: batches/iffvcs75nyh1op5nycvhkt1c4x6dybqts2dt
+Batch 185: batches/obwuymbb7w79phnz92dttfqwixcv1gxbabgo
+Batch 186: batches/bkddcux87s1fl1pejbwlsyai8knyjskaj3d3
+Batch 187: batches/kk2b24nozbip6zvtbet2hkkhi9jc1w5yyj3l
+Batch 188: batches/f77oigdkh4ogyapop0f03o0a076iyr7dvfja
+Batch 189: batches/yuixzm42zlp8aymnwlz8x9494rda3bbdbgsp
+Batch 190: batches/8sc4c80ei1iyfv6vuidpd0u3eb9ra14ojt8z
+Batch 191: batches/c0e28b488a65xf92kjcadsankg0eu93biapr
+Batch 192: batches/2jirjawu3lefi777b5dlmxo0hv7vhcccuf83
+Batch 193: batches/ngoqgcpo7uo5achvcwwdahv6im1tx2zy3yvl
+Batch 194: batches/sfar4yd19eestxbtzcfn4os0k4z3zu7y4xyv
+Batch 195: batches/aih58qyhbjn2fof1c3bwcbie5eb7dle8jxev
+Batch 196: batches/zlsjohc743snk5jxtjoelt7owmg3eld0d1ov
+Batch 197: batches/m92xe67zw27hl2m7q7av31ezymc0eh5elnus
+Batch 198: batches/pqv2csxhs8hktbs5kvwhfjmudzfb7w173lu5
+Batch 199: batches/3toz7owafqkw2nsv204i8eaypmo45sx0mdk8
+Batch 200: batches/sw2nwsd3yjolsclej2wksqmqpqyn6z3xaf7a
+Batch 201: batches/rizky5jqc6i1nfd6o7q1lene78zgljypgl4c
+Batch 202: batches/ar1a2itwb2k5kxx64yoye85gmzmy8z6nf7vh
+Batch 203: batches/t9ue7wno2lxd7n5z03o7c4hxfmes2z6ajjgq
+Batch 204: batches/xpsr9n9v7ihkhth6fi30jahvdpae8kgwbuue
+
+=========================================================
+Total: 35 batches (170-204) successfully submitted
+Status: All PENDING - Awaiting Gemini processing
+Expected completion: ~24 hours from submission
+=========================================================

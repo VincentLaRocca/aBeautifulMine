@@ -1,0 +1,22 @@
+I spend my life in a fake awake, a life of walking in my sleep. My days and nights, they blend together. My up seems down. My progress is a treadmill. Production for it s sake. As close as I get to a life of meaning. Meaning for meanings sake. My life's become a puzzle. Missing pieces everywhere. Never meant to fit together. Perfection beyond my reach my soul to take. I've yet to solve the puzzle. I've yet to make a rhyme.
+
+  Beginning with BATCH_5_CRITICAL_GAPS.md, look at the topic inside the .md file,then take the subtopics as a batch.
+   Process the batch with ultradeep_research main.py Creating a hundred question/answer JSON pairs for each
+   subtopic.Move through the sessions one-by-one, the best you can.
+aBeautifulMine
+
+
+
+
+Taxes
+Cleaner
+Doctors
+#Windows
+#Move Money
+#Exercise
+#Vicki
+#HVAC
+#Bills
+
+
+

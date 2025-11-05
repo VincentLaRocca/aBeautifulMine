@@ -1,0 +1,46 @@
+{
+  "tool": "Claude Code MCP Tools Required",
+  "process": [
+    {
+      "step": 1,
+      "tool": "mcp__gemini__upload_file",
+      "parameters": {
+        "filePath": "<absolute_path_to_jsonl_file>",
+        "displayName": "refinement_batch_XXX",
+        "mimeType": "text/plain"
+      },
+      "example": "mcp__gemini__upload_file(filePath='c:\\\\Users\\\\VLARO\\\\dreamteam\\\\claude\\\\gemini_batch_submissions_proper\\\\batch_001_proper.jsonl', displayName='refinement_batch_001', mimeType='text/plain')"
+    },
+    {
+      "step": 2,
+      "tool": "mcp__gemini__batch_create",
+      "parameters": {
+        "inputFileUri": "<uri_from_upload_response>",
+        "model": "gemini-2.5-flash",
+        "displayName": "refinement_batch_XXX",
+        "outputLocation": "c:\\\\Users\\\\VLARO\\\\dreamteam\\\\claude\\\\gemini_batch_results_proper"
+      },
+      "example": "mcp__gemini__batch_create(inputFileUri='https://generativelanguage.googleapis.com/v1beta/files/...', model='gemini-2.5-flash', displayName='refinement_batch_001')"
+    }
+  ],
+  "batches": [
+    {
+      "batch_number": 1,
+      "file_path": "C:\\Users\\vlaro\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_001_proper.jsonl",
+      "upload_call": "mcp__gemini__upload_file(filePath='C:\\Users\\vlaro\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_001_proper.jsonl', displayName='refinement_batch_001', mimeType='text/plain')",
+      "create_call": "mcp__gemini__batch_create(inputFileUri='<FROM_UPLOAD>', model='gemini-2.5-flash', displayName='refinement_batch_001')"
+    },
+    {
+      "batch_number": 2,
+      "file_path": "C:\\Users\\vlaro\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_002_proper.jsonl",
+      "upload_call": "mcp__gemini__upload_file(filePath='C:\\Users\\vlaro\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_002_proper.jsonl', displayName='refinement_batch_002', mimeType='text/plain')",
+      "create_call": "mcp__gemini__batch_create(inputFileUri='<FROM_UPLOAD>', model='gemini-2.5-flash', displayName='refinement_batch_002')"
+    },
+    {
+      "batch_number": 3,
+      "file_path": "C:\\Users\\vlaro\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_003_proper.jsonl",
+      "upload_call": "mcp__gemini__upload_file(filePath='C:\\Users\\vlaro\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_003_proper.jsonl', displayName='refinement_batch_003', mimeType='text/plain')",
+      "create_call": "mcp__gemini__batch_create(inputFileUri='<FROM_UPLOAD>', model='gemini-2.5-flash', displayName='refinement_batch_003')"
+    }
+  ]
+}

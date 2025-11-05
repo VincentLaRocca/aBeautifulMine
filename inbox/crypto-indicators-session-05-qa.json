@@ -1,0 +1,18 @@
+{
+  "session": 5,
+  "date": "2025-11-01",
+  "indicators": [
+    "Ultimate Oscillator",
+    "Know Sure Thing (KST)",
+    "Momentum Indicator",
+    "Bollinger Bands",
+    "Average True Range (ATR)"
+  ],
+  "qa_pairs": [
+    {
+      "indicator": "Ultimate Oscillator",
+      "question": "What is the Ultimate Oscillator and how is it calculated?",
+      "answer": "The Ultimate Oscillator (UO) is a momentum oscillator developed by Larry Williams in 1976. Unlike many other oscillators that rely on a single timeframe, the UO incorporates price action from three different timeframes into its calculation.\n\nMathematical Formula:\nThe calculation involves several steps:\n1. Calculate Buying Pressure (BP): BP = Close - Minimum(Low, Prior Close)\n2. Calculate True Range (TR): TR = Maximum(High - Low, |High - Prior Close|, |Low - Prior Close|)\n3. Calculate Average BP and Average TR for three timeframes (typically P1=7, P2=14, P3=28)\n4. Calculate Raw UO for each timeframe: RawUO(P) = AvgBP(P) / AvgTR(P)\n5. Calculate weighted UO: UO = [(4 × RawUO(7)) + (2 × RawUO(14)) + (1 × RawUO(28))] / 7\n\nThe three timeframe components (short, medium, long) are given weights of 4, 2, and 1 respectively, prioritizing recent price action while integrating broader context.\n\nWilliams' design rationale was to overcome limitations of single-timeframe oscillators: reducing false signals/whipsaws and improving divergence reliability by combining momentum across multiple horizons."
+    }
+  ]
+}

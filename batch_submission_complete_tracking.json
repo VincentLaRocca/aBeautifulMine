@@ -1,0 +1,37 @@
+{
+  "submission_started": "2025-11-02T11:22:53.137884",
+  "batches": {
+    "51": {
+      "batch_num": 51,
+      "batch_job_name": "batches/ej8mfplrwj9lhg9i1k0fibc1m5qhnxaqlmeq",
+      "display_name": "refinement_batch_051",
+      "status": "submitted"
+    },
+    "52": {
+      "batch_num": 52,
+      "batch_job_name": "batches/stgtetixp5xxw0nzm5uv4n7tjgpftfl27nbw",
+      "display_name": "refinement_batch_052",
+      "status": "submitted"
+    },
+    "53": {
+      "batch_num": 53,
+      "batch_job_name": "batches/ci3inwvjsfr1ji925xcz2yly0po6hr1jfjnu",
+      "display_name": "refinement_batch_053",
+      "status": "submitted"
+    },
+    "54": {
+      "batch_num": 54,
+      "batch_job_name": "batches/g0nyg6kct41eudmjcuvhvu1j9vshgd7khkro",
+      "display_name": "refinement_batch_054",
+      "status": "submitted"
+    },
+    "55": {
+      "batch_num": 55,
+      "batch_job_name": "batches/3sm5rg8t2acxfsviyrwtkrtxtzavxke7hlj9",
+      "display_name": "refinement_batch_055",
+      "status": "submitted"
+    }
+  },
+  "completed_count": 5,
+  "target_count": 154
+}

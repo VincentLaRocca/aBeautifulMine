@@ -1,0 +1,82 @@
+{
+  "start_time": "2025-11-02 09:12:09",
+  "total_batches": 10,
+  "batches": [
+    {
+      "batch_number": 1,
+      "batch_id": "refinement_batch_001",
+      "qa_count": 100,
+      "instruction_file": "refinement_results_validation\\batch_001_instruction.json",
+      "status": "ready_to_process"
+    },
+    {
+      "batch_number": 2,
+      "batch_id": "refinement_batch_002",
+      "qa_count": 100,
+      "instruction_file": "refinement_results_validation\\batch_002_instruction.json",
+      "status": "ready_to_process"
+    },
+    {
+      "batch_number": 3,
+      "batch_id": "refinement_batch_003",
+      "qa_count": 100,
+      "instruction_file": "refinement_results_validation\\batch_003_instruction.json",
+      "status": "ready_to_process"
+    },
+    {
+      "batch_number": 4,
+      "batch_id": "refinement_batch_004",
+      "qa_count": 100,
+      "instruction_file": "refinement_results_validation\\batch_004_instruction.json",
+      "status": "ready_to_process"
+    },
+    {
+      "batch_number": 5,
+      "batch_id": "refinement_batch_005",
+      "qa_count": 100,
+      "instruction_file": "refinement_results_validation\\batch_005_instruction.json",
+      "status": "ready_to_process"
+    },
+    {
+      "batch_number": 6,
+      "batch_id": "refinement_batch_006",
+      "qa_count": 100,
+      "instruction_file": "refinement_results_validation\\batch_006_instruction.json",
+      "status": "ready_to_process"
+    },
+    {
+      "batch_number": 7,
+      "batch_id": "refinement_batch_007",
+      "qa_count": 100,
+      "instruction_file": "refinement_results_validation\\batch_007_instruction.json",
+      "status": "ready_to_process"
+    },
+    {
+      "batch_number": 8,
+      "batch_id": "refinement_batch_008",
+      "qa_count": 100,
+      "instruction_file": "refinement_results_validation\\batch_008_instruction.json",
+      "status": "ready_to_process"
+    },
+    {
+      "batch_number": 9,
+      "batch_id": "refinement_batch_009",
+      "qa_count": 100,
+      "instruction_file": "refinement_results_validation\\batch_009_instruction.json",
+      "status": "ready_to_process"
+    },
+    {
+      "batch_number": 10,
+      "batch_id": "refinement_batch_010",
+      "qa_count": 100,
+      "instruction_file": "refinement_results_validation\\batch_010_instruction.json",
+      "status": "ready_to_process"
+    }
+  ],
+  "summary": {
+    "total_qa_pairs": 1000,
+    "successful_batches": 0,
+    "failed_batches": 0,
+    "total_processing_time": 0
+  }
+}

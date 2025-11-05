@@ -1,0 +1,270 @@
+{
+  "submission_status": "COMPLETE",
+  "submission_date": "2025-11-02T17:41:54Z",
+  "total_batches_submitted": 35,
+  "batch_range": "170-204",
+  "total_qa_pairs": 3500,
+  "model": "gemini-2.5-flash",
+  "results_directory": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_results_proper",
+  "submitted_batches": [
+    {
+      "batch_number": 170,
+      "display_name": "batch-170-crypto-qa",
+      "job_name": "batches/k71u9i0863mjc940k2r13owwxmw93l8but2i",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:05.932581134Z"
+    },
+    {
+      "batch_number": 171,
+      "display_name": "batch-171-crypto-qa",
+      "job_name": "batches/tymxmptayoj4wtjgatjy16b186ak6bzi9xin",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:06.975888747Z"
+    },
+    {
+      "batch_number": 172,
+      "display_name": "batch-172-crypto-qa",
+      "job_name": "batches/hspn9dlokicjhf93vsluduai4852ffv7fv8y",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:08.107385765Z"
+    },
+    {
+      "batch_number": 173,
+      "display_name": "batch-173-crypto-qa",
+      "job_name": "batches/b3on89h6zegji28u68fmmvtaexqjyfswh7re",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:09.088729158Z"
+    },
+    {
+      "batch_number": 174,
+      "display_name": "batch-174-crypto-qa",
+      "job_name": "batches/t3ulfsf8chef2mbu9os6gjlv3yb0uo8fh9ur",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:10.113082112Z"
+    },
+    {
+      "batch_number": 175,
+      "display_name": "batch-175-crypto-qa",
+      "job_name": "batches/s0zcszfhbhhsmmqnye3ty755eeqqvpdk8o33",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:11.242610991Z"
+    },
+    {
+      "batch_number": 176,
+      "display_name": "batch-176-crypto-qa",
+      "job_name": "batches/g0hj34prl3q782uv0351rf5p2x9671sioztu",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:12.298382119Z"
+    },
+    {
+      "batch_number": 177,
+      "display_name": "batch-177-crypto-qa",
+      "job_name": "batches/qz4nu5ogp0c8e8euewj1f2f9u7fescdmvshi",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:13.501083075Z"
+    },
+    {
+      "batch_number": 178,
+      "display_name": "batch-178-crypto-qa",
+      "job_name": "batches/lsf9wgo50m0p291h7ib9mapksfc8psp1rsf0",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:14.553667388Z"
+    },
+    {
+      "batch_number": 179,
+      "display_name": "batch-179-crypto-qa",
+      "job_name": "batches/yli7mx4hrb2vd0zhwcyqybi90zd0mstsg11b",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:15.640673831Z"
+    },
+    {
+      "batch_number": 180,
+      "display_name": "batch-180-crypto-qa",
+      "job_name": "batches/nkqqaiuff36g047u4z3txwnt6j5061myks0a",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:44.561105197Z"
+    },
+    {
+      "batch_number": 181,
+      "display_name": "batch-181-crypto-qa",
+      "job_name": "batches/met5iepzearpudzar5bwcwq2pu4gbrq42frx",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:45.648341248Z"
+    },
+    {
+      "batch_number": 182,
+      "display_name": "batch-182-crypto-qa",
+      "job_name": "batches/2dz7biudyaum8mkccsp3fk61emewutfke2lf",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:46.658692784Z"
+    },
+    {
+      "batch_number": 183,
+      "display_name": "batch-183-crypto-qa",
+      "job_name": "batches/0f6bdc78pcoo6w5c04qwxohmphlp32a6idi2",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:47.686952596Z"
+    },
+    {
+      "batch_number": 184,
+      "display_name": "batch-184-crypto-qa",
+      "job_name": "batches/iffvcs75nyh1op5nycvhkt1c4x6dybqts2dt",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:48.677690425Z"
+    },
+    {
+      "batch_number": 185,
+      "display_name": "batch-185-crypto-qa",
+      "job_name": "batches/obwuymbb7w79phnz92dttfqwixcv1gxbabgo",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:49.657906277Z"
+    },
+    {
+      "batch_number": 186,
+      "display_name": "batch-186-crypto-qa",
+      "job_name": "batches/bkddcux87s1fl1pejbwlsyai8knyjskaj3d3",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:50.663874577Z"
+    },
+    {
+      "batch_number": 187,
+      "display_name": "batch-187-crypto-qa",
+      "job_name": "batches/kk2b24nozbip6zvtbet2hkkhi9jc1w5yyj3l",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:51.796190723Z"
+    },
+    {
+      "batch_number": 188,
+      "display_name": "batch-188-crypto-qa",
+      "job_name": "batches/f77oigdkh4ogyapop0f03o0a076iyr7dvfja",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:52.848317622Z"
+    },
+    {
+      "batch_number": 189,
+      "display_name": "batch-189-crypto-qa",
+      "job_name": "batches/yuixzm42zlp8aymnwlz8x9494rda3bbdbgsp",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:40:53.972773486Z"
+    },
+    {
+      "batch_number": 190,
+      "display_name": "batch-190-crypto-qa",
+      "job_name": "batches/8sc4c80ei1iyfv6vuidpd0u3eb9ra14ojt8z",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:23.235488716Z"
+    },
+    {
+      "batch_number": 191,
+      "display_name": "batch-191-crypto-qa",
+      "job_name": "batches/c0e28b488a65xf92kjcadsankg0eu93biapr",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:24.429159743Z"
+    },
+    {
+      "batch_number": 192,
+      "display_name": "batch-192-crypto-qa",
+      "job_name": "batches/2jirjawu3lefi777b5dlmxo0hv7vhcccuf83",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:25.482396781Z"
+    },
+    {
+      "batch_number": 193,
+      "display_name": "batch-193-crypto-qa",
+      "job_name": "batches/ngoqgcpo7uo5achvcwwdahv6im1tx2zy3yvl",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:26.592923352Z"
+    },
+    {
+      "batch_number": 194,
+      "display_name": "batch-194-crypto-qa",
+      "job_name": "batches/sfar4yd19eestxbtzcfn4os0k4z3zu7y4xyv",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:27.677899891Z"
+    },
+    {
+      "batch_number": 195,
+      "display_name": "batch-195-crypto-qa",
+      "job_name": "batches/aih58qyhbjn2fof1c3bwcbie5eb7dle8jxev",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:28.707891171Z"
+    },
+    {
+      "batch_number": 196,
+      "display_name": "batch-196-crypto-qa",
+      "job_name": "batches/zlsjohc743snk5jxtjoelt7owmg3eld0d1ov",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:29.871134941Z"
+    },
+    {
+      "batch_number": 197,
+      "display_name": "batch-197-crypto-qa",
+      "job_name": "batches/m92xe67zw27hl2m7q7av31ezymc0eh5elnus",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:30.908642422Z"
+    },
+    {
+      "batch_number": 198,
+      "display_name": "batch-198-crypto-qa",
+      "job_name": "batches/pqv2csxhs8hktbs5kvwhfjmudzfb7w173lu5",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:31.914379755Z"
+    },
+    {
+      "batch_number": 199,
+      "display_name": "batch-199-crypto-qa",
+      "job_name": "batches/3toz7owafqkw2nsv204i8eaypmo45sx0mdk8",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:32.925524426Z"
+    },
+    {
+      "batch_number": 200,
+      "display_name": "batch-200-crypto-qa",
+      "job_name": "batches/sw2nwsd3yjolsclej2wksqmqpqyn6z3xaf7a",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:50.734120258Z"
+    },
+    {
+      "batch_number": 201,
+      "display_name": "batch-201-crypto-qa",
+      "job_name": "batches/rizky5jqc6i1nfd6o7q1lene78zgljypgl4c",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:51.707671381Z"
+    },
+    {
+      "batch_number": 202,
+      "display_name": "batch-202-crypto-qa",
+      "job_name": "batches/ar1a2itwb2k5kxx64yoye85gmzmy8z6nf7vh",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:52.850694005Z"
+    },
+    {
+      "batch_number": 203,
+      "display_name": "batch-203-crypto-qa",
+      "job_name": "batches/t9ue7wno2lxd7n5z03o7c4hxfmes2z6ajjgq",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:53.887634472Z"
+    },
+    {
+      "batch_number": 204,
+      "display_name": "batch-204-crypto-qa",
+      "job_name": "batches/xpsr9n9v7ihkhth6fi30jahvdpae8kgwbuue",
+      "state": "JOB_STATE_PENDING",
+      "create_time": "2025-11-02T17:41:54.833111069Z"
+    }
+  ],
+  "summary": {
+    "total_submitted": 35,
+    "success_rate": "100%",
+    "failed": 0,
+    "all_batches_170_204_submitted": true,
+    "grand_total_all_batches": 204,
+    "grand_total_qa_pairs": 20400
+  },
+  "next_steps": [
+    "Monitor batch jobs using batch_get_status(batchName) with the job names listed above",
+    "Expected processing time: 24 hours (typical for Gemini Batch API)",
+    "Download results using batch_download_results(batchName) when state transitions to SUCCEEDED",
+    "Aggregate all results from batches 1-204 into final training dataset"
+  ]
+}

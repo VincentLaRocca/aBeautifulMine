@@ -1,0 +1,14 @@
+{
+  "submission_start": "2025-11-02 09:19:30",
+  "batches": [
+    {
+      "batch_number": 1,
+      "batch_id": "refinement_batch_001",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/2xk9tzftmt6k",
+      "job_name": "batches/w2svtdivbn1nl6vdis6e9f5g7qbwurvrarim",
+      "state": "PENDING",
+      "qa_count": 100,
+      "submitted_at": "2025-11-02 14:19:05"
+    }
+  ]
+}

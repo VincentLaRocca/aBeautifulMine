@@ -1,0 +1,5 @@
+CRYPTO INDICATOR Exchange Netflows
+CRYPTO INDICATOR Taker Buy/Sell Volume
+CRYPTO INDICATOR Maker Buy/Sell Volume
+CRYPTO INDICATOR Trade Count
+CRYPTO INDICATOR Bitcoin Dominance (BTC.D)

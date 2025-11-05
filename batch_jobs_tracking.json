@@ -1,0 +1,17 @@
+{
+  "submission_start": "2025-11-02T16:20:00Z",
+  "batches_submitted": [
+    {
+      "batch_num": 51,
+      "file": "batch_051_proper.jsonl",
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/4a3686ru8h6q",
+      "batch_job_name": "batches/ej8mfplrwj9lhg9i1k0fibc1m5qhnxaqlmeq",
+      "display_name": "refinement_batch_051",
+      "status": "PENDING",
+      "submitted_at": "2025-11-02T16:20:47Z"
+    }
+  ],
+  "total_submitted": 1,
+  "target_total": 154,
+  "failed_batches": []
+}

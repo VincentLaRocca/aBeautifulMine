@@ -1,0 +1,645 @@
+{
+  "created_at": "2025-11-02T09:04:01.869350",
+  "total_qa_pairs": 19556,
+  "total_batches": 40,
+  "batch_size": 500,
+  "batches": [
+    {
+      "batch_id": "batch_001",
+      "batch_number": 1,
+      "qa_count": 500,
+      "pair_id_range": "s200_q0 to s196_q99",
+      "topics_in_batch": [
+        "Maximum Supply technical indicator cryptocurrency trading",
+        "Inflation Rate technical indicator cryptocurrency trading",
+        "Median Transaction Value technical indicator cryptocurrency trading",
+        "Burn Rate deflationary tokens technical indicator cryptocurrency trading",
+        "Transaction Velocity technical indicator cryptocurrency trading"
+      ],
+      "json_file": "refinement_batches\\batch_001_data.json",
+      "jsonl_file": "refinement_batches\\batch_001_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_002",
+      "batch_number": 2,
+      "qa_count": 500,
+      "pair_id_range": "s195_q0 to s191_q99",
+      "topics_in_batch": [
+        "Mean Transaction Value technical indicator cryptocurrency trading",
+        "Transaction Volume Total Value Transferred technical indicator cryptocurrency trading",
+        "Transaction Count Per Block technical indicator cryptocurrency trading",
+        "Transaction Count Total technical indicator cryptocurrency trading",
+        "Transaction Count Per Day technical indicator cryptocurrency trading"
+      ],
+      "json_file": "refinement_batches\\batch_002_data.json",
+      "jsonl_file": "refinement_batches\\batch_002_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_003",
+      "batch_number": 3,
+      "qa_count": 500,
+      "pair_id_range": "s190_q0 to s186_q99",
+      "topics_in_batch": [
+        "New Addresses Created technical indicator cryptocurrency trading",
+        "Active Addresses Monthly technical indicator cryptocurrency trading",
+        "Active Addresses Weekly technical indicator cryptocurrency trading",
+        "Active Addresses Daily technical indicator cryptocurrency trading"
+      ],
+      "json_file": "refinement_batches\\batch_003_data.json",
+      "jsonl_file": "refinement_batches\\batch_003_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_004",
+      "batch_number": 4,
+      "qa_count": 500,
+      "pair_id_range": "s185_q0 to s181_q99",
+      "topics_in_batch": [
+        "Force Index technical indicator cryptocurrency trading",
+        "Negative Volume Index NVI technical indicator cryptocurrency trading",
+        "Ease of Movement EOM technical indicator cryptocurrency trading",
+        "Volume Rate of Change technical indicator cryptocurrency trading",
+        "Positive Volume Index PVI technical indicator cryptocurrency trading"
+      ],
+      "json_file": "refinement_batches\\batch_004_data.json",
+      "jsonl_file": "refinement_batches\\batch_004_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_005",
+      "batch_number": 5,
+      "qa_count": 500,
+      "pair_id_range": "s180_q0 to s176_q99",
+      "topics_in_batch": [
+        "Money Flow Index MFI technical indicator cryptocurrency trading",
+        "Chaikin Money Flow CMF technical indicator cryptocurrency trading",
+        "Accumulation Distribution Line technical indicator cryptocurrency trading",
+        "On-Balance Volume OBV technical indicator cryptocurrency trading",
+        "Volume Weighted Average Price VWAP technical indicator cryptocurrency trading"
+      ],
+      "json_file": "refinement_batches\\batch_005_data.json",
+      "jsonl_file": "refinement_batches\\batch_005_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_006",
+      "batch_number": 6,
+      "qa_count": 500,
+      "pair_id_range": "s175_q0 to s171_q99",
+      "topics_in_batch": [
+        "Standard Deviation technical indicator cryptocurrency trading",
+        "Donchian Channels technical indicator cryptocurrency trading",
+        "Chaikin Volatility technical indicator cryptocurrency trading",
+        "Historical Volatility technical indicator cryptocurrency trading",
+        "Average True Range ATR cryptocurrency trading technical analysis"
+      ],
+      "json_file": "refinement_batches\\batch_006_data.json",
+      "jsonl_file": "refinement_batches\\batch_006_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_007",
+      "batch_number": 7,
+      "qa_count": 500,
+      "pair_id_range": "s170_q0 to s166_q99",
+      "topics_in_batch": [
+        "Momentum Indicator cryptocurrency trading technical analysis",
+        "Bollinger Bands cryptocurrency trading technical analysis",
+        "Ultimate Oscillator cryptocurrency trading technical analysis",
+        "Know Sure Thing KST cryptocurrency trading technical analysis",
+        "Williams %R cryptocurrency trading technical analysis"
+      ],
+      "json_file": "refinement_batches\\batch_007_data.json",
+      "jsonl_file": "refinement_batches\\batch_007_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_008",
+      "batch_number": 8,
+      "qa_count": 500,
+      "pair_id_range": "s165_q0 to s161_q99",
+      "topics_in_batch": [
+        "Stochastic Oscillator Fast cryptocurrency trading technical analysis",
+        "Stochastic Oscillator Full cryptocurrency trading technical analysis",
+        "Stochastic Oscillator Slow cryptocurrency trading technical analysis",
+        "Commodity Channel Index CCI cryptocurrency trading technical analysis",
+        "Rate of Change ROC cryptocurrency trading technical analysis"
+      ],
+      "json_file": "refinement_batches\\batch_008_data.json",
+      "jsonl_file": "refinement_batches\\batch_008_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_009",
+      "batch_number": 9,
+      "qa_count": 500,
+      "pair_id_range": "s160_q0 to s155_q10",
+      "topics_in_batch": [
+        "Ichimoku Cloud Chikou Span cryptocurrency trading technical analysis",
+        "Relative Strength Index (RSI) cryptocurrency trading technical analysis",
+        "Average Directional Index (ADX) cryptocurrency trading technical analysis",
+        "Aroon Indicator cryptocurrency trading technical analysis",
+        "Moving Average Convergence Divergence (MACD) cryptocurrency trading technical analysis",
+        "Vortex Indicator cryptocurrency trading technical analysis"
+      ],
+      "json_file": "refinement_batches\\batch_009_data.json",
+      "jsonl_file": "refinement_batches\\batch_009_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_010",
+      "batch_number": 10,
+      "qa_count": 500,
+      "pair_id_range": "s155_q11 to s150_q27",
+      "topics_in_batch": [
+        "TECHNICAL INDICATOR Weighted Moving Average WMA Trend Analysis Cryptocurrency",
+        "Weighted Moving Average (WMA) cryptocurrency trading technical analysis",
+        "TECHNICAL INDICATOR Exponential Moving Average EMA Trend Analysis Cryptocurrency",
+        "Simple Moving Average (SMA) cryptocurrency trading technical analysis",
+        "Exponential Moving Average (EMA) cryptocurrency trading technical analysis",
+        "Moving Average Convergence Divergence (MACD) cryptocurrency trading technical analysis"
+      ],
+      "json_file": "refinement_batches\\batch_010_data.json",
+      "jsonl_file": "refinement_batches\\batch_010_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_011",
+      "batch_number": 11,
+      "qa_count": 500,
+      "pair_id_range": "s150_q28 to s145_q31",
+      "topics_in_batch": [
+        "Bitcoin Total Transaction Fees Per Block Network Activity Metrics",
+        "Bitcoin Median Transaction Fee Network Activity Metrics",
+        "TECHNICAL INDICATOR Exponential Moving Average EMA Trend Analysis Cryptocurrency",
+        "TECHNICAL INDICATOR Simple Moving Average SMA Trend Analysis Cryptocurrency",
+        "Bitcoin Mempool Size Total Bytes Network Activity Metrics",
+        "Bitcoin Average Transaction Fee Network Activity Metrics"
+      ],
+      "json_file": "refinement_batches\\batch_011_data.json",
+      "jsonl_file": "refinement_batches\\batch_011_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_012",
+      "batch_number": 12,
+      "qa_count": 500,
+      "pair_id_range": "s145_q32 to s140_q31",
+      "topics_in_batch": [
+        "DERIVATIVES Liquidations & Positioning",
+        "DERIVATIVES CME & Institutionals",
+        "DERIVATIVES Options Analytics",
+        "DERIVATIVES Funding Rates",
+        "Bitcoin Mempool Size Total Bytes Network Activity Metrics",
+        "Bitcoin Mempool Size Transaction Count Network Activity Metrics"
+      ],
+      "json_file": "refinement_batches\\batch_012_data.json",
+      "jsonl_file": "refinement_batches\\batch_012_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_013",
+      "batch_number": 13,
+      "qa_count": 500,
+      "pair_id_range": "s140_q32 to s135_q31",
+      "topics_in_batch": [
+        "supply distribution cryptocurrency analysis supply profit loss SOPR MVRV illiquid HODL waves",
+        "DERIVATIVES Futures Open Interest",
+        "DERIVATIVES Funding Rates",
+        "cryptocurrency supply distribution profitability analysis supply profit loss SOPR MVRV illiquid liquid HODL waves blockchain indicators",
+        "Mining Network Health Metrics Hash Rate Mining Difficulty Miner Revenue Hash Ribbons Miner Net Position Change blockchain security analysis"
+      ],
+      "json_file": "refinement_batches\\batch_013_data.json",
+      "jsonl_file": "refinement_batches\\batch_013_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_014",
+      "batch_number": 14,
+      "qa_count": 500,
+      "pair_id_range": "s135_q32 to s130_q31",
+      "topics_in_batch": [
+        "supply distribution cryptocurrency analysis supply profit loss SOPR MVRV illiquid HODL waves",
+        "On-Chain Indicators Supply Distribution Profitability Analysis Supply in Profit Supply in Loss Spent Output Profit Ratio SOPR MVRV Ratio Market Value to Realized Value Illiquid Supply Liquid Supply HODL Waves",
+        "On-Chain Indicators Exchange Inflow Volume Exchange Outflow Volume Exchange Net Flow Transaction Volume On-Chain Active Addresses",
+        "Mempool and Fee Analysis in Cryptocurrency: Transaction Queue Dynamics, Fee Market Economics, and Trading Implications",
+        "Supply in Profit Supply in Loss SOPR Spent Output Profit Ratio MVRV Market Value to Realized Value Illiquid Supply Liquid Supply HODL Waves cryptocurrency"
+      ],
+      "json_file": "refinement_batches\\batch_014_data.json",
+      "jsonl_file": "refinement_batches\\batch_014_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_015",
+      "batch_number": 15,
+      "qa_count": 500,
+      "pair_id_range": "s130_q32 to s125_q31",
+      "topics_in_batch": [
+        "The correlation between Macroeconomics and Cryptocurrency",
+        "Pi Cycle Theory historical accuracy and predictions",
+        "Mempool and Fee Analysis in Cryptocurrency: Transaction Queue Dynamics, Fee Market Economics, and Trading Implications",
+        "Simple test with fallback system",
+        "111DMA 350DMA crossover analysis crypto"
+      ],
+      "json_file": "refinement_batches\\batch_015_data.json",
+      "jsonl_file": "refinement_batches\\batch_015_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_016",
+      "batch_number": 16,
+      "qa_count": 500,
+      "pair_id_range": "s125_q32 to s120_q31",
+      "topics_in_batch": [
+        "Advanced arbitrage strategies across markets",
+        "Crypto futures and perpetual contracts analysis",
+        "Bitcoin Pi Cycle Theory and market timing signals",
+        "Market making and liquidity provision in crypto",
+        "Pi Cycle top and bottom indicators cryptocurrency",
+        "111DMA 350DMA crossover analysis crypto"
+      ],
+      "json_file": "refinement_batches\\batch_016_data.json",
+      "jsonl_file": "refinement_batches\\batch_016_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_017",
+      "batch_number": 17,
+      "qa_count": 500,
+      "pair_id_range": "s120_q32 to s115_q31",
+      "topics_in_batch": [
+        "Blockchain scalability solutions analysis",
+        "Crypto futures and perpetual contracts analysis",
+        "Gas optimization techniques for smart contract deployment",
+        "Interoperability protocols and cross-chain communication",
+        "Options and derivatives trading strategies crypto",
+        "Network security infrastructure for exchanges"
+      ],
+      "json_file": "refinement_batches\\batch_017_data.json",
+      "jsonl_file": "refinement_batches\\batch_017_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_018",
+      "batch_number": 18,
+      "qa_count": 500,
+      "pair_id_range": "s115_q32 to s110_q31",
+      "topics_in_batch": [
+        "Advanced portfolio attribution analysis crypto",
+        "Blockchain scalability solutions analysis",
+        "Real-time market data processing infrastructure",
+        "Sentiment analysis implementation in cryptocurrency markets",
+        "Alternative data sources for crypto trading analysis",
+        "Advanced DeFi yield aggregation strategies"
+      ],
+      "json_file": "refinement_batches\\batch_018_data.json",
+      "jsonl_file": "refinement_batches\\batch_018_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_019",
+      "batch_number": 19,
+      "qa_count": 500,
+      "pair_id_range": "s110_q32 to s105_q31",
+      "topics_in_batch": [
+        "Layer 2 bridge security and optimization",
+        "Layer 2 interoperability protocols",
+        "Decentralized insurance product analysis cryptocurrency",
+        "Cross-chain liquidity aggregation protocols",
+        "Advanced DeFi yield aggregation strategies",
+        "Plasma chain security considerations"
+      ],
+      "json_file": "refinement_batches\\batch_019_data.json",
+      "jsonl_file": "refinement_batches\\batch_019_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_020",
+      "batch_number": 20,
+      "qa_count": 500,
+      "pair_id_range": "s105_q32 to s100_q31",
+      "topics_in_batch": [
+        "State channels cryptocurrency applications",
+        "Layer 2 cross-chain bridges",
+        "Advanced order types and trading infrastructure",
+        "Algorithmic trading execution optimization cryptocurrency",
+        "High frequency trading strategies in crypto markets",
+        "Plasma chain security considerations"
+      ],
+      "json_file": "refinement_batches\\batch_020_data.json",
+      "jsonl_file": "refinement_batches\\batch_020_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_021",
+      "batch_number": 21,
+      "qa_count": 500,
+      "pair_id_range": "s100_q32 to s95_q31",
+      "topics_in_batch": [
+        "Quantitative backtesting frameworks systematic trading",
+        "Optimistic rollups security analysis",
+        "Gaming token valuation models",
+        "ZK-rollups implementation strategies",
+        "Algorithmic trading execution optimization cryptocurrency",
+        "Hardware wallet implementation cryptocurrency"
+      ],
+      "json_file": "refinement_batches\\batch_021_data.json",
+      "jsonl_file": "refinement_batches\\batch_021_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_022",
+      "batch_number": 22,
+      "qa_count": 500,
+      "pair_id_range": "s95_q32 to s90_q31",
+      "topics_in_batch": [
+        "NFT fractionalization trading strategies",
+        "Digital forensics cryptocurrency investigations",
+        "Gaming token valuation models",
+        "Cross-chain NFT bridging protocols security",
+        "Multi-signature wallet configurations cryptocurrency",
+        "Cross-chain NFT bridging protocols"
+      ],
+      "json_file": "refinement_batches\\batch_022_data.json",
+      "jsonl_file": "refinement_batches\\batch_022_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_023",
+      "batch_number": 23,
+      "qa_count": 500,
+      "pair_id_range": "s90_q32 to s85_q31",
+      "topics_in_batch": [
+        "NFT marketplace analysis cryptocurrency",
+        "GameFi tokenomics trading strategies",
+        "Multi-signature wallet configurations cryptocurrency",
+        "Digital forensics cryptocurrency",
+        "Operational security procedures crypto",
+        "Metaverse real estate crypto trading"
+      ],
+      "json_file": "refinement_batches\\batch_023_data.json",
+      "jsonl_file": "refinement_batches\\batch_023_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_024",
+      "batch_number": 24,
+      "qa_count": 500,
+      "pair_id_range": "s85_q32 to s80_q31",
+      "topics_in_batch": [
+        "Network and infrastructure protection crypto",
+        "Multi-signature wallet configurations",
+        "Hardware wallet implementation cryptocurrency",
+        "Operational security procedures crypto",
+        "DeFi insurance integration strategies",
+        "Air-gapped cold storage crypto"
+      ],
+      "json_file": "refinement_batches\\batch_024_data.json",
+      "jsonl_file": "refinement_batches\\batch_024_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_025",
+      "batch_number": 25,
+      "qa_count": 500,
+      "pair_id_range": "s80_q32 to s75_q31",
+      "topics_in_batch": [
+        "Cross-chain DeFi bridges protocols",
+        "Layer 2 DeFi integration strategies",
+        "Cross-protocol arbitrage opportunities",
+        "DeFi composability strategies",
+        "Smart contract interaction analysis",
+        "DeFi insurance integration strategies"
+      ],
+      "json_file": "refinement_batches\\batch_025_data.json",
+      "jsonl_file": "refinement_batches\\batch_025_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_026",
+      "batch_number": 26,
+      "qa_count": 500,
+      "pair_id_range": "s75_q32 to s70_q31",
+      "topics_in_batch": [
+        "Volatility modeling techniques advanced",
+        "Machine learning price prediction crypto",
+        "Risk-adjusted performance metrics crypto",
+        "Market regime detection implementation crypto",
+        "Smart contract interaction analysis",
+        "Statistical significance testing crypto"
+      ],
+      "json_file": "refinement_batches\\batch_026_data.json",
+      "jsonl_file": "refinement_batches\\batch_026_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_027",
+      "batch_number": 27,
+      "qa_count": 500,
+      "pair_id_range": "s70_q32 to s65_q44",
+      "topics_in_batch": [
+        "Alert and notification systems crypto",
+        "Charting software optimization for crypto",
+        "Automated trading systems cryptocurrency",
+        "Statistical significance testing crypto",
+        "Portfolio tracking methodologies cryptocurrency",
+        "Backtesting frameworks construction crypto"
+      ],
+      "json_file": "refinement_batches\\batch_027_data.json",
+      "jsonl_file": "refinement_batches\\batch_027_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_028",
+      "batch_number": 28,
+      "qa_count": 500,
+      "pair_id_range": "s65_q45 to s60_q44",
+      "topics_in_batch": [
+        "Data aggregation platforms crypto analysis",
+        "Charting software optimization for crypto",
+        "AML KYC compliance requirements exchange",
+        "CFTC vs SEC jurisdiction issues cryptocurrency",
+        "Exchange API integration cryptocurrency",
+        "Stablecoin regulatory frameworks"
+      ],
+      "json_file": "refinement_batches\\batch_028_data.json",
+      "jsonl_file": "refinement_batches\\batch_028_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_029",
+      "batch_number": 29,
+      "qa_count": 500,
+      "pair_id_range": "s60_q45 to s55_q44",
+      "topics_in_batch": [
+        "Tax implications reporting cryptocurrency trading",
+        "Regulatory clarity by jurisdiction cryptocurrency",
+        "Psychology of different market participants crypto",
+        "Securities law implications Howey Test crypto",
+        "AML KYC compliance requirements exchange",
+        "Ego management in trading decisions"
+      ],
+      "json_file": "refinement_batches\\batch_029_data.json",
+      "jsonl_file": "refinement_batches\\batch_029_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_030",
+      "batch_number": 30,
+      "qa_count": 500,
+      "pair_id_range": "s55_q45 to s50_q52",
+      "topics_in_batch": [
+        "Revenge trading overtrading prevention",
+        "Emotional discipline development crypto",
+        "Risk-adjusted return optimization crypto",
+        "Trading journal best practices cryptocurrency",
+        "FOMO and FUD management crypto markets",
+        "Ego management in trading decisions"
+      ],
+      "json_file": "refinement_batches\\batch_030_data.json",
+      "jsonl_file": "refinement_batches\\batch_030_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_031",
+      "batch_number": 31,
+      "qa_count": 500,
+      "pair_id_range": "s50_q53 to s45_q52",
+      "topics_in_batch": [
+        "Factor model applications crypto",
+        "Performance attribution analysis cryptocurrency",
+        "Risk-adjusted return optimization crypto",
+        "Performance metric development crypto",
+        "Quantitative backtesting frameworks crypto",
+        "Stablecoin regulatory frameworks"
+      ],
+      "json_file": "refinement_batches\\batch_031_data.json",
+      "jsonl_file": "refinement_batches\\batch_031_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_032",
+      "batch_number": 32,
+      "qa_count": 500,
+      "pair_id_range": "s45_q53 to s40_q52",
+      "topics_in_batch": [
+        "Tax implications reporting cryptocurrency",
+        "Crowd psychology in crypto markets",
+        "Regulatory clarity by jurisdiction crypto",
+        "AML KYC compliance requirements cryptocurrency",
+        "Securities law implications cryptocurrencies",
+        "Stablecoin regulatory frameworks"
+      ],
+      "json_file": "refinement_batches\\batch_032_data.json",
+      "jsonl_file": "refinement_batches\\batch_032_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_033",
+      "batch_number": 33,
+      "qa_count": 500,
+      "pair_id_range": "s40_q53 to s35_q52",
+      "topics_in_batch": [
+        "Revenge trading overtrading prevention",
+        "Automated Market Maker fee optimization",
+        "Cognitive bias identification cryptocurrency",
+        "Crowd psychology in crypto markets",
+        "Trading psychology in 24/7 crypto markets",
+        "Ego management in trading decisions"
+      ],
+      "json_file": "refinement_batches\\batch_033_data.json",
+      "jsonl_file": "refinement_batches\\batch_033_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_034",
+      "batch_number": 34,
+      "qa_count": 500,
+      "pair_id_range": "s35_q53 to s30_q52",
+      "topics_in_batch": [
+        "Cross-chain DeFi interoperability",
+        "DeFi governance token voting systems",
+        "Liquidity mining strategies optimization",
+        "Automated Market Maker fee optimization",
+        "Yield farming impermanent loss management",
+        "SOPR Spent Output Profit Ratio analysis"
+      ],
+      "json_file": "refinement_batches\\batch_034_data.json",
+      "jsonl_file": "refinement_batches\\batch_034_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_035",
+      "batch_number": 35,
+      "qa_count": 500,
+      "pair_id_range": "s30_q53 to s25_q52",
+      "topics_in_batch": [
+        "Puell Multiple bitcoin profitability analysis",
+        "Stock-to-Flow models for Bitcoin S2F",
+        "Realized cap vs market cap MVRV analysis",
+        "UTXO age distribution analysis bitcoin",
+        "SOPR Spent Output Profit Ratio analysis",
+        "Network Value to Transaction ratio NVT"
+      ],
+      "json_file": "refinement_batches\\batch_035_data.json",
+      "jsonl_file": "refinement_batches\\batch_035_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_036",
+      "batch_number": 36,
+      "qa_count": 500,
+      "pair_id_range": "s25_q53 to s20_q52",
+      "topics_in_batch": [
+        "Bollinger Bands reversal patterns",
+        "UTXO age distribution analysis bitcoin",
+        "Volatility expansion breakout patterns crypto",
+        "Bollinger Bands volatility contraction patterns",
+        "Multi-timeframe volatility analysis",
+        "Bollinger Bands riding the bands strategies"
+      ],
+      "json_file": "refinement_batches\\batch_036_data.json",
+      "jsonl_file": "refinement_batches\\batch_036_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_037",
+      "batch_number": 37,
+      "qa_count": 500,
+      "pair_id_range": "s20_q53 to s15_q52",
+      "topics_in_batch": [
+        "Multiple indicator divergence confirmation",
+        "Failed divergence signal management",
+        "Divergence timing and entry points crypto",
+        "Stochastic oscillator applications cryptocurrency",
+        "Bollinger Bands volatility contraction patterns",
+        "RSI Relative Strength Index mastery cryptocurrency"
+      ],
+      "json_file": "refinement_batches\\batch_037_data.json",
+      "jsonl_file": "refinement_batches\\batch_037_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_038",
+      "batch_number": 38,
+      "qa_count": 500,
+      "pair_id_range": "s15_q53 to s10_q52",
+      "topics_in_batch": [
+        "Optimistic Rollups",
+        "Stochastic oscillator applications cryptocurrency",
+        "Technical Analysis Moving Average Combination Strategies",
+        "head and shoulders pattern cryptocurrency trading",
+        "Technical Analysis Moving Average Convergence Divergence (MACD)"
+      ],
+      "json_file": "refinement_batches\\batch_038_data.json",
+      "jsonl_file": "refinement_batches\\batch_038_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_039",
+      "batch_number": 39,
+      "qa_count": 500,
+      "pair_id_range": "s10_q53 to s5_q52",
+      "topics_in_batch": [
+        "Technical Analysis Simple Moving Average Fundamentals",
+        "Technical Analysis Exponential Moving Average Fundamentals",
+        "Technical Analysis Moving Average Crossover systems",
+        "artificial intelligence ethics",
+        "Technical Analysis Weighted Moving Average",
+        "Technical Analysis Moving Average Convergence Divergence (MACD)"
+      ],
+      "json_file": "refinement_batches\\batch_039_data.json",
+      "jsonl_file": "refinement_batches\\batch_039_requests.jsonl"
+    },
+    {
+      "batch_id": "batch_040",
+      "batch_number": 40,
+      "qa_count": 56,
+      "pair_id_range": "s5_q53 to s2_q2",
+      "topics_in_batch": [
+        "artificial intelligence ethics",
+        "Sample Database Testing"
+      ],
+      "json_file": "refinement_batches\\batch_040_data.json",
+      "jsonl_file": "refinement_batches\\batch_040_requests.jsonl"
+    }
+  ],
+  "refinement_prompt_file": "refinement_prompt_template.txt",
+  "instructions": {
+    "next_steps": [
+      "1. Review batch files in refinement_batches/ directory",
+      "2. Upload JSONL files to Gemini using batch_upload or upload_file",
+      "3. Submit batch jobs using batch_create",
+      "4. Monitor progress using batch_get_status",
+      "5. Download results using batch_download_results",
+      "6. Process and deduplicate refined Q&A pairs",
+      "7. Import to production database"
+    ],
+    "estimated_processing_time": "~24 hours per batch",
+    "estimated_cost": "Batch API is 50% cheaper than standard API"
+  }
+}

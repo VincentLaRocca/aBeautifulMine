@@ -1,0 +1,181 @@
+{
+  "total_batches": 35,
+  "batch_range": "170-204",
+  "batches": [
+    {
+      "batch_num": 170,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_170_proper.jsonl",
+      "display_name": "batch-170-crypto-qa"
+    },
+    {
+      "batch_num": 171,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_171_proper.jsonl",
+      "display_name": "batch-171-crypto-qa"
+    },
+    {
+      "batch_num": 172,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_172_proper.jsonl",
+      "display_name": "batch-172-crypto-qa"
+    },
+    {
+      "batch_num": 173,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_173_proper.jsonl",
+      "display_name": "batch-173-crypto-qa"
+    },
+    {
+      "batch_num": 174,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_174_proper.jsonl",
+      "display_name": "batch-174-crypto-qa"
+    },
+    {
+      "batch_num": 175,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_175_proper.jsonl",
+      "display_name": "batch-175-crypto-qa"
+    },
+    {
+      "batch_num": 176,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_176_proper.jsonl",
+      "display_name": "batch-176-crypto-qa"
+    },
+    {
+      "batch_num": 177,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_177_proper.jsonl",
+      "display_name": "batch-177-crypto-qa"
+    },
+    {
+      "batch_num": 178,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_178_proper.jsonl",
+      "display_name": "batch-178-crypto-qa"
+    },
+    {
+      "batch_num": 179,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_179_proper.jsonl",
+      "display_name": "batch-179-crypto-qa"
+    },
+    {
+      "batch_num": 180,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_180_proper.jsonl",
+      "display_name": "batch-180-crypto-qa"
+    },
+    {
+      "batch_num": 181,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_181_proper.jsonl",
+      "display_name": "batch-181-crypto-qa"
+    },
+    {
+      "batch_num": 182,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_182_proper.jsonl",
+      "display_name": "batch-182-crypto-qa"
+    },
+    {
+      "batch_num": 183,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_183_proper.jsonl",
+      "display_name": "batch-183-crypto-qa"
+    },
+    {
+      "batch_num": 184,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_184_proper.jsonl",
+      "display_name": "batch-184-crypto-qa"
+    },
+    {
+      "batch_num": 185,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_185_proper.jsonl",
+      "display_name": "batch-185-crypto-qa"
+    },
+    {
+      "batch_num": 186,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_186_proper.jsonl",
+      "display_name": "batch-186-crypto-qa"
+    },
+    {
+      "batch_num": 187,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_187_proper.jsonl",
+      "display_name": "batch-187-crypto-qa"
+    },
+    {
+      "batch_num": 188,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_188_proper.jsonl",
+      "display_name": "batch-188-crypto-qa"
+    },
+    {
+      "batch_num": 189,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_189_proper.jsonl",
+      "display_name": "batch-189-crypto-qa"
+    },
+    {
+      "batch_num": 190,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_190_proper.jsonl",
+      "display_name": "batch-190-crypto-qa"
+    },
+    {
+      "batch_num": 191,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_191_proper.jsonl",
+      "display_name": "batch-191-crypto-qa"
+    },
+    {
+      "batch_num": 192,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_192_proper.jsonl",
+      "display_name": "batch-192-crypto-qa"
+    },
+    {
+      "batch_num": 193,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_193_proper.jsonl",
+      "display_name": "batch-193-crypto-qa"
+    },
+    {
+      "batch_num": 194,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_194_proper.jsonl",
+      "display_name": "batch-194-crypto-qa"
+    },
+    {
+      "batch_num": 195,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_195_proper.jsonl",
+      "display_name": "batch-195-crypto-qa"
+    },
+    {
+      "batch_num": 196,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_196_proper.jsonl",
+      "display_name": "batch-196-crypto-qa"
+    },
+    {
+      "batch_num": 197,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_197_proper.jsonl",
+      "display_name": "batch-197-crypto-qa"
+    },
+    {
+      "batch_num": 198,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_198_proper.jsonl",
+      "display_name": "batch-198-crypto-qa"
+    },
+    {
+      "batch_num": 199,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_199_proper.jsonl",
+      "display_name": "batch-199-crypto-qa"
+    },
+    {
+      "batch_num": 200,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_200_proper.jsonl",
+      "display_name": "batch-200-crypto-qa"
+    },
+    {
+      "batch_num": 201,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_201_proper.jsonl",
+      "display_name": "batch-201-crypto-qa"
+    },
+    {
+      "batch_num": 202,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_202_proper.jsonl",
+      "display_name": "batch-202-crypto-qa"
+    },
+    {
+      "batch_num": 203,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_203_proper.jsonl",
+      "display_name": "batch-203-crypto-qa"
+    },
+    {
+      "batch_num": 204,
+      "file_path": "C:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_204_proper.jsonl",
+      "display_name": "batch-204-crypto-qa"
+    }
+  ]
+}

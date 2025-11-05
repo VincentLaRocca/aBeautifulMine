@@ -1,0 +1,772 @@
+{
+  "already_submitted": {
+    "51": {
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/4a3686ru8h6q",
+      "batch_job": "batches/ej8mfplrwj9lhg9i1k0fibc1m5qhnxaqlmeq"
+    },
+    "52": {
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/9sdrq6oprp7u",
+      "batch_job": "batches/stgtetixp5xxw0nzm5uv4n7tjgpftfl27nbw"
+    },
+    "53": {
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/5dg7i34r902r",
+      "batch_job": "batches/ci3inwvjsfr1ji925xcz2yly0po6hr1jfjnu"
+    },
+    "54": {
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/m79wu6d7jx95",
+      "batch_job": "batches/g0nyg6kct41eudmjcuvhvu1j9vshgd7khkro"
+    },
+    "55": {
+      "file_uri": "https://generativelanguage.googleapis.com/v1beta/files/2zlc4th2cjas",
+      "batch_job": "batches/3sm5rg8t2acxfsviyrwtkrtxtzavxke7hlj9"
+    }
+  },
+  "to_process": [
+    {
+      "batch_num": 56,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_056_proper.jsonl",
+      "display_name": "refinement_batch_056"
+    },
+    {
+      "batch_num": 57,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_057_proper.jsonl",
+      "display_name": "refinement_batch_057"
+    },
+    {
+      "batch_num": 58,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_058_proper.jsonl",
+      "display_name": "refinement_batch_058"
+    },
+    {
+      "batch_num": 59,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_059_proper.jsonl",
+      "display_name": "refinement_batch_059"
+    },
+    {
+      "batch_num": 60,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_060_proper.jsonl",
+      "display_name": "refinement_batch_060"
+    },
+    {
+      "batch_num": 61,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_061_proper.jsonl",
+      "display_name": "refinement_batch_061"
+    },
+    {
+      "batch_num": 62,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_062_proper.jsonl",
+      "display_name": "refinement_batch_062"
+    },
+    {
+      "batch_num": 63,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_063_proper.jsonl",
+      "display_name": "refinement_batch_063"
+    },
+    {
+      "batch_num": 64,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_064_proper.jsonl",
+      "display_name": "refinement_batch_064"
+    },
+    {
+      "batch_num": 65,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_065_proper.jsonl",
+      "display_name": "refinement_batch_065"
+    },
+    {
+      "batch_num": 66,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_066_proper.jsonl",
+      "display_name": "refinement_batch_066"
+    },
+    {
+      "batch_num": 67,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_067_proper.jsonl",
+      "display_name": "refinement_batch_067"
+    },
+    {
+      "batch_num": 68,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_068_proper.jsonl",
+      "display_name": "refinement_batch_068"
+    },
+    {
+      "batch_num": 69,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_069_proper.jsonl",
+      "display_name": "refinement_batch_069"
+    },
+    {
+      "batch_num": 70,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_070_proper.jsonl",
+      "display_name": "refinement_batch_070"
+    },
+    {
+      "batch_num": 71,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_071_proper.jsonl",
+      "display_name": "refinement_batch_071"
+    },
+    {
+      "batch_num": 72,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_072_proper.jsonl",
+      "display_name": "refinement_batch_072"
+    },
+    {
+      "batch_num": 73,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_073_proper.jsonl",
+      "display_name": "refinement_batch_073"
+    },
+    {
+      "batch_num": 74,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_074_proper.jsonl",
+      "display_name": "refinement_batch_074"
+    },
+    {
+      "batch_num": 75,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_075_proper.jsonl",
+      "display_name": "refinement_batch_075"
+    },
+    {
+      "batch_num": 76,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_076_proper.jsonl",
+      "display_name": "refinement_batch_076"
+    },
+    {
+      "batch_num": 77,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_077_proper.jsonl",
+      "display_name": "refinement_batch_077"
+    },
+    {
+      "batch_num": 78,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_078_proper.jsonl",
+      "display_name": "refinement_batch_078"
+    },
+    {
+      "batch_num": 79,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_079_proper.jsonl",
+      "display_name": "refinement_batch_079"
+    },
+    {
+      "batch_num": 80,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_080_proper.jsonl",
+      "display_name": "refinement_batch_080"
+    },
+    {
+      "batch_num": 81,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_081_proper.jsonl",
+      "display_name": "refinement_batch_081"
+    },
+    {
+      "batch_num": 82,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_082_proper.jsonl",
+      "display_name": "refinement_batch_082"
+    },
+    {
+      "batch_num": 83,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_083_proper.jsonl",
+      "display_name": "refinement_batch_083"
+    },
+    {
+      "batch_num": 84,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_084_proper.jsonl",
+      "display_name": "refinement_batch_084"
+    },
+    {
+      "batch_num": 85,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_085_proper.jsonl",
+      "display_name": "refinement_batch_085"
+    },
+    {
+      "batch_num": 86,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_086_proper.jsonl",
+      "display_name": "refinement_batch_086"
+    },
+    {
+      "batch_num": 87,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_087_proper.jsonl",
+      "display_name": "refinement_batch_087"
+    },
+    {
+      "batch_num": 88,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_088_proper.jsonl",
+      "display_name": "refinement_batch_088"
+    },
+    {
+      "batch_num": 89,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_089_proper.jsonl",
+      "display_name": "refinement_batch_089"
+    },
+    {
+      "batch_num": 90,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_090_proper.jsonl",
+      "display_name": "refinement_batch_090"
+    },
+    {
+      "batch_num": 91,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_091_proper.jsonl",
+      "display_name": "refinement_batch_091"
+    },
+    {
+      "batch_num": 92,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_092_proper.jsonl",
+      "display_name": "refinement_batch_092"
+    },
+    {
+      "batch_num": 93,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_093_proper.jsonl",
+      "display_name": "refinement_batch_093"
+    },
+    {
+      "batch_num": 94,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_094_proper.jsonl",
+      "display_name": "refinement_batch_094"
+    },
+    {
+      "batch_num": 95,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_095_proper.jsonl",
+      "display_name": "refinement_batch_095"
+    },
+    {
+      "batch_num": 96,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_096_proper.jsonl",
+      "display_name": "refinement_batch_096"
+    },
+    {
+      "batch_num": 97,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_097_proper.jsonl",
+      "display_name": "refinement_batch_097"
+    },
+    {
+      "batch_num": 98,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_098_proper.jsonl",
+      "display_name": "refinement_batch_098"
+    },
+    {
+      "batch_num": 99,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_099_proper.jsonl",
+      "display_name": "refinement_batch_099"
+    },
+    {
+      "batch_num": 100,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_100_proper.jsonl",
+      "display_name": "refinement_batch_100"
+    },
+    {
+      "batch_num": 101,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_101_proper.jsonl",
+      "display_name": "refinement_batch_101"
+    },
+    {
+      "batch_num": 102,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_102_proper.jsonl",
+      "display_name": "refinement_batch_102"
+    },
+    {
+      "batch_num": 103,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_103_proper.jsonl",
+      "display_name": "refinement_batch_103"
+    },
+    {
+      "batch_num": 104,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_104_proper.jsonl",
+      "display_name": "refinement_batch_104"
+    },
+    {
+      "batch_num": 105,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_105_proper.jsonl",
+      "display_name": "refinement_batch_105"
+    },
+    {
+      "batch_num": 106,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_106_proper.jsonl",
+      "display_name": "refinement_batch_106"
+    },
+    {
+      "batch_num": 107,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_107_proper.jsonl",
+      "display_name": "refinement_batch_107"
+    },
+    {
+      "batch_num": 108,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_108_proper.jsonl",
+      "display_name": "refinement_batch_108"
+    },
+    {
+      "batch_num": 109,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_109_proper.jsonl",
+      "display_name": "refinement_batch_109"
+    },
+    {
+      "batch_num": 110,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_110_proper.jsonl",
+      "display_name": "refinement_batch_110"
+    },
+    {
+      "batch_num": 111,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_111_proper.jsonl",
+      "display_name": "refinement_batch_111"
+    },
+    {
+      "batch_num": 112,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_112_proper.jsonl",
+      "display_name": "refinement_batch_112"
+    },
+    {
+      "batch_num": 113,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_113_proper.jsonl",
+      "display_name": "refinement_batch_113"
+    },
+    {
+      "batch_num": 114,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_114_proper.jsonl",
+      "display_name": "refinement_batch_114"
+    },
+    {
+      "batch_num": 115,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_115_proper.jsonl",
+      "display_name": "refinement_batch_115"
+    },
+    {
+      "batch_num": 116,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_116_proper.jsonl",
+      "display_name": "refinement_batch_116"
+    },
+    {
+      "batch_num": 117,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_117_proper.jsonl",
+      "display_name": "refinement_batch_117"
+    },
+    {
+      "batch_num": 118,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_118_proper.jsonl",
+      "display_name": "refinement_batch_118"
+    },
+    {
+      "batch_num": 119,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_119_proper.jsonl",
+      "display_name": "refinement_batch_119"
+    },
+    {
+      "batch_num": 120,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_120_proper.jsonl",
+      "display_name": "refinement_batch_120"
+    },
+    {
+      "batch_num": 121,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_121_proper.jsonl",
+      "display_name": "refinement_batch_121"
+    },
+    {
+      "batch_num": 122,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_122_proper.jsonl",
+      "display_name": "refinement_batch_122"
+    },
+    {
+      "batch_num": 123,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_123_proper.jsonl",
+      "display_name": "refinement_batch_123"
+    },
+    {
+      "batch_num": 124,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_124_proper.jsonl",
+      "display_name": "refinement_batch_124"
+    },
+    {
+      "batch_num": 125,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_125_proper.jsonl",
+      "display_name": "refinement_batch_125"
+    },
+    {
+      "batch_num": 126,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_126_proper.jsonl",
+      "display_name": "refinement_batch_126"
+    },
+    {
+      "batch_num": 127,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_127_proper.jsonl",
+      "display_name": "refinement_batch_127"
+    },
+    {
+      "batch_num": 128,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_128_proper.jsonl",
+      "display_name": "refinement_batch_128"
+    },
+    {
+      "batch_num": 129,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_129_proper.jsonl",
+      "display_name": "refinement_batch_129"
+    },
+    {
+      "batch_num": 130,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_130_proper.jsonl",
+      "display_name": "refinement_batch_130"
+    },
+    {
+      "batch_num": 131,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_131_proper.jsonl",
+      "display_name": "refinement_batch_131"
+    },
+    {
+      "batch_num": 132,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_132_proper.jsonl",
+      "display_name": "refinement_batch_132"
+    },
+    {
+      "batch_num": 133,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_133_proper.jsonl",
+      "display_name": "refinement_batch_133"
+    },
+    {
+      "batch_num": 134,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_134_proper.jsonl",
+      "display_name": "refinement_batch_134"
+    },
+    {
+      "batch_num": 135,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_135_proper.jsonl",
+      "display_name": "refinement_batch_135"
+    },
+    {
+      "batch_num": 136,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_136_proper.jsonl",
+      "display_name": "refinement_batch_136"
+    },
+    {
+      "batch_num": 137,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_137_proper.jsonl",
+      "display_name": "refinement_batch_137"
+    },
+    {
+      "batch_num": 138,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_138_proper.jsonl",
+      "display_name": "refinement_batch_138"
+    },
+    {
+      "batch_num": 139,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_139_proper.jsonl",
+      "display_name": "refinement_batch_139"
+    },
+    {
+      "batch_num": 140,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_140_proper.jsonl",
+      "display_name": "refinement_batch_140"
+    },
+    {
+      "batch_num": 141,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_141_proper.jsonl",
+      "display_name": "refinement_batch_141"
+    },
+    {
+      "batch_num": 142,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_142_proper.jsonl",
+      "display_name": "refinement_batch_142"
+    },
+    {
+      "batch_num": 143,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_143_proper.jsonl",
+      "display_name": "refinement_batch_143"
+    },
+    {
+      "batch_num": 144,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_144_proper.jsonl",
+      "display_name": "refinement_batch_144"
+    },
+    {
+      "batch_num": 145,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_145_proper.jsonl",
+      "display_name": "refinement_batch_145"
+    },
+    {
+      "batch_num": 146,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_146_proper.jsonl",
+      "display_name": "refinement_batch_146"
+    },
+    {
+      "batch_num": 147,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_147_proper.jsonl",
+      "display_name": "refinement_batch_147"
+    },
+    {
+      "batch_num": 148,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_148_proper.jsonl",
+      "display_name": "refinement_batch_148"
+    },
+    {
+      "batch_num": 149,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_149_proper.jsonl",
+      "display_name": "refinement_batch_149"
+    },
+    {
+      "batch_num": 150,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_150_proper.jsonl",
+      "display_name": "refinement_batch_150"
+    },
+    {
+      "batch_num": 151,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_151_proper.jsonl",
+      "display_name": "refinement_batch_151"
+    },
+    {
+      "batch_num": 152,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_152_proper.jsonl",
+      "display_name": "refinement_batch_152"
+    },
+    {
+      "batch_num": 153,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_153_proper.jsonl",
+      "display_name": "refinement_batch_153"
+    },
+    {
+      "batch_num": 154,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_154_proper.jsonl",
+      "display_name": "refinement_batch_154"
+    },
+    {
+      "batch_num": 155,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_155_proper.jsonl",
+      "display_name": "refinement_batch_155"
+    },
+    {
+      "batch_num": 156,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_156_proper.jsonl",
+      "display_name": "refinement_batch_156"
+    },
+    {
+      "batch_num": 157,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_157_proper.jsonl",
+      "display_name": "refinement_batch_157"
+    },
+    {
+      "batch_num": 158,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_158_proper.jsonl",
+      "display_name": "refinement_batch_158"
+    },
+    {
+      "batch_num": 159,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_159_proper.jsonl",
+      "display_name": "refinement_batch_159"
+    },
+    {
+      "batch_num": 160,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_160_proper.jsonl",
+      "display_name": "refinement_batch_160"
+    },
+    {
+      "batch_num": 161,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_161_proper.jsonl",
+      "display_name": "refinement_batch_161"
+    },
+    {
+      "batch_num": 162,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_162_proper.jsonl",
+      "display_name": "refinement_batch_162"
+    },
+    {
+      "batch_num": 163,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_163_proper.jsonl",
+      "display_name": "refinement_batch_163"
+    },
+    {
+      "batch_num": 164,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_164_proper.jsonl",
+      "display_name": "refinement_batch_164"
+    },
+    {
+      "batch_num": 165,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_165_proper.jsonl",
+      "display_name": "refinement_batch_165"
+    },
+    {
+      "batch_num": 166,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_166_proper.jsonl",
+      "display_name": "refinement_batch_166"
+    },
+    {
+      "batch_num": 167,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_167_proper.jsonl",
+      "display_name": "refinement_batch_167"
+    },
+    {
+      "batch_num": 168,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_168_proper.jsonl",
+      "display_name": "refinement_batch_168"
+    },
+    {
+      "batch_num": 169,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_169_proper.jsonl",
+      "display_name": "refinement_batch_169"
+    },
+    {
+      "batch_num": 170,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_170_proper.jsonl",
+      "display_name": "refinement_batch_170"
+    },
+    {
+      "batch_num": 171,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_171_proper.jsonl",
+      "display_name": "refinement_batch_171"
+    },
+    {
+      "batch_num": 172,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_172_proper.jsonl",
+      "display_name": "refinement_batch_172"
+    },
+    {
+      "batch_num": 173,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_173_proper.jsonl",
+      "display_name": "refinement_batch_173"
+    },
+    {
+      "batch_num": 174,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_174_proper.jsonl",
+      "display_name": "refinement_batch_174"
+    },
+    {
+      "batch_num": 175,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_175_proper.jsonl",
+      "display_name": "refinement_batch_175"
+    },
+    {
+      "batch_num": 176,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_176_proper.jsonl",
+      "display_name": "refinement_batch_176"
+    },
+    {
+      "batch_num": 177,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_177_proper.jsonl",
+      "display_name": "refinement_batch_177"
+    },
+    {
+      "batch_num": 178,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_178_proper.jsonl",
+      "display_name": "refinement_batch_178"
+    },
+    {
+      "batch_num": 179,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_179_proper.jsonl",
+      "display_name": "refinement_batch_179"
+    },
+    {
+      "batch_num": 180,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_180_proper.jsonl",
+      "display_name": "refinement_batch_180"
+    },
+    {
+      "batch_num": 181,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_181_proper.jsonl",
+      "display_name": "refinement_batch_181"
+    },
+    {
+      "batch_num": 182,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_182_proper.jsonl",
+      "display_name": "refinement_batch_182"
+    },
+    {
+      "batch_num": 183,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_183_proper.jsonl",
+      "display_name": "refinement_batch_183"
+    },
+    {
+      "batch_num": 184,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_184_proper.jsonl",
+      "display_name": "refinement_batch_184"
+    },
+    {
+      "batch_num": 185,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_185_proper.jsonl",
+      "display_name": "refinement_batch_185"
+    },
+    {
+      "batch_num": 186,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_186_proper.jsonl",
+      "display_name": "refinement_batch_186"
+    },
+    {
+      "batch_num": 187,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_187_proper.jsonl",
+      "display_name": "refinement_batch_187"
+    },
+    {
+      "batch_num": 188,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_188_proper.jsonl",
+      "display_name": "refinement_batch_188"
+    },
+    {
+      "batch_num": 189,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_189_proper.jsonl",
+      "display_name": "refinement_batch_189"
+    },
+    {
+      "batch_num": 190,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_190_proper.jsonl",
+      "display_name": "refinement_batch_190"
+    },
+    {
+      "batch_num": 191,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_191_proper.jsonl",
+      "display_name": "refinement_batch_191"
+    },
+    {
+      "batch_num": 192,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_192_proper.jsonl",
+      "display_name": "refinement_batch_192"
+    },
+    {
+      "batch_num": 193,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_193_proper.jsonl",
+      "display_name": "refinement_batch_193"
+    },
+    {
+      "batch_num": 194,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_194_proper.jsonl",
+      "display_name": "refinement_batch_194"
+    },
+    {
+      "batch_num": 195,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_195_proper.jsonl",
+      "display_name": "refinement_batch_195"
+    },
+    {
+      "batch_num": 196,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_196_proper.jsonl",
+      "display_name": "refinement_batch_196"
+    },
+    {
+      "batch_num": 197,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_197_proper.jsonl",
+      "display_name": "refinement_batch_197"
+    },
+    {
+      "batch_num": 198,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_198_proper.jsonl",
+      "display_name": "refinement_batch_198"
+    },
+    {
+      "batch_num": 199,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_199_proper.jsonl",
+      "display_name": "refinement_batch_199"
+    },
+    {
+      "batch_num": 200,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_200_proper.jsonl",
+      "display_name": "refinement_batch_200"
+    },
+    {
+      "batch_num": 201,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_201_proper.jsonl",
+      "display_name": "refinement_batch_201"
+    },
+    {
+      "batch_num": 202,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_202_proper.jsonl",
+      "display_name": "refinement_batch_202"
+    },
+    {
+      "batch_num": 203,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_203_proper.jsonl",
+      "display_name": "refinement_batch_203"
+    },
+    {
+      "batch_num": 204,
+      "file_path": "c:\\Users\\VLARO\\dreamteam\\claude\\gemini_batch_submissions_proper\\batch_204_proper.jsonl",
+      "display_name": "refinement_batch_204"
+    }
+  ],
+  "total_remaining": 149
+}

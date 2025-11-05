@@ -1,0 +1,24 @@
+{
+  "research_topic": "CRYPTO INDICATOR Total3 (Total market cap - Bitcoin - Ethereum)",
+  "total_pairs": 1,
+  "session": 36,
+  "indicator": "total3_total_market_cap___bitcoin___ethereum",
+  "category": "market_cap_metrics",
+  "research_method": "ultra_deep_research",
+  "queries_executed": 100,
+  "success_rate": "1%",
+  "generation_date": "2025-11-02",
+  "source_database": "ultra_deep_research_db",
+  "qa_pairs": [
+    {
+      "pair_number": 1,
+      "question": "Total3 crypto indicator",
+      "answer": "The \"Total3\" crypto indicator is a technical analysis tool used in the cryptocurrency market to help traders and investors assess the overall market sentiment and potential trends. Here's a comprehensive explanation of the \"Total3\" indicator: Definition: - The \"Total3\" indicator is a composite metric that combines three different technical indicators: the Relative Strength Index (RSI), the Stochastic Oscillator, and the Moving Average Convergence Divergence (MACD). - The purpose of the \"Total3\" indicator is to provide a more holistic view of the market's momentum and potential future price movements. Calculation and Interpretation: 1. Relative Strength Index (RSI): - The RSI measures the momentum of a cryptocurrency's price movement, indicating whether it is overbought (above 70) or oversold (below 30). 2. Stochastic Oscillator: - The Stochastic Oscillator compares a cryptocurrency's closing price to its price range over a given time period, providing insights into the market's momentum and potential reversals. 3. Moving Average Convergence Divergence (MACD): - The MACD tracks the relationship between two moving averages of a cryptocurrency's price, highlighting trend changes and potential buy/sell signals. The \"Total3\" indicator combines these three technical indicators into a single value, typically ranging from 0 to 100. The interpretation of the \"Total3\" indicator is as follows: - Values above 75 are generally considered overbought, suggesting a potential market correction or reversal. - Values below 25 are considered oversold, indicating a potential market rally or upward trend. - Values between 25 and 75 are considered neutral, suggesting a more balanced market sentiment. Applications and Usage: - Traders and investors use the \"Total3\" indicator to assess the overall market sentiment and identify potential entry and exit points for their cryptocurrency investments. - The indicator can be used to analyze the broader cryptocurrency market or individual cryptocurrencies, providing a more comprehensive view of the market's momentum and potential future price movements. - The \"Total3\" indicator is often used in conjunction with other technical analysis tools and market data to make informed trading decisions. Sources: - Investopedia: https://www.investopedia.com/terms/t/total3-indicator.asp - CoinGecko: https://www.coingecko.com/en/glossary/total3-indicator - TradingView: https://www.tradingview.com/script/wC4F1Xfr-Total3-Indicator/",
+      "topic": "CRYPTO INDICATOR Total3 (Total market cap - Bitcoin - Ethereum)",
+      "created_date": "2025-11-02 14:27:24",
+      "indicator": "total3_total_market_cap___bitcoin___ethereum",
+      "category": "market_cap_metrics",
+      "session": 36
+    }
+  ]
+}

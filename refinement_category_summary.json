@@ -1,0 +1,852 @@
+{
+  "Technical Indicators": {
+    "total_pairs": 6368,
+    "session_count": 64,
+    "topics": [
+      [
+        "Burn Rate deflationary tokens technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Inflation Rate technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Maximum Supply technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Transaction Velocity technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Median Transaction Value technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Mean Transaction Value technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Transaction Volume Total Value Transferred technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Transaction Count Per Day technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Transaction Count Per Block technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Transaction Count Total technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "New Addresses Created technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Active Addresses Monthly technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Active Addresses Monthly technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Active Addresses Weekly technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Active Addresses Daily technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Positive Volume Index PVI technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Negative Volume Index NVI technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Force Index technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Ease of Movement EOM technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Volume Rate of Change technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Accumulation Distribution Line technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Money Flow Index MFI technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Chaikin Money Flow CMF technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Volume Weighted Average Price VWAP technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "On-Balance Volume OBV technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Chaikin Volatility technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Historical Volatility technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Standard Deviation technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Donchian Channels technical indicator cryptocurrency trading",
+        100
+      ],
+      [
+        "Average True Range ATR cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Bollinger Bands cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Know Sure Thing KST cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Ultimate Oscillator cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Momentum Indicator cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Williams %R cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Commodity Channel Index CCI cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Rate of Change ROC cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Stochastic Oscillator Full cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Stochastic Oscillator Slow cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Stochastic Oscillator Fast cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Relative Strength Index (RSI) cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Vortex Indicator cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Aroon Indicator cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Ichimoku Cloud Chikou Span cryptocurrency trading technical analysis",
+        89
+      ],
+      [
+        "Average Directional Index (ADX) cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Moving Average Convergence Divergence (MACD) cryptocurrency trading technical analysis",
+        97
+      ],
+      [
+        "Weighted Moving Average (WMA) cryptocurrency trading technical analysis",
+        86
+      ],
+      [
+        "Exponential Moving Average (EMA) cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "Simple Moving Average (SMA) cryptocurrency trading technical analysis",
+        100
+      ],
+      [
+        "TECHNICAL INDICATOR Weighted Moving Average WMA Trend Analysis Cryptocurrency",
+        100
+      ],
+      [
+        "TECHNICAL INDICATOR Exponential Moving Average EMA Trend Analysis Cryptocurrency",
+        96
+      ],
+      [
+        "TECHNICAL INDICATOR Simple Moving Average SMA Trend Analysis Cryptocurrency",
+        100
+      ],
+      [
+        "cryptocurrency supply distribution profitability analysis supply profit loss SOPR MVRV illiquid liquid HODL waves blockchain indicators",
+        100
+      ],
+      [
+        "On-Chain Indicators Supply Distribution Profitability Analysis Supply in Profit Supply in Loss Spent Output Profit Ratio SOPR MVRV Ratio Market Value to Realized Value Illiquid Supply Liquid Supply HODL Waves",
+        100
+      ],
+      [
+        "On-Chain Indicators Exchange Inflow Volume Exchange Outflow Volume Exchange Net Flow Transaction Volume On-Chain Active Addresses",
+        100
+      ],
+      [
+        "On-Chain Indicators Exchange Inflow Volume Exchange Outflow Volume Exchange Net Flow Transaction Volume On-Chain Active Addresses",
+        100
+      ],
+      [
+        "Pi Cycle top and bottom indicators cryptocurrency",
+        100
+      ],
+      [
+        "Multiple indicator divergence confirmation",
+        100
+      ],
+      [
+        "Technical Analysis Moving Average Combination Strategies",
+        100
+      ],
+      [
+        "Technical Analysis Moving Average Convergence Divergence (MACD)",
+        100
+      ],
+      [
+        "Technical Analysis Moving Average Crossover systems",
+        100
+      ],
+      [
+        "Technical Analysis Weighted Moving Average",
+        100
+      ],
+      [
+        "Technical Analysis Exponential Moving Average Fundamentals",
+        100
+      ],
+      [
+        "Technical Analysis Simple Moving Average Fundamentals",
+        100
+      ]
+    ]
+  },
+  "Other": {
+    "total_pairs": 6988,
+    "session_count": 73,
+    "topics": [
+      [
+        "Bitcoin Total Transaction Fees Per Block Network Activity Metrics",
+        100
+      ],
+      [
+        "Bitcoin Median Transaction Fee Network Activity Metrics",
+        100
+      ],
+      [
+        "Bitcoin Average Transaction Fee Network Activity Metrics",
+        100
+      ],
+      [
+        "Bitcoin Mempool Size Total Bytes Network Activity Metrics",
+        100
+      ],
+      [
+        "Bitcoin Mempool Size Transaction Count Network Activity Metrics",
+        100
+      ],
+      [
+        "supply distribution cryptocurrency analysis supply profit loss SOPR MVRV illiquid HODL waves",
+        100
+      ],
+      [
+        "Supply in Profit Supply in Loss SOPR Spent Output Profit Ratio MVRV Market Value to Realized Value Illiquid Supply Liquid Supply HODL Waves cryptocurrency",
+        100
+      ],
+      [
+        "The correlation between Macroeconomics and Cryptocurrency",
+        100
+      ],
+      [
+        "The correlation between Macroeconomics and Cryptocurrency",
+        100
+      ],
+      [
+        "Simple test with fallback system",
+        100
+      ],
+      [
+        "Pi Cycle Theory historical accuracy and predictions",
+        100
+      ],
+      [
+        "111DMA 350DMA crossover analysis crypto",
+        100
+      ],
+      [
+        "Bitcoin Pi Cycle Theory and market timing signals",
+        100
+      ],
+      [
+        "Advanced arbitrage strategies across markets",
+        100
+      ],
+      [
+        "Gas optimization techniques for smart contract deployment",
+        100
+      ],
+      [
+        "Interoperability protocols and cross-chain communication",
+        100
+      ],
+      [
+        "Advanced portfolio attribution analysis crypto",
+        100
+      ],
+      [
+        "Real-time market data processing infrastructure",
+        100
+      ],
+      [
+        "Decentralized insurance product analysis cryptocurrency",
+        100
+      ],
+      [
+        "Layer 2 interoperability protocols",
+        100
+      ],
+      [
+        "State channels cryptocurrency applications",
+        100
+      ],
+      [
+        "Layer 2 cross-chain bridges",
+        100
+      ],
+      [
+        "ZK-rollups implementation strategies",
+        100
+      ],
+      [
+        "Digital forensics cryptocurrency investigations",
+        100
+      ],
+      [
+        "Digital forensics cryptocurrency",
+        100
+      ],
+      [
+        "Network and infrastructure protection crypto",
+        100
+      ],
+      [
+        "Air-gapped cold storage crypto",
+        100
+      ],
+      [
+        "Cross-protocol arbitrage opportunities",
+        100
+      ],
+      [
+        "Smart contract interaction analysis",
+        100
+      ],
+      [
+        "Risk-adjusted performance metrics crypto",
+        100
+      ],
+      [
+        "Volatility modeling techniques advanced",
+        100
+      ],
+      [
+        "Market regime detection implementation crypto",
+        100
+      ],
+      [
+        "Machine learning price prediction crypto",
+        100
+      ],
+      [
+        "Statistical significance testing crypto",
+        100
+      ],
+      [
+        "Backtesting frameworks construction crypto",
+        87
+      ],
+      [
+        "Alert and notification systems crypto",
+        100
+      ],
+      [
+        "Portfolio tracking methodologies cryptocurrency",
+        100
+      ],
+      [
+        "Charting software optimization for crypto",
+        100
+      ],
+      [
+        "Data aggregation platforms crypto analysis",
+        100
+      ],
+      [
+        "Exchange API integration cryptocurrency",
+        100
+      ],
+      [
+        "CFTC vs SEC jurisdiction issues cryptocurrency",
+        100
+      ],
+      [
+        "Securities law implications Howey Test crypto",
+        100
+      ],
+      [
+        "FOMO and FUD management crypto markets",
+        92
+      ],
+      [
+        "Emotional discipline development crypto",
+        100
+      ],
+      [
+        "Risk-adjusted return optimization crypto",
+        100
+      ],
+      [
+        "Factor model applications crypto",
+        100
+      ],
+      [
+        "Quantitative backtesting frameworks crypto",
+        100
+      ],
+      [
+        "Performance metric development crypto",
+        100
+      ],
+      [
+        "Performance attribution analysis cryptocurrency",
+        100
+      ],
+      [
+        "Tax implications reporting cryptocurrency",
+        100
+      ],
+      [
+        "Securities law implications cryptocurrencies",
+        100
+      ],
+      [
+        "Cognitive bias identification cryptocurrency",
+        100
+      ],
+      [
+        "Automated Market Maker fee optimization",
+        100
+      ],
+      [
+        "SOPR Spent Output Profit Ratio analysis",
+        100
+      ],
+      [
+        "Puell Multiple bitcoin profitability analysis",
+        100
+      ],
+      [
+        "Stock-to-Flow models for Bitcoin S2F",
+        100
+      ],
+      [
+        "Network Value to Transaction ratio NVT",
+        100
+      ],
+      [
+        "Realized cap vs market cap MVRV analysis",
+        100
+      ],
+      [
+        "UTXO age distribution analysis bitcoin",
+        100
+      ],
+      [
+        "Multi-timeframe volatility analysis",
+        100
+      ],
+      [
+        "Volatility expansion breakout patterns crypto",
+        100
+      ],
+      [
+        "Bollinger Bands reversal patterns",
+        100
+      ],
+      [
+        "Bollinger Bands riding the bands strategies",
+        100
+      ],
+      [
+        "Bollinger Bands volatility contraction patterns",
+        100
+      ],
+      [
+        "Failed divergence signal management",
+        100
+      ],
+      [
+        "Divergence timing and entry points crypto",
+        100
+      ],
+      [
+        "RSI Relative Strength Index mastery cryptocurrency",
+        100
+      ],
+      [
+        "Stochastic oscillator applications cryptocurrency",
+        100
+      ],
+      [
+        "Optimistic Rollups",
+        100
+      ],
+      [
+        "artificial intelligence ethics",
+        100
+      ],
+      [
+        "Sample Database Testing",
+        3
+      ],
+      [
+        "Sample Database Testing",
+        3
+      ],
+      [
+        "Sample Database Testing",
+        3
+      ]
+    ]
+  },
+  "Derivatives": {
+    "total_pairs": 800,
+    "session_count": 8,
+    "topics": [
+      [
+        "DERIVATIVES CME & Institutionals",
+        100
+      ],
+      [
+        "DERIVATIVES Liquidations & Positioning",
+        100
+      ],
+      [
+        "DERIVATIVES Options Analytics",
+        100
+      ],
+      [
+        "DERIVATIVES Funding Rates",
+        100
+      ],
+      [
+        "DERIVATIVES Futures Open Interest",
+        100
+      ],
+      [
+        "DERIVATIVES Futures Open Interest",
+        100
+      ],
+      [
+        "Crypto futures and perpetual contracts analysis",
+        100
+      ],
+      [
+        "Options and derivatives trading strategies crypto",
+        100
+      ]
+    ]
+  },
+  "On-Chain Metrics": {
+    "total_pairs": 300,
+    "session_count": 3,
+    "topics": [
+      [
+        "Mining Network Health Metrics Hash Rate Mining Difficulty Miner Revenue Hash Ribbons Miner Net Position Change blockchain security analysis",
+        100
+      ],
+      [
+        "Blockchain scalability solutions analysis",
+        100
+      ],
+      [
+        "Liquidity mining strategies optimization",
+        100
+      ]
+    ]
+  },
+  "Trading Psychology": {
+    "total_pairs": 2200,
+    "session_count": 22,
+    "topics": [
+      [
+        "Mempool and Fee Analysis in Cryptocurrency: Transaction Queue Dynamics, Fee Market Economics, and Trading Implications",
+        100
+      ],
+      [
+        "Sentiment analysis implementation in cryptocurrency markets",
+        100
+      ],
+      [
+        "Alternative data sources for crypto trading analysis",
+        100
+      ],
+      [
+        "Advanced order types and trading infrastructure",
+        100
+      ],
+      [
+        "High frequency trading strategies in crypto markets",
+        100
+      ],
+      [
+        "Algorithmic trading execution optimization cryptocurrency",
+        100
+      ],
+      [
+        "Quantitative backtesting frameworks systematic trading",
+        100
+      ],
+      [
+        "NFT fractionalization trading strategies",
+        100
+      ],
+      [
+        "Metaverse real estate crypto trading",
+        100
+      ],
+      [
+        "GameFi tokenomics trading strategies",
+        100
+      ],
+      [
+        "Automated trading systems cryptocurrency",
+        100
+      ],
+      [
+        "Tax implications reporting cryptocurrency trading",
+        100
+      ],
+      [
+        "Psychology of different market participants crypto",
+        100
+      ],
+      [
+        "Ego management in trading decisions",
+        100
+      ],
+      [
+        "Revenge trading overtrading prevention",
+        100
+      ],
+      [
+        "Trading journal best practices cryptocurrency",
+        100
+      ],
+      [
+        "Crowd psychology in crypto markets",
+        100
+      ],
+      [
+        "Ego management in trading decisions",
+        100
+      ],
+      [
+        "Revenge trading overtrading prevention",
+        100
+      ],
+      [
+        "Trading psychology in 24/7 crypto markets",
+        100
+      ],
+      [
+        "head and shoulders pattern cryptocurrency trading",
+        100
+      ],
+      [
+        "head and shoulders pattern cryptocurrency trading",
+        100
+      ]
+    ]
+  },
+  "DeFi": {
+    "total_pairs": 1000,
+    "session_count": 10,
+    "topics": [
+      [
+        "Market making and liquidity provision in crypto",
+        100
+      ],
+      [
+        "Advanced DeFi yield aggregation strategies",
+        100
+      ],
+      [
+        "Cross-chain liquidity aggregation protocols",
+        100
+      ],
+      [
+        "DeFi insurance integration strategies",
+        100
+      ],
+      [
+        "DeFi composability strategies",
+        100
+      ],
+      [
+        "Layer 2 DeFi integration strategies",
+        100
+      ],
+      [
+        "Cross-chain DeFi bridges protocols",
+        100
+      ],
+      [
+        "Yield farming impermanent loss management",
+        100
+      ],
+      [
+        "DeFi governance token voting systems",
+        100
+      ],
+      [
+        "Cross-chain DeFi interoperability",
+        100
+      ]
+    ]
+  },
+  "Security": {
+    "total_pairs": 1200,
+    "session_count": 12,
+    "topics": [
+      [
+        "Network security infrastructure for exchanges",
+        100
+      ],
+      [
+        "Layer 2 bridge security and optimization",
+        100
+      ],
+      [
+        "Plasma chain security considerations",
+        100
+      ],
+      [
+        "Optimistic rollups security analysis",
+        100
+      ],
+      [
+        "Hardware wallet implementation cryptocurrency",
+        100
+      ],
+      [
+        "Cross-chain NFT bridging protocols security",
+        100
+      ],
+      [
+        "Multi-signature wallet configurations cryptocurrency",
+        100
+      ],
+      [
+        "Operational security procedures crypto",
+        100
+      ],
+      [
+        "Multi-signature wallet configurations",
+        100
+      ],
+      [
+        "Hardware wallet implementation cryptocurrency",
+        100
+      ],
+      [
+        "AML KYC compliance requirements exchange",
+        100
+      ],
+      [
+        "AML KYC compliance requirements cryptocurrency",
+        100
+      ]
+    ]
+  },
+  "NFT/Gaming": {
+    "total_pairs": 300,
+    "session_count": 3,
+    "topics": [
+      [
+        "Gaming token valuation models",
+        100
+      ],
+      [
+        "Cross-chain NFT bridging protocols",
+        100
+      ],
+      [
+        "NFT marketplace analysis cryptocurrency",
+        100
+      ]
+    ]
+  },
+  "Regulatory": {
+    "total_pairs": 400,
+    "session_count": 4,
+    "topics": [
+      [
+        "Stablecoin regulatory frameworks",
+        100
+      ],
+      [
+        "Regulatory clarity by jurisdiction cryptocurrency",
+        100
+      ],
+      [
+        "Stablecoin regulatory frameworks",
+        100
+      ],
+      [
+        "Regulatory clarity by jurisdiction crypto",
+        100
+      ]
+    ]
+  }
+}

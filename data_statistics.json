@@ -1,0 +1,321 @@
+{
+  "total_pairs": 22364,
+  "by_wave": {
+    "wave1": 20356,
+    "wave2": 701,
+    "wave3": 1307
+  },
+  "by_indicator": {
+    "borrow rate": 1,
+    "dex to cex volume ratio": 100,
+    "dex volume 24h": 100,
+    "dex volume 30d": 100,
+    "dex volume 7d": 100,
+    "impermanent loss": 100,
+    "liquidity pool depth": 100,
+    "slippage": 0,
+    "supply rate": 100,
+    "altcoin correlation to btc": 100,
+    "altcoin season index": 1,
+    "bid ask spread": 100,
+    "bitcoin dominance btc.d": 1,
+    "bollinger band width": 100,
+    "crypto to gold correlation": 99,
+    "crypto to stock market correlation": 100,
+    "delta volume": 100,
+    "ethereum dominance eth.d": 1,
+    "exchange netflows": 100,
+    "exchange reserve": 100,
+    "footprint charts": 1,
+    "liquidation events": 1,
+    "maker buy sell volume": 100,
+    "market buy sell ratio": 100,
+    "market cap growth rate": 100,
+    "stablecoin dominance": 2,
+    "taker buy sell volume": 100,
+    "total3 total market cap   bitcoin   ethereum": 1,
+    "total crypto market cap": 100
+  },
+  "by_category": {
+    "other": 1806,
+    "defi": 0,
+    "technical": 100,
+    "onchain": 100,
+    "market_structure": 1,
+    "dominance": 1
+  },
+  "by_session": {
+    "31": 201,
+    "30": 500,
+    "unknown": 0,
+    "36": 201,
+    "35": 104,
+    "32": 101,
+    "34": 301,
+    "37": 299,
+    "33": 301
+  },
+  "indicator_details": {
+    "borrow rate": {
+      "total_pairs": 1,
+      "sessions": [
+        31
+      ],
+      "waves": [
+        "wave2"
+      ]
+    },
+    "dex to cex volume ratio": {
+      "total_pairs": 100,
+      "sessions": [
+        30
+      ],
+      "waves": [
+        "wave2"
+      ]
+    },
+    "dex volume 24h": {
+      "total_pairs": 100,
+      "sessions": [
+        30
+      ],
+      "waves": [
+        "wave2"
+      ]
+    },
+    "dex volume 30d": {
+      "total_pairs": 100,
+      "sessions": [
+        30
+      ],
+      "waves": [
+        "wave2"
+      ]
+    },
+    "dex volume 7d": {
+      "total_pairs": 100,
+      "sessions": [
+        30
+      ],
+      "waves": [
+        "wave2"
+      ]
+    },
+    "impermanent loss": {
+      "total_pairs": 100,
+      "sessions": [
+        31
+      ],
+      "waves": [
+        "wave2"
+      ]
+    },
+    "liquidity pool depth": {
+      "total_pairs": 100,
+      "sessions": [
+        30
+      ],
+      "waves": [
+        "wave2"
+      ]
+    },
+    "slippage": {
+      "total_pairs": 0,
+      "sessions": [
+        "unknown"
+      ],
+      "waves": [
+        "wave2"
+      ]
+    },
+    "supply rate": {
+      "total_pairs": 100,
+      "sessions": [
+        31
+      ],
+      "waves": [
+        "wave2"
+      ]
+    },
+    "altcoin correlation to btc": {
+      "total_pairs": 100,
+      "sessions": [
+        36
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "altcoin season index": {
+      "total_pairs": 1,
+      "sessions": [
+        35
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "bid ask spread": {
+      "total_pairs": 100,
+      "sessions": [
+        32
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "bitcoin dominance btc.d": {
+      "total_pairs": 1,
+      "sessions": [
+        34
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "bollinger band width": {
+      "total_pairs": 100,
+      "sessions": [
+        37
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "crypto to gold correlation": {
+      "total_pairs": 99,
+      "sessions": [
+        37
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "crypto to stock market correlation": {
+      "total_pairs": 100,
+      "sessions": [
+        37
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "delta volume": {
+      "total_pairs": 100,
+      "sessions": [
+        33
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "ethereum dominance eth.d": {
+      "total_pairs": 1,
+      "sessions": [
+        35
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "exchange netflows": {
+      "total_pairs": 100,
+      "sessions": [
+        34
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "exchange reserve": {
+      "total_pairs": 100,
+      "sessions": [
+        33
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "footprint charts": {
+      "total_pairs": 1,
+      "sessions": [
+        33
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "liquidation events": {
+      "total_pairs": 1,
+      "sessions": [
+        32
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "maker buy sell volume": {
+      "total_pairs": 100,
+      "sessions": [
+        34
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "market buy sell ratio": {
+      "total_pairs": 100,
+      "sessions": [
+        33
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "market cap growth rate": {
+      "total_pairs": 100,
+      "sessions": [
+        36
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "stablecoin dominance": {
+      "total_pairs": 2,
+      "sessions": [
+        35
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "taker buy sell volume": {
+      "total_pairs": 100,
+      "sessions": [
+        34
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "total3 total market cap   bitcoin   ethereum": {
+      "total_pairs": 1,
+      "sessions": [
+        36
+      ],
+      "waves": [
+        "wave3"
+      ]
+    },
+    "total crypto market cap": {
+      "total_pairs": 100,
+      "sessions": [
+        35
+      ],
+      "waves": [
+        "wave3"
+      ]
+    }
+  }
+}

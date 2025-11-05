@@ -1,0 +1,1588 @@
+{
+  "created_at": "2025-11-02T09:17:54.676191",
+  "total_batches": 196,
+  "total_qa_pairs": 19556,
+  "batches": [
+    {
+      "batch_number": 1,
+      "batch_id": "refinement_batch_001",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_001_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 2,
+      "batch_id": "refinement_batch_002",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_002_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 3,
+      "batch_id": "refinement_batch_003",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_003_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 4,
+      "batch_id": "refinement_batch_004",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_004_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 5,
+      "batch_id": "refinement_batch_005",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_005_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 6,
+      "batch_id": "refinement_batch_006",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_006_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 7,
+      "batch_id": "refinement_batch_007",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_007_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 8,
+      "batch_id": "refinement_batch_008",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_008_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 9,
+      "batch_id": "refinement_batch_009",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_009_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 10,
+      "batch_id": "refinement_batch_010",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_010_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 11,
+      "batch_id": "refinement_batch_011",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_011_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 12,
+      "batch_id": "refinement_batch_012",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_012_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 13,
+      "batch_id": "refinement_batch_013",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_013_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 14,
+      "batch_id": "refinement_batch_014",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_014_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 15,
+      "batch_id": "refinement_batch_015",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_015_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 16,
+      "batch_id": "refinement_batch_016",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_016_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 17,
+      "batch_id": "refinement_batch_017",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_017_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 18,
+      "batch_id": "refinement_batch_018",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_018_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 19,
+      "batch_id": "refinement_batch_019",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_019_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 20,
+      "batch_id": "refinement_batch_020",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_020_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 21,
+      "batch_id": "refinement_batch_021",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_021_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 22,
+      "batch_id": "refinement_batch_022",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_022_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 23,
+      "batch_id": "refinement_batch_023",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_023_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 24,
+      "batch_id": "refinement_batch_024",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_024_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 25,
+      "batch_id": "refinement_batch_025",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_025_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 26,
+      "batch_id": "refinement_batch_026",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_026_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 27,
+      "batch_id": "refinement_batch_027",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_027_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 28,
+      "batch_id": "refinement_batch_028",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_028_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 29,
+      "batch_id": "refinement_batch_029",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_029_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 30,
+      "batch_id": "refinement_batch_030",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_030_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 31,
+      "batch_id": "refinement_batch_031",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_031_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 32,
+      "batch_id": "refinement_batch_032",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_032_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 33,
+      "batch_id": "refinement_batch_033",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_033_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 34,
+      "batch_id": "refinement_batch_034",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_034_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 35,
+      "batch_id": "refinement_batch_035",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_035_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 36,
+      "batch_id": "refinement_batch_036",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_036_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 37,
+      "batch_id": "refinement_batch_037",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_037_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 38,
+      "batch_id": "refinement_batch_038",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_038_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 39,
+      "batch_id": "refinement_batch_039",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_039_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 40,
+      "batch_id": "refinement_batch_040",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_040_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 41,
+      "batch_id": "refinement_batch_041",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_041_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 42,
+      "batch_id": "refinement_batch_042",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_042_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 43,
+      "batch_id": "refinement_batch_043",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_043_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 44,
+      "batch_id": "refinement_batch_044",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_044_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 45,
+      "batch_id": "refinement_batch_045",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_045_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 46,
+      "batch_id": "refinement_batch_046",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_046_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 47,
+      "batch_id": "refinement_batch_047",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_047_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 48,
+      "batch_id": "refinement_batch_048",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_048_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 49,
+      "batch_id": "refinement_batch_049",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_049_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 50,
+      "batch_id": "refinement_batch_050",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_050_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 51,
+      "batch_id": "refinement_batch_051",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_051_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 52,
+      "batch_id": "refinement_batch_052",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_052_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 53,
+      "batch_id": "refinement_batch_053",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_053_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 54,
+      "batch_id": "refinement_batch_054",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_054_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 55,
+      "batch_id": "refinement_batch_055",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_055_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 56,
+      "batch_id": "refinement_batch_056",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_056_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 57,
+      "batch_id": "refinement_batch_057",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_057_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 58,
+      "batch_id": "refinement_batch_058",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_058_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 59,
+      "batch_id": "refinement_batch_059",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_059_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 60,
+      "batch_id": "refinement_batch_060",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_060_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 61,
+      "batch_id": "refinement_batch_061",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_061_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 62,
+      "batch_id": "refinement_batch_062",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_062_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 63,
+      "batch_id": "refinement_batch_063",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_063_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 64,
+      "batch_id": "refinement_batch_064",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_064_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 65,
+      "batch_id": "refinement_batch_065",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_065_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 66,
+      "batch_id": "refinement_batch_066",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_066_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 67,
+      "batch_id": "refinement_batch_067",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_067_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 68,
+      "batch_id": "refinement_batch_068",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_068_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 69,
+      "batch_id": "refinement_batch_069",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_069_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 70,
+      "batch_id": "refinement_batch_070",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_070_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 71,
+      "batch_id": "refinement_batch_071",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_071_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 72,
+      "batch_id": "refinement_batch_072",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_072_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 73,
+      "batch_id": "refinement_batch_073",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_073_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 74,
+      "batch_id": "refinement_batch_074",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_074_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 75,
+      "batch_id": "refinement_batch_075",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_075_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 76,
+      "batch_id": "refinement_batch_076",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_076_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 77,
+      "batch_id": "refinement_batch_077",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_077_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 78,
+      "batch_id": "refinement_batch_078",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_078_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 79,
+      "batch_id": "refinement_batch_079",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_079_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 80,
+      "batch_id": "refinement_batch_080",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_080_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 81,
+      "batch_id": "refinement_batch_081",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_081_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 82,
+      "batch_id": "refinement_batch_082",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_082_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 83,
+      "batch_id": "refinement_batch_083",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_083_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 84,
+      "batch_id": "refinement_batch_084",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_084_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 85,
+      "batch_id": "refinement_batch_085",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_085_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 86,
+      "batch_id": "refinement_batch_086",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_086_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 87,
+      "batch_id": "refinement_batch_087",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_087_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 88,
+      "batch_id": "refinement_batch_088",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_088_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 89,
+      "batch_id": "refinement_batch_089",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_089_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 90,
+      "batch_id": "refinement_batch_090",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_090_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 91,
+      "batch_id": "refinement_batch_091",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_091_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 92,
+      "batch_id": "refinement_batch_092",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_092_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 93,
+      "batch_id": "refinement_batch_093",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_093_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 94,
+      "batch_id": "refinement_batch_094",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_094_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 95,
+      "batch_id": "refinement_batch_095",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_095_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 96,
+      "batch_id": "refinement_batch_096",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_096_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 97,
+      "batch_id": "refinement_batch_097",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_097_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 98,
+      "batch_id": "refinement_batch_098",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_098_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 99,
+      "batch_id": "refinement_batch_099",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_099_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 100,
+      "batch_id": "refinement_batch_100",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_100_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 101,
+      "batch_id": "refinement_batch_101",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_101_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 102,
+      "batch_id": "refinement_batch_102",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_102_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 103,
+      "batch_id": "refinement_batch_103",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_103_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 104,
+      "batch_id": "refinement_batch_104",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_104_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 105,
+      "batch_id": "refinement_batch_105",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_105_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 106,
+      "batch_id": "refinement_batch_106",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_106_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 107,
+      "batch_id": "refinement_batch_107",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_107_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 108,
+      "batch_id": "refinement_batch_108",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_108_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 109,
+      "batch_id": "refinement_batch_109",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_109_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 110,
+      "batch_id": "refinement_batch_110",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_110_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 111,
+      "batch_id": "refinement_batch_111",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_111_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 112,
+      "batch_id": "refinement_batch_112",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_112_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 113,
+      "batch_id": "refinement_batch_113",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_113_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 114,
+      "batch_id": "refinement_batch_114",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_114_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 115,
+      "batch_id": "refinement_batch_115",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_115_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 116,
+      "batch_id": "refinement_batch_116",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_116_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 117,
+      "batch_id": "refinement_batch_117",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_117_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 118,
+      "batch_id": "refinement_batch_118",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_118_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 119,
+      "batch_id": "refinement_batch_119",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_119_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 120,
+      "batch_id": "refinement_batch_120",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_120_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 121,
+      "batch_id": "refinement_batch_121",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_121_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 122,
+      "batch_id": "refinement_batch_122",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_122_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 123,
+      "batch_id": "refinement_batch_123",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_123_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 124,
+      "batch_id": "refinement_batch_124",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_124_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 125,
+      "batch_id": "refinement_batch_125",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_125_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 126,
+      "batch_id": "refinement_batch_126",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_126_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 127,
+      "batch_id": "refinement_batch_127",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_127_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 128,
+      "batch_id": "refinement_batch_128",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_128_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 129,
+      "batch_id": "refinement_batch_129",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_129_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 130,
+      "batch_id": "refinement_batch_130",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_130_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 131,
+      "batch_id": "refinement_batch_131",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_131_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 132,
+      "batch_id": "refinement_batch_132",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_132_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 133,
+      "batch_id": "refinement_batch_133",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_133_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 134,
+      "batch_id": "refinement_batch_134",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_134_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 135,
+      "batch_id": "refinement_batch_135",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_135_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 136,
+      "batch_id": "refinement_batch_136",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_136_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 137,
+      "batch_id": "refinement_batch_137",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_137_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 138,
+      "batch_id": "refinement_batch_138",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_138_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 139,
+      "batch_id": "refinement_batch_139",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_139_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 140,
+      "batch_id": "refinement_batch_140",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_140_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 141,
+      "batch_id": "refinement_batch_141",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_141_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 142,
+      "batch_id": "refinement_batch_142",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_142_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 143,
+      "batch_id": "refinement_batch_143",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_143_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 144,
+      "batch_id": "refinement_batch_144",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_144_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 145,
+      "batch_id": "refinement_batch_145",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_145_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 146,
+      "batch_id": "refinement_batch_146",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_146_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 147,
+      "batch_id": "refinement_batch_147",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_147_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 148,
+      "batch_id": "refinement_batch_148",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_148_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 149,
+      "batch_id": "refinement_batch_149",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_149_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 150,
+      "batch_id": "refinement_batch_150",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_150_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 151,
+      "batch_id": "refinement_batch_151",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_151_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 152,
+      "batch_id": "refinement_batch_152",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_152_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 153,
+      "batch_id": "refinement_batch_153",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_153_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 154,
+      "batch_id": "refinement_batch_154",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_154_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 155,
+      "batch_id": "refinement_batch_155",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_155_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 156,
+      "batch_id": "refinement_batch_156",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_156_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 157,
+      "batch_id": "refinement_batch_157",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_157_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 158,
+      "batch_id": "refinement_batch_158",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_158_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 159,
+      "batch_id": "refinement_batch_159",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_159_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 160,
+      "batch_id": "refinement_batch_160",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_160_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 161,
+      "batch_id": "refinement_batch_161",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_161_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 162,
+      "batch_id": "refinement_batch_162",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_162_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 163,
+      "batch_id": "refinement_batch_163",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_163_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 164,
+      "batch_id": "refinement_batch_164",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_164_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 165,
+      "batch_id": "refinement_batch_165",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_165_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 166,
+      "batch_id": "refinement_batch_166",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_166_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 167,
+      "batch_id": "refinement_batch_167",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_167_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 168,
+      "batch_id": "refinement_batch_168",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_168_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 169,
+      "batch_id": "refinement_batch_169",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_169_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 170,
+      "batch_id": "refinement_batch_170",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_170_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 171,
+      "batch_id": "refinement_batch_171",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_171_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 172,
+      "batch_id": "refinement_batch_172",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_172_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 173,
+      "batch_id": "refinement_batch_173",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_173_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 174,
+      "batch_id": "refinement_batch_174",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_174_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 175,
+      "batch_id": "refinement_batch_175",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_175_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 176,
+      "batch_id": "refinement_batch_176",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_176_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 177,
+      "batch_id": "refinement_batch_177",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_177_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 178,
+      "batch_id": "refinement_batch_178",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_178_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 179,
+      "batch_id": "refinement_batch_179",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_179_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 180,
+      "batch_id": "refinement_batch_180",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_180_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 181,
+      "batch_id": "refinement_batch_181",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_181_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 182,
+      "batch_id": "refinement_batch_182",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_182_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 183,
+      "batch_id": "refinement_batch_183",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_183_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 184,
+      "batch_id": "refinement_batch_184",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_184_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 185,
+      "batch_id": "refinement_batch_185",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_185_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 186,
+      "batch_id": "refinement_batch_186",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_186_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 187,
+      "batch_id": "refinement_batch_187",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_187_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 188,
+      "batch_id": "refinement_batch_188",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_188_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 189,
+      "batch_id": "refinement_batch_189",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_189_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 190,
+      "batch_id": "refinement_batch_190",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_190_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 191,
+      "batch_id": "refinement_batch_191",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_191_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 192,
+      "batch_id": "refinement_batch_192",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_192_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 193,
+      "batch_id": "refinement_batch_193",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_193_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 194,
+      "batch_id": "refinement_batch_194",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_194_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 195,
+      "batch_id": "refinement_batch_195",
+      "qa_count": 100,
+      "content_file": "gemini_batch_submissions\\batch_195_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 120000
+    },
+    {
+      "batch_number": 196,
+      "batch_id": "refinement_batch_196",
+      "qa_count": 56,
+      "content_file": "gemini_batch_submissions\\batch_196_content.txt",
+      "status": "ready_for_submission",
+      "estimated_tokens": 67200
+    }
+  ],
+  "submission_strategy": {
+    "method": "Gemini Batch API via MCP tools",
+    "model": "gemini-2.5-flash",
+    "estimated_total_tokens": 23467200,
+    "estimated_cost_with_discount": "$65-90 (50% batch discount)",
+    "expected_completion": "24-48 hours"
+  },
+  "next_steps": [
+    "1. Use mcp__gemini__batch_ingest_content for each batch",
+    "2. Submit batches using mcp__gemini__batch_create",
+    "3. Monitor with mcp__gemini__batch_get_status",
+    "4. Download results with mcp__gemini__batch_download_results"
+  ]
+}

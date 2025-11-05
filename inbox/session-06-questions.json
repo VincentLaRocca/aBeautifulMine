@@ -1,0 +1,152 @@
+[
+  {
+    "indicator": "Keltner Channels",
+    "question": "What is Keltner Channels and how is it calculated?",
+    "prompt": "Provide a comprehensive answer about what Keltner Channels is and how it is calculated in the context of cryptocurrency technical analysis. Include the mathematical formula, key components (EMA, ATR), and explain the upper and lower bands calculation. Be detailed and technical."
+  },
+  {
+    "indicator": "Keltner Channels",
+    "question": "How is Keltner Channels specifically used in cryptocurrency trading?",
+    "prompt": "Explain in detail how Keltner Channels is specifically used in cryptocurrency trading. Cover trend identification, volatility measurement, breakout signals, and how crypto's 24/7 market and high volatility affect its application. Provide practical examples with crypto assets."
+  },
+  {
+    "indicator": "Keltner Channels",
+    "question": "What are the optimal settings for Keltner Channels in crypto markets?",
+    "prompt": "Discuss the optimal settings for Keltner Channels when trading cryptocurrencies. Cover the standard settings (20-period EMA, 2x ATR multiplier), how to adjust for different timeframes (scalping vs. swing trading), and how to adapt for different crypto market conditions (trending vs. ranging). Explain the rationale behind these settings."
+  },
+  {
+    "indicator": "Keltner Channels",
+    "question": "What trading strategies work best with Keltner Channels in crypto?",
+    "prompt": "Describe the most effective trading strategies using Keltner Channels in cryptocurrency markets. Include: channel bounce strategy, breakout strategy, squeeze patterns, and trend-following approaches. Provide entry/exit rules and risk management guidelines for each strategy."
+  },
+  {
+    "indicator": "Keltner Channels",
+    "question": "How can Keltner Channels be combined with other indicators for crypto trading?",
+    "prompt": "Explain how to combine Keltner Channels with other technical indicators for more effective cryptocurrency trading. Discuss combinations with RSI, MACD, volume indicators, and Bollinger Bands. Explain how each combination improves signal quality and reduces false signals in volatile crypto markets."
+  },
+  {
+    "indicator": "Keltner Channels",
+    "question": "What are common mistakes when using Keltner Channels in cryptocurrency markets?",
+    "prompt": "Identify and explain common mistakes traders make when using Keltner Channels in cryptocurrency trading. Cover: using inappropriate timeframes, ignoring volume, misinterpreting squeezes, failing to adjust for crypto volatility, and poor risk management. Provide guidance on avoiding these pitfalls."
+  },
+  {
+    "indicator": "Donchian Channels",
+    "question": "What is Donchian Channels and how is it calculated?",
+    "prompt": "Provide a comprehensive answer about what Donchian Channels is and how it is calculated in the context of cryptocurrency technical analysis. Explain the upper band (highest high), lower band (lowest low), middle band calculation, and the standard period settings. Include the mathematical approach and historical context."
+  },
+  {
+    "indicator": "Donchian Channels",
+    "question": "How is Donchian Channels specifically used in cryptocurrency trading?",
+    "prompt": "Explain in detail how Donchian Channels is specifically used in cryptocurrency trading. Cover breakout identification, trend strength assessment, support/resistance levels, and how the 24/7 crypto market affects its reliability. Provide examples with Bitcoin, Ethereum, or other major cryptocurrencies."
+  },
+  {
+    "indicator": "Donchian Channels",
+    "question": "What are the optimal settings for Donchian Channels in crypto markets?",
+    "prompt": "Discuss the optimal settings for Donchian Channels when trading cryptocurrencies. Explain the classic 20-period setting, how to adjust for different trading styles (day trading, swing trading, position trading), and how to modify periods for high-volatility crypto assets vs. stablecoins or less volatile altcoins."
+  },
+  {
+    "indicator": "Donchian Channels",
+    "question": "What trading strategies work best with Donchian Channels in crypto?",
+    "prompt": "Describe the most effective trading strategies using Donchian Channels in cryptocurrency markets. Include: the Turtle Trading breakout strategy, channel width analysis for volatility, mean reversion plays, and trend continuation signals. Provide specific entry/exit criteria and position sizing rules for crypto trading."
+  },
+  {
+    "indicator": "Donchian Channels",
+    "question": "How can Donchian Channels be combined with other indicators for crypto trading?",
+    "prompt": "Explain how to combine Donchian Channels with other technical indicators for improved cryptocurrency trading performance. Discuss pairings with ADX for trend strength, volume indicators for breakout confirmation, ATR for volatility filtering, and moving averages for trend direction. Include specific trading rules for crypto markets."
+  },
+  {
+    "indicator": "Donchian Channels",
+    "question": "What are common mistakes when using Donchian Channels in cryptocurrency markets?",
+    "prompt": "Identify and explain common mistakes traders make when using Donchian Channels in cryptocurrency trading. Address: chasing breakouts without confirmation, using fixed periods across all crypto assets, ignoring false breakouts in ranging markets, poor stop-loss placement, and overtrading in sideways conditions. Provide solutions and best practices."
+  },
+  {
+    "indicator": "Standard Deviation",
+    "question": "What is Standard Deviation and how is it calculated?",
+    "prompt": "Provide a comprehensive answer about what Standard Deviation is and how it is calculated in the context of cryptocurrency technical analysis. Explain the statistical concept, the mathematical formula, the role of mean/average, variance calculation, and how it measures price dispersion. Include practical examples with crypto price data."
+  },
+  {
+    "indicator": "Standard Deviation",
+    "question": "How is Standard Deviation specifically used in cryptocurrency trading?",
+    "prompt": "Explain in detail how Standard Deviation is specifically used in cryptocurrency trading. Cover volatility measurement, price deviation from mean, identifying overbought/oversold conditions, Bollinger Bands relationship, and how crypto's extreme volatility makes this indicator particularly relevant. Provide crypto-specific applications."
+  },
+  {
+    "indicator": "Standard Deviation",
+    "question": "What are the optimal settings for Standard Deviation in crypto markets?",
+    "prompt": "Discuss the optimal settings for Standard Deviation when analyzing cryptocurrencies. Cover common period lengths (20-day, 50-day, 100-day), how to adjust for different crypto assets (Bitcoin vs. small-cap altcoins), different timeframes (intraday vs. daily), and how to interpret 1, 2, and 3 standard deviation moves in crypto markets."
+  },
+  {
+    "indicator": "Standard Deviation",
+    "question": "What trading strategies work best with Standard Deviation in crypto?",
+    "prompt": "Describe the most effective trading strategies using Standard Deviation in cryptocurrency markets. Include: volatility-based position sizing, mean reversion strategies, volatility breakout systems, and risk-adjusted entry/exit points. Explain how to use standard deviation channels and bands for crypto trading decisions."
+  },
+  {
+    "indicator": "Standard Deviation",
+    "question": "How can Standard Deviation be combined with other indicators for crypto trading?",
+    "prompt": "Explain how to combine Standard Deviation with other technical indicators for enhanced cryptocurrency trading. Discuss integration with Bollinger Bands, moving averages, RSI, and volume analysis. Cover how standard deviation can filter signals, adjust position sizes, and improve risk management in volatile crypto markets."
+  },
+  {
+    "indicator": "Standard Deviation",
+    "question": "What are common mistakes when using Standard Deviation in cryptocurrency markets?",
+    "prompt": "Identify and explain common mistakes traders make when using Standard Deviation in cryptocurrency trading. Address: assuming normal distribution in crypto returns, using inappropriate time periods, ignoring regime changes in volatility, confusing high deviation with trading signals, and failing to account for crypto's fat-tail events. Provide corrective approaches."
+  },
+  {
+    "indicator": "Historical Volatility",
+    "question": "What is Historical Volatility and how is it calculated?",
+    "prompt": "Provide a comprehensive answer about what Historical Volatility is and how it is calculated in the context of cryptocurrency technical analysis. Explain the concept of realized volatility, the mathematical calculation using logarithmic returns, annualization methods, and the difference between simple and exponential volatility. Include the standard formula and interpretation."
+  },
+  {
+    "indicator": "Historical Volatility",
+    "question": "How is Historical Volatility specifically used in cryptocurrency trading?",
+    "prompt": "Explain in detail how Historical Volatility is specifically used in cryptocurrency trading. Cover risk assessment, option pricing inputs, volatility regime identification, comparing assets, and market timing. Discuss how crypto's unique volatility characteristics (higher than traditional assets, 24/7 trading) affect its application and interpretation."
+  },
+  {
+    "indicator": "Historical Volatility",
+    "question": "What are the optimal settings for Historical Volatility in crypto markets?",
+    "prompt": "Discuss the optimal settings for Historical Volatility when analyzing cryptocurrencies. Explain standard lookback periods (10-day, 20-day, 30-day, 60-day), how to choose periods based on trading timeframe, the impact of crypto's continuous trading on calculation, and how to adjust for different crypto assets (major coins vs. altcoins)."
+  },
+  {
+    "indicator": "Historical Volatility",
+    "question": "What trading strategies work best with Historical Volatility in crypto?",
+    "prompt": "Describe the most effective trading strategies using Historical Volatility in cryptocurrency markets. Include: volatility mean reversion, volatility breakout trading, low-volatility buying opportunities, high-volatility position reduction, and volatility-based asset rotation. Provide specific rules and thresholds for crypto markets."
+  },
+  {
+    "indicator": "Historical Volatility",
+    "question": "How can Historical Volatility be combined with other indicators for crypto trading?",
+    "prompt": "Explain how to combine Historical Volatility with other technical indicators for superior cryptocurrency trading results. Discuss combinations with Bollinger Band width, ATR, price action patterns, and trend indicators. Include how to use volatility percentiles, volatility ratios, and multi-timeframe volatility analysis in crypto trading systems."
+  },
+  {
+    "indicator": "Historical Volatility",
+    "question": "What are common mistakes when using Historical Volatility in cryptocurrency markets?",
+    "prompt": "Identify and explain common mistakes traders make when using Historical Volatility in cryptocurrency trading. Cover: using too short lookback periods, failing to annualize properly, ignoring intraday volatility in 24/7 markets, comparing HV across different crypto assets incorrectly, and using past volatility to predict future volatility without context. Provide best practices."
+  },
+  {
+    "indicator": "Chaikin Volatility",
+    "question": "What is Chaikin Volatility and how is it calculated?",
+    "prompt": "Provide a comprehensive answer about what Chaikin Volatility is and how it is calculated in the context of cryptocurrency technical analysis. Explain Marc Chaikin's approach, the calculation using high-low range, the EMA smoothing process, the percentage change calculation, and how it differs from other volatility indicators. Include the complete mathematical formula."
+  },
+  {
+    "indicator": "Chaikin Volatility",
+    "question": "How is Chaikin Volatility specifically used in cryptocurrency trading?",
+    "prompt": "Explain in detail how Chaikin Volatility is specifically used in cryptocurrency trading. Cover volatility expansion/contraction signals, trend reversal identification, breakout confirmation, and market cycle analysis. Discuss how crypto's price swings and the indicator's focus on range expansion make it particularly useful for crypto traders."
+  },
+  {
+    "indicator": "Chaikin Volatility",
+    "question": "What are the optimal settings for Chaikin Volatility in crypto markets?",
+    "prompt": "Discuss the optimal settings for Chaikin Volatility when trading cryptocurrencies. Explain the standard settings (10-period EMA for high-low, 10-period rate of change), how to adjust for different crypto market conditions, different timeframes (intraday, daily, weekly), and modifications for various crypto assets based on their typical volatility patterns."
+  },
+  {
+    "indicator": "Chaikin Volatility",
+    "question": "What trading strategies work best with Chaikin Volatility in crypto?",
+    "prompt": "Describe the most effective trading strategies using Chaikin Volatility in cryptocurrency markets. Include: volatility expansion breakouts, volatility contraction squeeze plays, divergence signals, trend exhaustion identification, and cycle-based trading. Provide entry/exit rules, timeframe recommendations, and risk management approaches for crypto trading."
+  },
+  {
+    "indicator": "Chaikin Volatility",
+    "question": "How can Chaikin Volatility be combined with other indicators for crypto trading?",
+    "prompt": "Explain how to combine Chaikin Volatility with other technical indicators for more robust cryptocurrency trading signals. Discuss pairings with Chaikin Money Flow, Bollinger Bands, volume indicators, price patterns, and momentum oscillators. Include specific trading setups and confirmation criteria for crypto markets."
+  },
+  {
+    "indicator": "Chaikin Volatility",
+    "question": "What are common mistakes when using Chaikin Volatility in cryptocurrency markets?",
+    "prompt": "Identify and explain common mistakes traders make when using Chaikin Volatility in cryptocurrency trading. Address: misinterpreting zero-line crossings, using it as a standalone signal, ignoring the underlying trend, applying inappropriate settings for crypto's volatility, and failing to confirm signals with other indicators. Provide solutions and examples of proper usage."
+  }
+]

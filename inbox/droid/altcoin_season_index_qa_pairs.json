@@ -1,0 +1,24 @@
+{
+  "research_topic": "CRYPTO INDICATOR Altcoin Season Index",
+  "total_pairs": 1,
+  "session": 35,
+  "indicator": "altcoin_season_index",
+  "category": "dominance_metrics",
+  "research_method": "ultra_deep_research",
+  "queries_executed": 100,
+  "success_rate": "1%",
+  "generation_date": "2025-11-02",
+  "source_database": "ultra_deep_research_db",
+  "qa_pairs": [
+    {
+      "pair_number": 1,
+      "question": "altcoin season index",
+      "answer": "The \"Altcoin Season Index\" is a metric used in the cryptocurrency market to track the performance of alternative cryptocurrencies (altcoins) relative to Bitcoin (BTC). Here's a more detailed explanation: Definition: - The Altcoin Season Index is a technical indicator that measures the percentage of altcoins outperforming Bitcoin over the past 90 days. - It is calculated by dividing the number of altcoins that have outperformed Bitcoin over the past 90 days by the total number of altcoins tracked. - The index ranges from 0% to 100%, with 0% indicating that no altcoins are outperforming Bitcoin, and 100% indicating that all altcoins are outperforming Bitcoin. Explanation: - The Altcoin Season Index is used to identify periods of \"altcoin season,\" which refers to a market condition where altcoins are generally outperforming Bitcoin. - During an altcoin season, investors may shift their focus from Bitcoin to altcoins, seeking higher potential returns. - Conversely, when the index is low, it suggests that Bitcoin is outperforming the broader altcoin market, which may indicate a \"Bitcoin season.\" - The index is often used by traders and investors to gauge the overall sentiment and market dynamics in the cryptocurrency space. - It can help inform investment decisions, as altcoin seasons may present opportunities for diversification and potential gains in the altcoin market. Sources: - CoinMarketCap: https://coinmarketcap.com/alexandria/article/what-is-the-altcoin-season-index - CoinGecko: https://www.coingecko.com/en/altcoin-season-index - CoinDesk: https://www.coindesk.com/markets/2021/05/11/altcoin-season-index-hits-new-high-as-ethereum-other-alts-outperform-bitcoin/ In summary, the Altcoin Season Index is a valuable tool for understanding the relative performance of altcoins compared to Bitcoin, which can inform investment strategies and market analysis in the cryptocurrency ecosystem.",
+      "topic": "CRYPTO INDICATOR Altcoin Season Index",
+      "created_date": "2025-11-02 14:27:24",
+      "indicator": "altcoin_season_index",
+      "category": "dominance_metrics",
+      "session": 35
+    }
+  ]
+}

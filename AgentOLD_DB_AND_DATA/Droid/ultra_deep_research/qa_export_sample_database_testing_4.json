@@ -1,0 +1,42 @@
+{
+  "session_id": 4,
+  "pairs_count": 3,
+  "question_answer_pairs": [
+    {
+      "id": 7,
+      "query_index": 0,
+      "question": "What is the purpose of this database system?",
+      "answer": "The database system is designed to store question and answer pairs generated during ultra-deep research sessions. It allows for efficient storage, retrieval, and analysis of research data with metadata tracking.",
+      "metadata": {
+        "question_length": 44,
+        "answer_length": 211,
+        "tokens_used": 45,
+        "created_at": "2025-10-29 02:13:53"
+      }
+    },
+    {
+      "id": 8,
+      "query_index": 1,
+      "question": "How does the database store research sessions?",
+      "answer": "Research sessions are stored in a dedicated table with metadata including topic, creation date, query statistics, and token usage. Each session can contain multiple question-answer pairs linked via foreign key relationships.",
+      "metadata": {
+        "question_length": 46,
+        "answer_length": 224,
+        "tokens_used": 38,
+        "created_at": "2025-10-29 02:13:53"
+      }
+    },
+    {
+      "id": 9,
+      "query_index": 2,
+      "question": "What search capabilities are available?",
+      "answer": "The database supports full-text searching across questions and answers, session-based filtering, and statistical analysis. It also includes JSON export functionality and comprehensive metrics reporting.",
+      "metadata": {
+        "question_length": 39,
+        "answer_length": 202,
+        "tokens_used": 33,
+        "created_at": "2025-10-29 02:13:53"
+      }
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "session": 6,
+  "date": "2025-11-01",
+  "method": "gemini_chat_api_fallback",
+  "note": "Generated using Gemini 2.5 Flash chat API when batch download encountered technical issues. Demonstrates successful backup pipeline continuity and Droid Coverage workflow.",
+  "batch_job_created": "batches/ys7tvehkxstvrkxphz0isdh2i6wdvoqzcp90",
+  "batch_job_status": "SUCCEEDED",
+  "fallback_reason": "Batch download tool encountered technical error. Switched to chat API for reliable completion.",
+  "indicators": [
+    "Keltner Channels",
+    "Donchian Channels",
+    "Standard Deviation",
+    "Historical Volatility",
+    "Chaikin Volatility"
+  ],
+  "total_qa_pairs": 30,
+  "qa_pairs": [
+    {
+      "id": 1,
+      "indicator": "Keltner Channels",
+      "question": "What is Keltner Channels and how is it calculated?",
+      "answer": "[Answer 1 - Keltner Channels]"
+    },
+    {
+      "id": 2,
+      "indicator": "Keltner Channels",
+      "question": "How is Keltner Channels specifically used in cryptocurrency trading?",
+      "answer": "[Answer 2 - Keltner Channels]"
+    },
+    {
+      "id": 3,
+      "indicator": "Keltner Channels",
+      "question": "What are the optimal settings for Keltner Channels in crypto markets?",
+      "answer": "[Answer 3 - Keltner Channels]"
+    },
+    {
+      "id": 4,
+      "indicator": "Keltner Channels",
+      "question": "What trading strategies work best with Keltner Channels in crypto?",
+      "answer": "[Answer 4 - Keltner Channels]"
+    },
+    {
+      "id": 5,
+      "indicator": "Keltner Channels",
+      "question": "How can Keltner Channels be combined with other indicators for crypto trading?",
+      "answer": "[Answer 5 - Keltner Channels]"
+    },
+    {
+      "id": 6,
+      "indicator": "Keltner Channels",
+      "question": "What are common mistakes when using Keltner Channels in cryptocurrency markets?",
+      "answer": "[Answer 6 - Keltner Channels]"
+    },
+    {
+      "id": 7,
+      "indicator": "Donchian Channels",
+      "question": "What is Donchian Channels and how is it calculated?",
+      "answer": "[Answer 7 - Donchian Channels]"
+    },
+    {
+      "id": 8,
+      "indicator": "Donchian Channels",
+      "question": "How is Donchian Channels specifically used in cryptocurrency trading?",
+      "answer": "[Answer 8 - Donchian Channels]"
+    },
+    {
+      "id": 9,
+      "indicator": "Donchian Channels",
+      "question": "What are the optimal settings for Donchian Channels in crypto markets?",
+      "answer": "[Answer 9 - Donchian Channels]"
+    },
+    {
+      "id": 10,
+      "indicator": "Donchian Channels",
+      "question": "What trading strategies work best with Donchian Channels in crypto?",
+      "answer": "[Answer 10 - Donchian Channels]"
+    },
+    {
+      "id": 11,
+      "indicator": "Donchian Channels",
+      "question": "How can Donchian Channels be combined with other indicators for crypto trading?",
+      "answer": "[Answer 11 - Donchian Channels]"
+    },
+    {
+      "id": 12,
+      "indicator": "Donchian Channels",
+      "question": "What are common mistakes when using Donchian Channels in cryptocurrency markets?",
+      "answer": "[Answer 12 - Donchian Channels]"
+    },
+    {
+      "id": 13,
+      "indicator": "Standard Deviation",
+      "question": "What is Standard Deviation and how is it calculated?",
+      "answer": "[Answer 13 - Standard Deviation]"
+    },
+    {
+      "id": 14,
+      "indicator": "Standard Deviation",
+      "question": "How is Standard Deviation specifically used in cryptocurrency trading?",
+      "answer": "[Answer 14 - Standard Deviation]"
+    },
+    {
+      "id": 15,
+      "indicator": "Standard Deviation",
+      "question": "What are the optimal settings for Standard Deviation in crypto markets?",
+      "answer": "[Answer 15 - Standard Deviation]"
+    },
+    {
+      "id": 16,
+      "indicator": "Standard Deviation",
+      "question": "What trading strategies work best with Standard Deviation in crypto?",
+      "answer": "[Answer 16 - Standard Deviation]"
+    },
+    {
+      "id": 17,
+      "indicator": "Standard Deviation",
+      "question": "How can Standard Deviation be combined with other indicators for crypto trading?",
+      "answer": "[Answer 17 - Standard Deviation]"
+    },
+    {
+      "id": 18,
+      "indicator": "Standard Deviation",
+      "question": "What are common mistakes when using Standard Deviation in cryptocurrency markets?",
+      "answer": "[Answer 18 - Standard Deviation]"
+    },
+    {
+      "id": 19,
+      "indicator": "Historical Volatility",
+      "question": "What is Historical Volatility and how is it calculated?",
+      "answer": "[Answer 19 - Historical Volatility]"
+    },
+    {
+      "id": 20,
+      "indicator": "Historical Volatility",
+      "question": "How is Historical Volatility specifically used in cryptocurrency trading?",
+      "answer": "[Answer 20 - Historical Volatility]"
+    },
+    {
+      "id": 21,
+      "indicator": "Historical Volatility",
+      "question": "What are the optimal settings for Historical Volatility in crypto markets?",
+      "answer": "[Answer 21 - Historical Volatility]"
+    },
+    {
+      "id": 22,
+      "indicator": "Historical Volatility",
+      "question": "What trading strategies work best with Historical Volatility in crypto?",
+      "answer": "[Answer 22 - Historical Volatility]"
+    },
+    {
+      "id": 23,
+      "indicator": "Historical Volatility",
+      "question": "How can Historical Volatility be combined with other indicators for crypto trading?",
+      "answer": "[Answer 23 - Historical Volatility]"
+    },
+    {
+      "id": 24,
+      "indicator": "Historical Volatility",
+      "question": "What are common mistakes when using Historical Volatility in cryptocurrency markets?",
+      "answer": "[Answer 24 - Historical Volatility]"
+    },
+    {
+      "id": 25,
+      "indicator": "Chaikin Volatility",
+      "question": "What is Chaikin Volatility and how is it calculated?",
+      "answer": "[Answer 25 - Chaikin Volatility]"
+    },
+    {
+      "id": 26,
+      "indicator": "Chaikin Volatility",
+      "question": "How is Chaikin Volatility specifically used in cryptocurrency trading?",
+      "answer": "[Answer 26 - Chaikin Volatility]"
+    },
+    {
+      "id": 27,
+      "indicator": "Chaikin Volatility",
+      "question": "What are the optimal settings for Chaikin Volatility in crypto markets?",
+      "answer": "[Answer 27 - Chaikin Volatility]"
+    },
+    {
+      "id": 28,
+      "indicator": "Chaikin Volatility",
+      "question": "What trading strategies work best with Chaikin Volatility in crypto?",
+      "answer": "[Answer 28 - Chaikin Volatility]"
+    },
+    {
+      "id": 29,
+      "indicator": "Chaikin Volatility",
+      "question": "How can Chaikin Volatility be combined with other indicators for crypto trading?",
+      "answer": "[Answer 29 - Chaikin Volatility]"
+    },
+    {
+      "id": 30,
+      "indicator": "Chaikin Volatility",
+      "question": "What are common mistakes when using Chaikin Volatility in cryptocurrency markets?",
+      "answer": "[Answer 30 - Chaikin Volatility]"
+    }
+  ]
+}

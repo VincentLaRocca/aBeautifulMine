@@ -1,0 +1,5 @@
+CRYPTO INDICATOR Ethereum Dominance (ETH.D)
+CRYPTO INDICATOR Stablecoin Dominance
+CRYPTO INDICATOR DeFi Dominance
+CRYPTO INDICATOR Altcoin Season Index
+CRYPTO INDICATOR Total Crypto Market Cap

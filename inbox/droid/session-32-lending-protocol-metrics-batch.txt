@@ -1,0 +1,5 @@
+CRYPTO INDICATOR Total Borrowed
+CRYPTO INDICATOR Liquidation Events
+CRYPTO INDICATOR Bid-Ask Spread
+CRYPTO INDICATOR Order Book Depth
+CRYPTO INDICATOR Order Book Imbalance

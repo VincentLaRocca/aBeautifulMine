@@ -1,0 +1,9 @@
+# Sample Research Topics
+# Each line below is a separate research topic
+# Lines starting with # are comments and will be ignored
+
+Technical Analysis Moving Average Crossover systems
+Technical Analysis Moving Average Convergence Divergence (MACD)
+Technical Analysis Moving Average Combination Strategies
+
+

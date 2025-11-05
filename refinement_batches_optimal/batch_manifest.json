@@ -1,0 +1,1588 @@
+{
+  "created_at": "2025-11-02T09:07:31.117233",
+  "total_qa_pairs": 19556,
+  "total_batches": 196,
+  "batch_size": 100,
+  "batches": [
+    {
+      "batch_id": "refinement_batch_001",
+      "batch_number": 1,
+      "qa_count": 100,
+      "pair_id_range": "s200_q0 to s200_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_001.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_001_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_002",
+      "batch_number": 2,
+      "qa_count": 100,
+      "pair_id_range": "s199_q0 to s199_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_002.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_002_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_003",
+      "batch_number": 3,
+      "qa_count": 100,
+      "pair_id_range": "s198_q0 to s198_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_003.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_003_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_004",
+      "batch_number": 4,
+      "qa_count": 100,
+      "pair_id_range": "s197_q0 to s197_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_004.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_004_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_005",
+      "batch_number": 5,
+      "qa_count": 100,
+      "pair_id_range": "s196_q0 to s196_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_005.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_005_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_006",
+      "batch_number": 6,
+      "qa_count": 100,
+      "pair_id_range": "s195_q0 to s195_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_006.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_006_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_007",
+      "batch_number": 7,
+      "qa_count": 100,
+      "pair_id_range": "s194_q0 to s194_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_007.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_007_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_008",
+      "batch_number": 8,
+      "qa_count": 100,
+      "pair_id_range": "s193_q0 to s193_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_008.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_008_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_009",
+      "batch_number": 9,
+      "qa_count": 100,
+      "pair_id_range": "s192_q0 to s192_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_009.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_009_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_010",
+      "batch_number": 10,
+      "qa_count": 100,
+      "pair_id_range": "s191_q0 to s191_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_010.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_010_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_011",
+      "batch_number": 11,
+      "qa_count": 100,
+      "pair_id_range": "s190_q0 to s190_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_011.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_011_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_012",
+      "batch_number": 12,
+      "qa_count": 100,
+      "pair_id_range": "s189_q0 to s189_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_012.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_012_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_013",
+      "batch_number": 13,
+      "qa_count": 100,
+      "pair_id_range": "s188_q0 to s188_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_013.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_013_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_014",
+      "batch_number": 14,
+      "qa_count": 100,
+      "pair_id_range": "s187_q0 to s187_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_014.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_014_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_015",
+      "batch_number": 15,
+      "qa_count": 100,
+      "pair_id_range": "s186_q0 to s186_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_015.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_015_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_016",
+      "batch_number": 16,
+      "qa_count": 100,
+      "pair_id_range": "s185_q0 to s185_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_016.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_016_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_017",
+      "batch_number": 17,
+      "qa_count": 100,
+      "pair_id_range": "s184_q0 to s184_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_017.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_017_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_018",
+      "batch_number": 18,
+      "qa_count": 100,
+      "pair_id_range": "s183_q0 to s183_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_018.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_018_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_019",
+      "batch_number": 19,
+      "qa_count": 100,
+      "pair_id_range": "s182_q0 to s182_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_019.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_019_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_020",
+      "batch_number": 20,
+      "qa_count": 100,
+      "pair_id_range": "s181_q0 to s181_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_020.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_020_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_021",
+      "batch_number": 21,
+      "qa_count": 100,
+      "pair_id_range": "s180_q0 to s180_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_021.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_021_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_022",
+      "batch_number": 22,
+      "qa_count": 100,
+      "pair_id_range": "s179_q0 to s179_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_022.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_022_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_023",
+      "batch_number": 23,
+      "qa_count": 100,
+      "pair_id_range": "s178_q0 to s178_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_023.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_023_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_024",
+      "batch_number": 24,
+      "qa_count": 100,
+      "pair_id_range": "s177_q0 to s177_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_024.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_024_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_025",
+      "batch_number": 25,
+      "qa_count": 100,
+      "pair_id_range": "s176_q0 to s176_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_025.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_025_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_026",
+      "batch_number": 26,
+      "qa_count": 100,
+      "pair_id_range": "s175_q0 to s175_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_026.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_026_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_027",
+      "batch_number": 27,
+      "qa_count": 100,
+      "pair_id_range": "s174_q0 to s174_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_027.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_027_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_028",
+      "batch_number": 28,
+      "qa_count": 100,
+      "pair_id_range": "s173_q0 to s173_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_028.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_028_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_029",
+      "batch_number": 29,
+      "qa_count": 100,
+      "pair_id_range": "s172_q0 to s172_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_029.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_029_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_030",
+      "batch_number": 30,
+      "qa_count": 100,
+      "pair_id_range": "s171_q0 to s171_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_030.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_030_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_031",
+      "batch_number": 31,
+      "qa_count": 100,
+      "pair_id_range": "s170_q0 to s170_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_031.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_031_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_032",
+      "batch_number": 32,
+      "qa_count": 100,
+      "pair_id_range": "s169_q0 to s169_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_032.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_032_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_033",
+      "batch_number": 33,
+      "qa_count": 100,
+      "pair_id_range": "s168_q0 to s168_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_033.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_033_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_034",
+      "batch_number": 34,
+      "qa_count": 100,
+      "pair_id_range": "s167_q0 to s167_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_034.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_034_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_035",
+      "batch_number": 35,
+      "qa_count": 100,
+      "pair_id_range": "s166_q0 to s166_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_035.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_035_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_036",
+      "batch_number": 36,
+      "qa_count": 100,
+      "pair_id_range": "s165_q0 to s165_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_036.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_036_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_037",
+      "batch_number": 37,
+      "qa_count": 100,
+      "pair_id_range": "s164_q0 to s164_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_037.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_037_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_038",
+      "batch_number": 38,
+      "qa_count": 100,
+      "pair_id_range": "s163_q0 to s163_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_038.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_038_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_039",
+      "batch_number": 39,
+      "qa_count": 100,
+      "pair_id_range": "s162_q0 to s162_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_039.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_039_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_040",
+      "batch_number": 40,
+      "qa_count": 100,
+      "pair_id_range": "s161_q0 to s161_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_040.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_040_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_041",
+      "batch_number": 41,
+      "qa_count": 100,
+      "pair_id_range": "s160_q0 to s160_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_041.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_041_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_042",
+      "batch_number": 42,
+      "qa_count": 100,
+      "pair_id_range": "s159_q0 to s159_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_042.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_042_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_043",
+      "batch_number": 43,
+      "qa_count": 100,
+      "pair_id_range": "s158_q0 to s158_q99",
+      "json_file": "refinement_batches_optimal\\refinement_batch_043.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_043_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_044",
+      "batch_number": 44,
+      "qa_count": 100,
+      "pair_id_range": "s157_q0 to s156_q10",
+      "json_file": "refinement_batches_optimal\\refinement_batch_044.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_044_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_045",
+      "batch_number": 45,
+      "qa_count": 100,
+      "pair_id_range": "s156_q11 to s155_q10",
+      "json_file": "refinement_batches_optimal\\refinement_batch_045.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_045_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_046",
+      "batch_number": 46,
+      "qa_count": 100,
+      "pair_id_range": "s155_q11 to s154_q13",
+      "json_file": "refinement_batches_optimal\\refinement_batch_046.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_046_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_047",
+      "batch_number": 47,
+      "qa_count": 100,
+      "pair_id_range": "s154_q14 to s153_q27",
+      "json_file": "refinement_batches_optimal\\refinement_batch_047.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_047_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_048",
+      "batch_number": 48,
+      "qa_count": 100,
+      "pair_id_range": "s153_q28 to s152_q27",
+      "json_file": "refinement_batches_optimal\\refinement_batch_048.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_048_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_049",
+      "batch_number": 49,
+      "qa_count": 100,
+      "pair_id_range": "s152_q28 to s151_q27",
+      "json_file": "refinement_batches_optimal\\refinement_batch_049.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_049_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_050",
+      "batch_number": 50,
+      "qa_count": 100,
+      "pair_id_range": "s151_q28 to s150_q27",
+      "json_file": "refinement_batches_optimal\\refinement_batch_050.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_050_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_051",
+      "batch_number": 51,
+      "qa_count": 100,
+      "pair_id_range": "s150_q28 to s149_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_051.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_051_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_052",
+      "batch_number": 52,
+      "qa_count": 100,
+      "pair_id_range": "s149_q32 to s148_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_052.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_052_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_053",
+      "batch_number": 53,
+      "qa_count": 100,
+      "pair_id_range": "s148_q32 to s147_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_053.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_053_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_054",
+      "batch_number": 54,
+      "qa_count": 100,
+      "pair_id_range": "s147_q32 to s146_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_054.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_054_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_055",
+      "batch_number": 55,
+      "qa_count": 100,
+      "pair_id_range": "s146_q32 to s145_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_055.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_055_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_056",
+      "batch_number": 56,
+      "qa_count": 100,
+      "pair_id_range": "s145_q32 to s144_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_056.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_056_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_057",
+      "batch_number": 57,
+      "qa_count": 100,
+      "pair_id_range": "s144_q32 to s143_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_057.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_057_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_058",
+      "batch_number": 58,
+      "qa_count": 100,
+      "pair_id_range": "s143_q32 to s142_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_058.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_058_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_059",
+      "batch_number": 59,
+      "qa_count": 100,
+      "pair_id_range": "s142_q32 to s141_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_059.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_059_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_060",
+      "batch_number": 60,
+      "qa_count": 100,
+      "pair_id_range": "s141_q32 to s140_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_060.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_060_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_061",
+      "batch_number": 61,
+      "qa_count": 100,
+      "pair_id_range": "s140_q32 to s139_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_061.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_061_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_062",
+      "batch_number": 62,
+      "qa_count": 100,
+      "pair_id_range": "s139_q32 to s138_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_062.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_062_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_063",
+      "batch_number": 63,
+      "qa_count": 100,
+      "pair_id_range": "s138_q32 to s137_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_063.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_063_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_064",
+      "batch_number": 64,
+      "qa_count": 100,
+      "pair_id_range": "s137_q32 to s136_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_064.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_064_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_065",
+      "batch_number": 65,
+      "qa_count": 100,
+      "pair_id_range": "s136_q32 to s135_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_065.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_065_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_066",
+      "batch_number": 66,
+      "qa_count": 100,
+      "pair_id_range": "s135_q32 to s134_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_066.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_066_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_067",
+      "batch_number": 67,
+      "qa_count": 100,
+      "pair_id_range": "s134_q32 to s133_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_067.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_067_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_068",
+      "batch_number": 68,
+      "qa_count": 100,
+      "pair_id_range": "s133_q32 to s132_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_068.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_068_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_069",
+      "batch_number": 69,
+      "qa_count": 100,
+      "pair_id_range": "s132_q32 to s131_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_069.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_069_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_070",
+      "batch_number": 70,
+      "qa_count": 100,
+      "pair_id_range": "s131_q32 to s130_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_070.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_070_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_071",
+      "batch_number": 71,
+      "qa_count": 100,
+      "pair_id_range": "s130_q32 to s129_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_071.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_071_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_072",
+      "batch_number": 72,
+      "qa_count": 100,
+      "pair_id_range": "s129_q32 to s128_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_072.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_072_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_073",
+      "batch_number": 73,
+      "qa_count": 100,
+      "pair_id_range": "s128_q32 to s127_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_073.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_073_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_074",
+      "batch_number": 74,
+      "qa_count": 100,
+      "pair_id_range": "s127_q32 to s126_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_074.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_074_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_075",
+      "batch_number": 75,
+      "qa_count": 100,
+      "pair_id_range": "s126_q32 to s125_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_075.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_075_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_076",
+      "batch_number": 76,
+      "qa_count": 100,
+      "pair_id_range": "s125_q32 to s124_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_076.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_076_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_077",
+      "batch_number": 77,
+      "qa_count": 100,
+      "pair_id_range": "s124_q32 to s123_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_077.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_077_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_078",
+      "batch_number": 78,
+      "qa_count": 100,
+      "pair_id_range": "s123_q32 to s122_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_078.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_078_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_079",
+      "batch_number": 79,
+      "qa_count": 100,
+      "pair_id_range": "s122_q32 to s121_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_079.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_079_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_080",
+      "batch_number": 80,
+      "qa_count": 100,
+      "pair_id_range": "s121_q32 to s120_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_080.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_080_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_081",
+      "batch_number": 81,
+      "qa_count": 100,
+      "pair_id_range": "s120_q32 to s119_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_081.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_081_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_082",
+      "batch_number": 82,
+      "qa_count": 100,
+      "pair_id_range": "s119_q32 to s118_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_082.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_082_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_083",
+      "batch_number": 83,
+      "qa_count": 100,
+      "pair_id_range": "s118_q32 to s117_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_083.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_083_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_084",
+      "batch_number": 84,
+      "qa_count": 100,
+      "pair_id_range": "s117_q32 to s116_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_084.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_084_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_085",
+      "batch_number": 85,
+      "qa_count": 100,
+      "pair_id_range": "s116_q32 to s115_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_085.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_085_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_086",
+      "batch_number": 86,
+      "qa_count": 100,
+      "pair_id_range": "s115_q32 to s114_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_086.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_086_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_087",
+      "batch_number": 87,
+      "qa_count": 100,
+      "pair_id_range": "s114_q32 to s113_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_087.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_087_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_088",
+      "batch_number": 88,
+      "qa_count": 100,
+      "pair_id_range": "s113_q32 to s112_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_088.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_088_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_089",
+      "batch_number": 89,
+      "qa_count": 100,
+      "pair_id_range": "s112_q32 to s111_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_089.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_089_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_090",
+      "batch_number": 90,
+      "qa_count": 100,
+      "pair_id_range": "s111_q32 to s110_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_090.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_090_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_091",
+      "batch_number": 91,
+      "qa_count": 100,
+      "pair_id_range": "s110_q32 to s109_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_091.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_091_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_092",
+      "batch_number": 92,
+      "qa_count": 100,
+      "pair_id_range": "s109_q32 to s108_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_092.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_092_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_093",
+      "batch_number": 93,
+      "qa_count": 100,
+      "pair_id_range": "s108_q32 to s107_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_093.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_093_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_094",
+      "batch_number": 94,
+      "qa_count": 100,
+      "pair_id_range": "s107_q32 to s106_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_094.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_094_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_095",
+      "batch_number": 95,
+      "qa_count": 100,
+      "pair_id_range": "s106_q32 to s105_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_095.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_095_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_096",
+      "batch_number": 96,
+      "qa_count": 100,
+      "pair_id_range": "s105_q32 to s104_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_096.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_096_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_097",
+      "batch_number": 97,
+      "qa_count": 100,
+      "pair_id_range": "s104_q32 to s103_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_097.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_097_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_098",
+      "batch_number": 98,
+      "qa_count": 100,
+      "pair_id_range": "s103_q32 to s102_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_098.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_098_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_099",
+      "batch_number": 99,
+      "qa_count": 100,
+      "pair_id_range": "s102_q32 to s101_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_099.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_099_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_100",
+      "batch_number": 100,
+      "qa_count": 100,
+      "pair_id_range": "s101_q32 to s100_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_100.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_100_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_101",
+      "batch_number": 101,
+      "qa_count": 100,
+      "pair_id_range": "s100_q32 to s99_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_101.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_101_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_102",
+      "batch_number": 102,
+      "qa_count": 100,
+      "pair_id_range": "s99_q32 to s98_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_102.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_102_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_103",
+      "batch_number": 103,
+      "qa_count": 100,
+      "pair_id_range": "s98_q32 to s97_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_103.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_103_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_104",
+      "batch_number": 104,
+      "qa_count": 100,
+      "pair_id_range": "s97_q32 to s96_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_104.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_104_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_105",
+      "batch_number": 105,
+      "qa_count": 100,
+      "pair_id_range": "s96_q32 to s95_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_105.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_105_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_106",
+      "batch_number": 106,
+      "qa_count": 100,
+      "pair_id_range": "s95_q32 to s94_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_106.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_106_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_107",
+      "batch_number": 107,
+      "qa_count": 100,
+      "pair_id_range": "s94_q32 to s93_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_107.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_107_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_108",
+      "batch_number": 108,
+      "qa_count": 100,
+      "pair_id_range": "s93_q32 to s92_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_108.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_108_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_109",
+      "batch_number": 109,
+      "qa_count": 100,
+      "pair_id_range": "s92_q32 to s91_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_109.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_109_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_110",
+      "batch_number": 110,
+      "qa_count": 100,
+      "pair_id_range": "s91_q32 to s90_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_110.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_110_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_111",
+      "batch_number": 111,
+      "qa_count": 100,
+      "pair_id_range": "s90_q32 to s89_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_111.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_111_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_112",
+      "batch_number": 112,
+      "qa_count": 100,
+      "pair_id_range": "s89_q32 to s88_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_112.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_112_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_113",
+      "batch_number": 113,
+      "qa_count": 100,
+      "pair_id_range": "s88_q32 to s87_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_113.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_113_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_114",
+      "batch_number": 114,
+      "qa_count": 100,
+      "pair_id_range": "s87_q32 to s86_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_114.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_114_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_115",
+      "batch_number": 115,
+      "qa_count": 100,
+      "pair_id_range": "s86_q32 to s85_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_115.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_115_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_116",
+      "batch_number": 116,
+      "qa_count": 100,
+      "pair_id_range": "s85_q32 to s84_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_116.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_116_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_117",
+      "batch_number": 117,
+      "qa_count": 100,
+      "pair_id_range": "s84_q32 to s83_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_117.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_117_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_118",
+      "batch_number": 118,
+      "qa_count": 100,
+      "pair_id_range": "s83_q32 to s82_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_118.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_118_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_119",
+      "batch_number": 119,
+      "qa_count": 100,
+      "pair_id_range": "s82_q32 to s81_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_119.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_119_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_120",
+      "batch_number": 120,
+      "qa_count": 100,
+      "pair_id_range": "s81_q32 to s80_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_120.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_120_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_121",
+      "batch_number": 121,
+      "qa_count": 100,
+      "pair_id_range": "s80_q32 to s79_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_121.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_121_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_122",
+      "batch_number": 122,
+      "qa_count": 100,
+      "pair_id_range": "s79_q32 to s78_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_122.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_122_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_123",
+      "batch_number": 123,
+      "qa_count": 100,
+      "pair_id_range": "s78_q32 to s77_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_123.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_123_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_124",
+      "batch_number": 124,
+      "qa_count": 100,
+      "pair_id_range": "s77_q32 to s76_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_124.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_124_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_125",
+      "batch_number": 125,
+      "qa_count": 100,
+      "pair_id_range": "s76_q32 to s75_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_125.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_125_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_126",
+      "batch_number": 126,
+      "qa_count": 100,
+      "pair_id_range": "s75_q32 to s74_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_126.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_126_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_127",
+      "batch_number": 127,
+      "qa_count": 100,
+      "pair_id_range": "s74_q32 to s73_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_127.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_127_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_128",
+      "batch_number": 128,
+      "qa_count": 100,
+      "pair_id_range": "s73_q32 to s72_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_128.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_128_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_129",
+      "batch_number": 129,
+      "qa_count": 100,
+      "pair_id_range": "s72_q32 to s71_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_129.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_129_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_130",
+      "batch_number": 130,
+      "qa_count": 100,
+      "pair_id_range": "s71_q32 to s70_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_130.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_130_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_131",
+      "batch_number": 131,
+      "qa_count": 100,
+      "pair_id_range": "s70_q32 to s69_q31",
+      "json_file": "refinement_batches_optimal\\refinement_batch_131.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_131_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_132",
+      "batch_number": 132,
+      "qa_count": 100,
+      "pair_id_range": "s69_q32 to s68_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_132.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_132_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_133",
+      "batch_number": 133,
+      "qa_count": 100,
+      "pair_id_range": "s68_q45 to s67_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_133.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_133_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_134",
+      "batch_number": 134,
+      "qa_count": 100,
+      "pair_id_range": "s67_q45 to s66_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_134.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_134_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_135",
+      "batch_number": 135,
+      "qa_count": 100,
+      "pair_id_range": "s66_q45 to s65_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_135.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_135_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_136",
+      "batch_number": 136,
+      "qa_count": 100,
+      "pair_id_range": "s65_q45 to s64_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_136.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_136_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_137",
+      "batch_number": 137,
+      "qa_count": 100,
+      "pair_id_range": "s64_q45 to s63_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_137.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_137_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_138",
+      "batch_number": 138,
+      "qa_count": 100,
+      "pair_id_range": "s63_q45 to s62_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_138.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_138_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_139",
+      "batch_number": 139,
+      "qa_count": 100,
+      "pair_id_range": "s62_q45 to s61_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_139.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_139_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_140",
+      "batch_number": 140,
+      "qa_count": 100,
+      "pair_id_range": "s61_q45 to s60_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_140.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_140_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_141",
+      "batch_number": 141,
+      "qa_count": 100,
+      "pair_id_range": "s60_q45 to s59_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_141.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_141_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_142",
+      "batch_number": 142,
+      "qa_count": 100,
+      "pair_id_range": "s59_q45 to s58_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_142.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_142_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_143",
+      "batch_number": 143,
+      "qa_count": 100,
+      "pair_id_range": "s58_q45 to s57_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_143.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_143_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_144",
+      "batch_number": 144,
+      "qa_count": 100,
+      "pair_id_range": "s57_q45 to s56_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_144.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_144_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_145",
+      "batch_number": 145,
+      "qa_count": 100,
+      "pair_id_range": "s56_q45 to s55_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_145.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_145_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_146",
+      "batch_number": 146,
+      "qa_count": 100,
+      "pair_id_range": "s55_q45 to s54_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_146.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_146_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_147",
+      "batch_number": 147,
+      "qa_count": 100,
+      "pair_id_range": "s54_q45 to s53_q44",
+      "json_file": "refinement_batches_optimal\\refinement_batch_147.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_147_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_148",
+      "batch_number": 148,
+      "qa_count": 100,
+      "pair_id_range": "s53_q45 to s52_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_148.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_148_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_149",
+      "batch_number": 149,
+      "qa_count": 100,
+      "pair_id_range": "s52_q53 to s51_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_149.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_149_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_150",
+      "batch_number": 150,
+      "qa_count": 100,
+      "pair_id_range": "s51_q53 to s50_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_150.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_150_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_151",
+      "batch_number": 151,
+      "qa_count": 100,
+      "pair_id_range": "s50_q53 to s49_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_151.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_151_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_152",
+      "batch_number": 152,
+      "qa_count": 100,
+      "pair_id_range": "s49_q53 to s48_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_152.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_152_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_153",
+      "batch_number": 153,
+      "qa_count": 100,
+      "pair_id_range": "s48_q53 to s47_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_153.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_153_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_154",
+      "batch_number": 154,
+      "qa_count": 100,
+      "pair_id_range": "s47_q53 to s46_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_154.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_154_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_155",
+      "batch_number": 155,
+      "qa_count": 100,
+      "pair_id_range": "s46_q53 to s45_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_155.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_155_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_156",
+      "batch_number": 156,
+      "qa_count": 100,
+      "pair_id_range": "s45_q53 to s44_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_156.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_156_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_157",
+      "batch_number": 157,
+      "qa_count": 100,
+      "pair_id_range": "s44_q53 to s43_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_157.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_157_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_158",
+      "batch_number": 158,
+      "qa_count": 100,
+      "pair_id_range": "s43_q53 to s42_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_158.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_158_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_159",
+      "batch_number": 159,
+      "qa_count": 100,
+      "pair_id_range": "s42_q53 to s41_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_159.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_159_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_160",
+      "batch_number": 160,
+      "qa_count": 100,
+      "pair_id_range": "s41_q53 to s40_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_160.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_160_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_161",
+      "batch_number": 161,
+      "qa_count": 100,
+      "pair_id_range": "s40_q53 to s39_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_161.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_161_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_162",
+      "batch_number": 162,
+      "qa_count": 100,
+      "pair_id_range": "s39_q53 to s38_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_162.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_162_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_163",
+      "batch_number": 163,
+      "qa_count": 100,
+      "pair_id_range": "s38_q53 to s37_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_163.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_163_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_164",
+      "batch_number": 164,
+      "qa_count": 100,
+      "pair_id_range": "s37_q53 to s36_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_164.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_164_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_165",
+      "batch_number": 165,
+      "qa_count": 100,
+      "pair_id_range": "s36_q53 to s35_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_165.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_165_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_166",
+      "batch_number": 166,
+      "qa_count": 100,
+      "pair_id_range": "s35_q53 to s34_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_166.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_166_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_167",
+      "batch_number": 167,
+      "qa_count": 100,
+      "pair_id_range": "s34_q53 to s33_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_167.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_167_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_168",
+      "batch_number": 168,
+      "qa_count": 100,
+      "pair_id_range": "s33_q53 to s32_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_168.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_168_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_169",
+      "batch_number": 169,
+      "qa_count": 100,
+      "pair_id_range": "s32_q53 to s31_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_169.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_169_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_170",
+      "batch_number": 170,
+      "qa_count": 100,
+      "pair_id_range": "s31_q53 to s30_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_170.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_170_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_171",
+      "batch_number": 171,
+      "qa_count": 100,
+      "pair_id_range": "s30_q53 to s29_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_171.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_171_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_172",
+      "batch_number": 172,
+      "qa_count": 100,
+      "pair_id_range": "s29_q53 to s28_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_172.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_172_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_173",
+      "batch_number": 173,
+      "qa_count": 100,
+      "pair_id_range": "s28_q53 to s27_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_173.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_173_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_174",
+      "batch_number": 174,
+      "qa_count": 100,
+      "pair_id_range": "s27_q53 to s26_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_174.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_174_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_175",
+      "batch_number": 175,
+      "qa_count": 100,
+      "pair_id_range": "s26_q53 to s25_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_175.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_175_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_176",
+      "batch_number": 176,
+      "qa_count": 100,
+      "pair_id_range": "s25_q53 to s24_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_176.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_176_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_177",
+      "batch_number": 177,
+      "qa_count": 100,
+      "pair_id_range": "s24_q53 to s23_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_177.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_177_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_178",
+      "batch_number": 178,
+      "qa_count": 100,
+      "pair_id_range": "s23_q53 to s22_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_178.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_178_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_179",
+      "batch_number": 179,
+      "qa_count": 100,
+      "pair_id_range": "s22_q53 to s21_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_179.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_179_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_180",
+      "batch_number": 180,
+      "qa_count": 100,
+      "pair_id_range": "s21_q53 to s20_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_180.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_180_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_181",
+      "batch_number": 181,
+      "qa_count": 100,
+      "pair_id_range": "s20_q53 to s19_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_181.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_181_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_182",
+      "batch_number": 182,
+      "qa_count": 100,
+      "pair_id_range": "s19_q53 to s18_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_182.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_182_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_183",
+      "batch_number": 183,
+      "qa_count": 100,
+      "pair_id_range": "s18_q53 to s17_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_183.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_183_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_184",
+      "batch_number": 184,
+      "qa_count": 100,
+      "pair_id_range": "s17_q53 to s16_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_184.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_184_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_185",
+      "batch_number": 185,
+      "qa_count": 100,
+      "pair_id_range": "s16_q53 to s15_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_185.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_185_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_186",
+      "batch_number": 186,
+      "qa_count": 100,
+      "pair_id_range": "s15_q53 to s14_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_186.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_186_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_187",
+      "batch_number": 187,
+      "qa_count": 100,
+      "pair_id_range": "s14_q53 to s13_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_187.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_187_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_188",
+      "batch_number": 188,
+      "qa_count": 100,
+      "pair_id_range": "s13_q53 to s12_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_188.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_188_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_189",
+      "batch_number": 189,
+      "qa_count": 100,
+      "pair_id_range": "s12_q53 to s11_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_189.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_189_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_190",
+      "batch_number": 190,
+      "qa_count": 100,
+      "pair_id_range": "s11_q53 to s10_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_190.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_190_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_191",
+      "batch_number": 191,
+      "qa_count": 100,
+      "pair_id_range": "s10_q53 to s9_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_191.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_191_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_192",
+      "batch_number": 192,
+      "qa_count": 100,
+      "pair_id_range": "s9_q53 to s8_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_192.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_192_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_193",
+      "batch_number": 193,
+      "qa_count": 100,
+      "pair_id_range": "s8_q53 to s7_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_193.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_193_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_194",
+      "batch_number": 194,
+      "qa_count": 100,
+      "pair_id_range": "s7_q53 to s6_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_194.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_194_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_195",
+      "batch_number": 195,
+      "qa_count": 100,
+      "pair_id_range": "s6_q53 to s5_q52",
+      "json_file": "refinement_batches_optimal\\refinement_batch_195.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_195_content.txt"
+    },
+    {
+      "batch_id": "refinement_batch_196",
+      "batch_number": 196,
+      "qa_count": 56,
+      "pair_id_range": "s5_q53 to s2_q2",
+      "json_file": "refinement_batches_optimal\\refinement_batch_196.json",
+      "content_file": "refinement_batches_optimal\\refinement_batch_196_content.txt"
+    }
+  ],
+  "strategy": {
+    "batch_size_rationale": "Optimized for quality: ~100 pairs per batch based on successful test",
+    "expected_tokens_per_batch": "~120,000 tokens",
+    "estimated_total_cost": "Batch API 50% discount applies"
+  },
+  "next_steps": [
+    "1. Use Gemini batch API to submit batches",
+    "2. Monitor progress",
+    "3. Download refined results",
+    "4. Consolidate and deduplicate",
+    "5. Import to production database"
+  ]
+}

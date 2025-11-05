@@ -1,0 +1,5 @@
+CRYPTO INDICATOR Cumulative Volume Delta (CVD)
+CRYPTO INDICATOR Footprint Charts
+CRYPTO INDICATOR Delta Volume
+CRYPTO INDICATOR Market Buy/Sell Ratio
+CRYPTO INDICATOR Exchange Reserve

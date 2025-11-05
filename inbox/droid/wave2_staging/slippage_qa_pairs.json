@@ -1,0 +1,13 @@
+{
+  "research_topic": "CRYPTO INDICATOR Slippage",
+  "total_pairs": 0,
+  "session": 31,
+  "indicator": "slippage",
+  "category": "dex_metrics",
+  "research_method": "ultra_deep_research",
+  "queries_executed": 100,
+  "success_rate": "0%",
+  "generation_date": "2025-11-02",
+  "source_database": "ultra_deep_research_db",
+  "qa_pairs": []
+}

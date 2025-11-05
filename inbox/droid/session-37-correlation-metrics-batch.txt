@@ -1,0 +1,5 @@
+CRYPTO INDICATOR Crypto to Stock Market Correlation
+CRYPTO INDICATOR Crypto to Gold Correlation
+CRYPTO INDICATOR Z-Score
+CRYPTO INDICATOR Bollinger Band Width
+CRYPTO INDICATOR Kurtosis (tail risk)
