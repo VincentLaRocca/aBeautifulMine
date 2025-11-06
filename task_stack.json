@@ -1,0 +1,148 @@
+{
+  "tasks": {
+    "integrate_sessions_101_140": {
+      "task_id": "integrate_sessions_101_140",
+      "priority": 1,
+      "description": "Integrate RAG export sessions 101-140 (~4,000 pairs)",
+      "status": "in_progress",
+      "estimated_tokens": 100000,
+      "actual_tokens": 19000,
+      "dependencies": [],
+      "progress": {
+        "current": 10,
+        "total": 40,
+        "percentage": 25.0
+      },
+      "checkpoints": [
+        {
+          "checkpoint": "Database status checked: 23,627 pairs",
+          "timestamp": "2025-11-06T00:16:56.715539",
+          "progress": 1,
+          "tokens": 4000
+        },
+        {
+          "checkpoint": "Droid inbox checked: 29 files, all already integrated (0 duplicates)",
+          "timestamp": "2025-11-06T00:19:11.641713",
+          "progress": 10,
+          "tokens": 19000
+        }
+      ],
+      "assigned_to": "claude_code",
+      "created": "2025-11-06T00:04:20.327471",
+      "started": "2025-11-06T00:13:55.394584",
+      "completed": null,
+      "grade": null,
+      "metadata": {}
+    },
+    "integrate_claude_shared": {
+      "task_id": "integrate_claude_shared",
+      "priority": 2,
+      "description": "Integrate original training database (~2,000-7,000 unique pairs)",
+      "status": "pending",
+      "estimated_tokens": 60000,
+      "actual_tokens": 0,
+      "dependencies": [],
+      "progress": {
+        "current": 0,
+        "total": 0,
+        "percentage": 0
+      },
+      "checkpoints": [],
+      "assigned_to": null,
+      "created": "2025-11-06T00:04:20.327471",
+      "started": null,
+      "completed": null,
+      "grade": null,
+      "metadata": {}
+    },
+    "integrate_sessions_141_187": {
+      "task_id": "integrate_sessions_141_187",
+      "priority": 3,
+      "description": "Integrate RAG export sessions 141-187 (~4,700 pairs)",
+      "status": "pending",
+      "estimated_tokens": 120000,
+      "actual_tokens": 0,
+      "dependencies": [],
+      "progress": {
+        "current": 0,
+        "total": 0,
+        "percentage": 0
+      },
+      "checkpoints": [],
+      "assigned_to": null,
+      "created": "2025-11-06T00:04:20.328478",
+      "started": null,
+      "completed": null,
+      "grade": null,
+      "metadata": {}
+    },
+    "quality_analysis_full_database": {
+      "task_id": "quality_analysis_full_database",
+      "priority": 4,
+      "description": "Run comprehensive quality analysis on entire database",
+      "status": "pending",
+      "estimated_tokens": 40000,
+      "actual_tokens": 0,
+      "dependencies": [],
+      "progress": {
+        "current": 0,
+        "total": 0,
+        "percentage": 0
+      },
+      "checkpoints": [],
+      "assigned_to": null,
+      "created": "2025-11-06T00:04:20.328478",
+      "started": null,
+      "completed": null,
+      "grade": null,
+      "metadata": {}
+    },
+    "embeddings_generation_batch_1": {
+      "task_id": "embeddings_generation_batch_1",
+      "priority": 5,
+      "description": "Generate embeddings for first 10,000 pairs",
+      "status": "pending",
+      "estimated_tokens": 30000,
+      "actual_tokens": 0,
+      "dependencies": [],
+      "progress": {
+        "current": 0,
+        "total": 0,
+        "percentage": 0
+      },
+      "checkpoints": [],
+      "assigned_to": null,
+      "created": "2025-11-06T00:04:20.328478",
+      "started": null,
+      "completed": null,
+      "grade": null,
+      "metadata": {}
+    },
+    "deduplication_analysis": {
+      "task_id": "deduplication_analysis",
+      "priority": 6,
+      "description": "Identify and remove duplicates via cosine similarity",
+      "status": "pending",
+      "estimated_tokens": 50000,
+      "actual_tokens": 0,
+      "dependencies": [],
+      "progress": {
+        "current": 0,
+        "total": 0,
+        "percentage": 0
+      },
+      "checkpoints": [],
+      "assigned_to": null,
+      "created": "2025-11-06T00:04:20.329474",
+      "started": null,
+      "completed": null,
+      "grade": null,
+      "metadata": {}
+    }
+  },
+  "completed": {},
+  "metadata": {
+    "created": "2025-11-06T00:03:35.033062",
+    "last_updated": "2025-11-06T00:19:11.641713"
+  }
+}

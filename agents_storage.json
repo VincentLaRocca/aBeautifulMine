@@ -1,0 +1,102 @@
+{
+  "agents": {
+    "Droid": {
+      "name": "Droid",
+      "role": "Data Generation Specialist",
+      "status": "active",
+      "version": "2.0.0",
+      "created_date": "2025-11-05T23:44:49.633143",
+      "metadata": {
+        "specialization": "Ultra deep research and Q&A generation",
+        "output_format": "JSON Q&A pairs"
+      },
+      "capabilities": [
+        {
+          "capability_type": "reading",
+          "throughput": 30,
+          "accuracy": 0.95,
+          "error_rate": null,
+          "latency_ms": null,
+          "max_concurrent": null,
+          "quality_score": 0.94,
+          "cost_per_operation": null,
+          "custom_metrics": {
+            "unit": "words per minute",
+            "comprehension_rate": 0.95
+          }
+        },
+        {
+          "capability_type": "writing",
+          "throughput": 10,
+          "accuracy": 0.92,
+          "error_rate": null,
+          "latency_ms": null,
+          "max_concurrent": null,
+          "quality_score": 0.93,
+          "cost_per_operation": null,
+          "custom_metrics": {
+            "clarity_score": 10,
+            "conciseness_score": 10,
+            "unit": "content pieces per hour",
+            "style": "clear and concise"
+          }
+        },
+        {
+          "capability_type": "parsing",
+          "throughput": 30,
+          "accuracy": 0.95,
+          "error_rate": 0.05,
+          "latency_ms": null,
+          "max_concurrent": null,
+          "quality_score": 0.92,
+          "cost_per_operation": null,
+          "custom_metrics": {
+            "unit": "pairs per hour",
+            "average_pair_length": 3000,
+            "formula_inclusion": 0.6,
+            "example_inclusion": 0.6
+          }
+        },
+        {
+          "capability_type": "queries",
+          "throughput": 100,
+          "accuracy": 0.95,
+          "error_rate": 0.05,
+          "latency_ms": null,
+          "max_concurrent": 100,
+          "quality_score": 0.96,
+          "cost_per_operation": null,
+          "custom_metrics": {
+            "unit": "Q&A pairs per hour",
+            "queries_per_indicator": 100,
+            "success_rate": 0.88,
+            "concurrent_execution": true
+          }
+        },
+        {
+          "capability_type": "code",
+          "throughput": 500,
+          "accuracy": 0.9,
+          "error_rate": 0.1,
+          "latency_ms": null,
+          "max_concurrent": null,
+          "quality_score": 0.89,
+          "cost_per_operation": null,
+          "custom_metrics": {
+            "unit": "lines per hour",
+            "specialty": "logic",
+            "languages": [
+              "Python"
+            ],
+            "complexity_handling": "high"
+          }
+        }
+      ]
+    }
+  },
+  "processes": {},
+  "products": {},
+  "metadata": {
+    "last_updated": "2025-11-05T23:44:49.633143"
+  }
+}

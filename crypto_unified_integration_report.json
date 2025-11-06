@@ -1,0 +1,21 @@
+{
+  "integration_date": "2025-11-05 06:20:43",
+  "source": "crypto_unified_training_dataset",
+  "source_path": "C:/users/vlaro/crypto/compiled_datasets/unified_training_data_20251025_145038.json",
+  "statistics": {
+    "pairs_added": 373,
+    "errors": 0
+  },
+  "database": {
+    "before": 23254,
+    "after": 23627,
+    "added": 373
+  },
+  "progress": {
+    "current": 23627,
+    "goal": 30000,
+    "progress_pct": 78.75666666666666,
+    "remaining": 6373,
+    "goal_achieved": false
+  }
+}

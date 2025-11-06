@@ -1,0 +1,12 @@
+{
+  "token_budget": 200000,
+  "warning_threshold": 0.75,
+  "shutdown_threshold": 0.85,
+  "critical_threshold": 0.95,
+  "auto_commit_interval": 500,
+  "backup_before_commit": true,
+  "database_path": "crypto_indicators_production.db",
+  "git_auto_push": false,
+  "handoff_directory": "session_handoffs",
+  "session_logs_directory": "session_logs"
+}

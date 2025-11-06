@@ -1,0 +1,24 @@
+{
+  "integration_date": "2025-11-05 06:11:48",
+  "source": "droid_inbox_complete",
+  "files_processed": 28,
+  "statistics": {
+    "indicators_processed": 28,
+    "pairs_added": 1734,
+    "indicators_created": 28,
+    "indicators_reused": 0,
+    "errors": 0
+  },
+  "database": {
+    "before": 21455,
+    "after": 23189,
+    "added": 1734
+  },
+  "progress": {
+    "current": 23189,
+    "goal": 30000,
+    "progress_pct": 77.29666666666667,
+    "remaining": 6811,
+    "goal_achieved": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "analysis_date": "2025-11-05 05:58:51",
+  "claude_shared": {
+    "total_sessions": 126,
+    "total_pairs": 12188,
+    "avg_pairs_per_session": 96.73015873015873
+  },
+  "production": {
+    "total_pairs": 19267,
+    "total_sessions": 96,
+    "unique_questions": 11191
+  },
+  "comparison": {
+    "sessions_in_both": 96,
+    "sessions_claude_only": 30,
+    "sessions_prod_only": 0
+  },
+  "deduplication": {
+    "unique_pairs": 2188,
+    "duplicate_pairs": 10000,
+    "duplicate_rate": 82.04791598293404,
+    "unique_rate": 17.952084017065967
+  },
+  "quality": {
+    "avg_answer_length_unique": 3360.528793418647,
+    "avg_answer_length_production": 3107.392588363523
+  },
+  "projection": {
+    "current_total": 19267,
+    "pairs_to_add": 2188,
+    "projected_total": 21455,
+    "goal": 30000,
+    "projected_progress_pct": 71.51666666666667,
+    "remaining_to_goal": 8545
+  }
+}

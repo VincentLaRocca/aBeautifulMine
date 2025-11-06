@@ -1,0 +1,38 @@
+{
+  "total_pairs": 9999,
+  "passed": 0,
+  "warnings": [
+    "424 duplicate questions found"
+  ],
+  "errors": [],
+  "statistics": {
+    "question_length": {
+      "average": 93.33153315331533,
+      "median": 78,
+      "min": 13,
+      "max": 860
+    },
+    "answer_length": {
+      "average": 3205.2720272027204,
+      "median": 3147,
+      "min": 138,
+      "max": 10800
+    },
+    "distribution": {
+      "unique_topics": 1,
+      "unique_indicators": 1,
+      "unique_categories": 1
+    },
+    "content_quality": {
+      "has_examples_pct": 47.6947694769477,
+      "has_formulas_pct": 8.55085508550855,
+      "has_numbers_pct": 89.71897189718972,
+      "has_crypto_terms_pct": 99.10991099109911
+    },
+    "sessions": {
+      "total_sessions": 1,
+      "avg_pairs_per_session": 9999.0
+    }
+  },
+  "quality_score": 89.5
+}

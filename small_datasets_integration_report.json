@@ -1,0 +1,49 @@
+{
+  "integration_date": "2025-11-05 06:14:01",
+  "source": "small_training_datasets",
+  "statistics": {
+    "datasets_processed": 3,
+    "pairs_added": 65,
+    "duplicates_skipped": 0,
+    "indicators_created": 3,
+    "errors": 1,
+    "dataset_breakdown": [
+      {
+        "dataset": "Bitcoin Digital Gold Narrative",
+        "file": "bitcoin_digital_gold_training.json",
+        "total_pairs": 10,
+        "unique_pairs": 10,
+        "added": 10,
+        "duplicates": 0
+      },
+      {
+        "dataset": "Layer 2 Rollups Technology",
+        "file": "rollups_training_data.json",
+        "total_pairs": 30,
+        "unique_pairs": 30,
+        "added": 30,
+        "duplicates": 0
+      },
+      {
+        "dataset": "Stablecoin Mechanisms",
+        "file": "stablecoins_training_data.json",
+        "total_pairs": 25,
+        "unique_pairs": 25,
+        "added": 25,
+        "duplicates": 0
+      }
+    ]
+  },
+  "database": {
+    "before": 23189,
+    "after": 23254,
+    "added": 65
+  },
+  "progress": {
+    "current": 23254,
+    "goal": 30000,
+    "progress_pct": 77.51333333333334,
+    "remaining": 6746,
+    "goal_achieved": false
+  }
+}

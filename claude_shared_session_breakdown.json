@@ -1,0 +1,1136 @@
+[
+  {
+    "session_id": 1,
+    "topic": "Sample Database Testing",
+    "claude_total_pairs": 0,
+    "unique_pairs": 0,
+    "duplicate_pairs": 0,
+    "in_production": true,
+    "prod_pair_count": 30
+  },
+  {
+    "session_id": 2,
+    "topic": "Sample Database Testing",
+    "claude_total_pairs": 3,
+    "unique_pairs": 0,
+    "duplicate_pairs": 3,
+    "in_production": true,
+    "prod_pair_count": 30
+  },
+  {
+    "session_id": 3,
+    "topic": "Sample Database Testing",
+    "claude_total_pairs": 3,
+    "unique_pairs": 0,
+    "duplicate_pairs": 3,
+    "in_production": true,
+    "prod_pair_count": 30
+  },
+  {
+    "session_id": 4,
+    "topic": "Sample Database Testing",
+    "claude_total_pairs": 3,
+    "unique_pairs": 0,
+    "duplicate_pairs": 3,
+    "in_production": true,
+    "prod_pair_count": 30
+  },
+  {
+    "session_id": 5,
+    "topic": "artificial intelligence ethics",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 31
+  },
+  {
+    "session_id": 6,
+    "topic": "Technical Analysis Simple Moving Average Fundamentals",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 30
+  },
+  {
+    "session_id": 7,
+    "topic": "Technical Analysis Exponential Moving Average Fundamentals",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 24
+  },
+  {
+    "session_id": 8,
+    "topic": "Technical Analysis Weighted Moving Average",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 30
+  },
+  {
+    "session_id": 9,
+    "topic": "Technical Analysis Moving Average Crossover systems",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 10,
+    "topic": "Technical Analysis Moving Average Convergence Divergence (MACD)",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 1
+  },
+  {
+    "session_id": 11,
+    "topic": "Technical Analysis Moving Average Combination Strategies",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 54
+  },
+  {
+    "session_id": 12,
+    "topic": "Optimistic Rollups",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 86
+  },
+  {
+    "session_id": 13,
+    "topic": "head and shoulders pattern cryptocurrency trading",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 30
+  },
+  {
+    "session_id": 14,
+    "topic": "head and shoulders pattern cryptocurrency trading",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 11
+  },
+  {
+    "session_id": 15,
+    "topic": "Stochastic oscillator applications cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 200
+  },
+  {
+    "session_id": 16,
+    "topic": "RSI Relative Strength Index mastery cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 106
+  },
+  {
+    "session_id": 17,
+    "topic": "Multiple indicator divergence confirmation",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 18,
+    "topic": "Divergence timing and entry points crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 19,
+    "topic": "Failed divergence signal management",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 20,
+    "topic": "Bollinger Bands volatility contraction patterns",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 21,
+    "topic": "Bollinger Bands riding the bands strategies",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 22,
+    "topic": "Bollinger Bands reversal patterns",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 23,
+    "topic": "Volatility expansion breakout patterns crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 24,
+    "topic": "Multi-timeframe volatility analysis",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 25,
+    "topic": "UTXO age distribution analysis bitcoin",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 26,
+    "topic": "Realized cap vs market cap MVRV analysis",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 27,
+    "topic": "Network Value to Transaction ratio NVT",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 28,
+    "topic": "Stock-to-Flow models for Bitcoin S2F",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 29,
+    "topic": "Puell Multiple bitcoin profitability analysis",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 30,
+    "topic": "SOPR Spent Output Profit Ratio analysis",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 31,
+    "topic": "Liquidity mining strategies optimization",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 32,
+    "topic": "Cross-chain DeFi interoperability",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 33,
+    "topic": "DeFi governance token voting systems",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 34,
+    "topic": "Yield farming impermanent loss management",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 35,
+    "topic": "Automated Market Maker fee optimization",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 36,
+    "topic": "Cognitive bias identification cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 37,
+    "topic": "Trading psychology in 24/7 crypto markets",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 38,
+    "topic": "Revenge trading overtrading prevention",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 162
+  },
+  {
+    "session_id": 39,
+    "topic": "Ego management in trading decisions",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 200
+  },
+  {
+    "session_id": 40,
+    "topic": "Crowd psychology in crypto markets",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 41,
+    "topic": "Securities law implications cryptocurrencies",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 42,
+    "topic": "Regulatory clarity by jurisdiction crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 550
+  },
+  {
+    "session_id": 43,
+    "topic": "Tax implications reporting cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 44,
+    "topic": "AML KYC compliance requirements cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 45,
+    "topic": "Stablecoin regulatory frameworks",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 170
+  },
+  {
+    "session_id": 46,
+    "topic": "Performance attribution analysis cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 47,
+    "topic": "Performance metric development crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 48,
+    "topic": "Quantitative backtesting frameworks crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 49,
+    "topic": "Factor model applications crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 50,
+    "topic": "Risk-adjusted return optimization crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 98
+  },
+  {
+    "session_id": 51,
+    "topic": "Emotional discipline development crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 52,
+    "topic": "Trading journal best practices cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 99
+  },
+  {
+    "session_id": 53,
+    "topic": "FOMO and FUD management crypto markets",
+    "claude_total_pairs": 92,
+    "unique_pairs": 0,
+    "duplicate_pairs": 92,
+    "in_production": true,
+    "prod_pair_count": 92
+  },
+  {
+    "session_id": 54,
+    "topic": "Revenge trading overtrading prevention",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 55,
+    "topic": "Ego management in trading decisions",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 56,
+    "topic": "Psychology of different market participants crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 57,
+    "topic": "Securities law implications Howey Test crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 99
+  },
+  {
+    "session_id": 58,
+    "topic": "Regulatory clarity by jurisdiction cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 99
+  },
+  {
+    "session_id": 59,
+    "topic": "Tax implications reporting cryptocurrency trading",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 60,
+    "topic": "AML KYC compliance requirements exchange",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 46
+  },
+  {
+    "session_id": 61,
+    "topic": "CFTC vs SEC jurisdiction issues cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 62,
+    "topic": "Stablecoin regulatory frameworks",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 63,
+    "topic": "Exchange API integration cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 99
+  },
+  {
+    "session_id": 64,
+    "topic": "Data aggregation platforms crypto analysis",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 65,
+    "topic": "Charting software optimization for crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 66,
+    "topic": "Portfolio tracking methodologies cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 82
+  },
+  {
+    "session_id": 67,
+    "topic": "Automated trading systems cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 68,
+    "topic": "Alert and notification systems crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 99
+  },
+  {
+    "session_id": 69,
+    "topic": "Backtesting frameworks construction crypto",
+    "claude_total_pairs": 87,
+    "unique_pairs": 0,
+    "duplicate_pairs": 87,
+    "in_production": true,
+    "prod_pair_count": 87
+  },
+  {
+    "session_id": 70,
+    "topic": "Statistical significance testing crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 71,
+    "topic": "Machine learning price prediction crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 90
+  },
+  {
+    "session_id": 72,
+    "topic": "Market regime detection implementation crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 98
+  },
+  {
+    "session_id": 73,
+    "topic": "Volatility modeling techniques advanced",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 74,
+    "topic": "Risk-adjusted performance metrics crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 75,
+    "topic": "Smart contract interaction analysis",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 76,
+    "topic": "Cross-chain DeFi bridges protocols",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 77,
+    "topic": "Layer 2 DeFi integration strategies",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 96
+  },
+  {
+    "session_id": 78,
+    "topic": "DeFi composability strategies",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 79,
+    "topic": "Cross-protocol arbitrage opportunities",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 67
+  },
+  {
+    "session_id": 80,
+    "topic": "DeFi insurance integration strategies",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 81
+  },
+  {
+    "session_id": 81,
+    "topic": "Hardware wallet implementation cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 164
+  },
+  {
+    "session_id": 82,
+    "topic": "Multi-signature wallet configurations",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 83,
+    "topic": "Air-gapped cold storage crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 84,
+    "topic": "Network and infrastructure protection crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 85,
+    "topic": "Operational security procedures crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 86,
+    "topic": "Digital forensics cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 86
+  },
+  {
+    "session_id": 87,
+    "topic": "NFT marketplace analysis cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 88,
+    "topic": "GameFi tokenomics trading strategies",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 97
+  },
+  {
+    "session_id": 89,
+    "topic": "Metaverse real estate crypto trading",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 90,
+    "topic": "Multi-signature wallet configurations cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 91,
+    "topic": "Cross-chain NFT bridging protocols",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 78
+  },
+  {
+    "session_id": 92,
+    "topic": "Digital forensics cryptocurrency investigations",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 93,
+    "topic": "NFT fractionalization trading strategies",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 94,
+    "topic": "Cross-chain NFT bridging protocols security",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 98
+  },
+  {
+    "session_id": 95,
+    "topic": "Gaming token valuation models",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 96,
+    "topic": "Hardware wallet implementation cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 97,
+    "topic": "Optimistic rollups security analysis",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 63
+  },
+  {
+    "session_id": 98,
+    "topic": "Quantitative backtesting frameworks systematic trading",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 100
+  },
+  {
+    "session_id": 99,
+    "topic": "ZK-rollups implementation strategies",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 54
+  },
+  {
+    "session_id": 100,
+    "topic": "Algorithmic trading execution optimization cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": true,
+    "prod_pair_count": 91
+  },
+  {
+    "session_id": 101,
+    "topic": "Layer 2 cross-chain bridges",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 102,
+    "topic": "High frequency trading strategies in crypto markets",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 103,
+    "topic": "State channels cryptocurrency applications",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 104,
+    "topic": "Advanced order types and trading infrastructure",
+    "claude_total_pairs": 100,
+    "unique_pairs": 0,
+    "duplicate_pairs": 100,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 105,
+    "topic": "Plasma chain security considerations",
+    "claude_total_pairs": 100,
+    "unique_pairs": 88,
+    "duplicate_pairs": 12,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 106,
+    "topic": "Cross-chain liquidity aggregation protocols",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 107,
+    "topic": "Layer 2 interoperability protocols",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 108,
+    "topic": "Decentralized insurance product analysis cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 109,
+    "topic": "Layer 2 bridge security and optimization",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 110,
+    "topic": "Advanced DeFi yield aggregation strategies",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 111,
+    "topic": "Real-time market data processing infrastructure",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 112,
+    "topic": "Advanced portfolio attribution analysis crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 113,
+    "topic": "Alternative data sources for crypto trading analysis",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 114,
+    "topic": "Sentiment analysis implementation in cryptocurrency markets",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 115,
+    "topic": "Blockchain scalability solutions analysis",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 116,
+    "topic": "Interoperability protocols and cross-chain communication",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 117,
+    "topic": "Gas optimization techniques for smart contract deployment",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 118,
+    "topic": "Network security infrastructure for exchanges",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 119,
+    "topic": "Options and derivatives trading strategies crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 120,
+    "topic": "Crypto futures and perpetual contracts analysis",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 121,
+    "topic": "Advanced arbitrage strategies across markets",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 122,
+    "topic": "Market making and liquidity provision in crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 123,
+    "topic": "Bitcoin Pi Cycle Theory and market timing signals",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 124,
+    "topic": "Pi Cycle top and bottom indicators cryptocurrency",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 125,
+    "topic": "111DMA 350DMA crossover analysis crypto",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  },
+  {
+    "session_id": 126,
+    "topic": "Pi Cycle Theory historical accuracy and predictions",
+    "claude_total_pairs": 100,
+    "unique_pairs": 100,
+    "duplicate_pairs": 0,
+    "in_production": false,
+    "prod_pair_count": 0
+  }
+]

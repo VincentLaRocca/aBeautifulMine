@@ -1,0 +1,18 @@
+================================================================================
+CLAUDE_SHARED DATABASE GAP ANALYSIS
+================================================================================
+Analysis Date: 2025-11-05 05:57:17
+================================================================================
+
+================================================================================
+PHASE 1: LOADING CLAUDE_SHARED ORIGINAL DATABASE
+================================================================================
+
+Loading: C:/users/vlaro/claude_shared/data/qa_harvest/processed/database_qa_export_20251030_012343.json
+Traceback (most recent call last):
+  File "C:\Users\vlaro\dreamteam\claude\analyze_claude_shared_gaps.py", line 24, in <module>
+    print("\u2705 Successfully loaded claude_shared database")
+  File "C:\Users\vlaro\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>

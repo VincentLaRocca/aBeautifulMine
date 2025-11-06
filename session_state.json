@@ -1,0 +1,29 @@
+{
+  "session_id": "session_20251106_001355",
+  "task_id": "integrate_sessions_101_140",
+  "started": "2025-11-06T00:13:55.394584",
+  "token_budget": 200000,
+  "token_usage": 19000,
+  "shutdown_threshold": 0.85,
+  "progress": {
+    "current": 10,
+    "total": 40,
+    "items_processed": 0
+  },
+  "checkpoints": [
+    {
+      "timestamp": "2025-11-06T00:16:56.715539",
+      "progress": "1/40",
+      "tokens": 4000,
+      "description": "Database status checked: 23,627 pairs"
+    },
+    {
+      "timestamp": "2025-11-06T00:19:11.641386",
+      "progress": "10/40",
+      "tokens": 19000,
+      "description": "Droid inbox checked: 29 files, all already integrated (0 duplicates)"
+    }
+  ],
+  "next_action": "Integrate RAG export sessions 101-140 (~4,000 pairs)",
+  "context": {}
+}
