@@ -6,7 +6,7 @@
       "description": "Integrate RAG export sessions 101-140 (~4,000 pairs)",
       "status": "in_progress",
       "estimated_tokens": 100000,
-      "actual_tokens": 19000,
+      "actual_tokens": 162000,
       "dependencies": [],
       "progress": {
         "current": 10,
@@ -143,6 +143,6 @@
   "completed": {},
   "metadata": {
     "created": "2025-11-06T00:03:35.033062",
-    "last_updated": "2025-11-06T00:19:11.641713"
+    "last_updated": "2025-11-06T00:19:51.681769"
   }
 }

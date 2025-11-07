@@ -1,0 +1,194 @@
+{
+  "library_name": "WeMineHope Training Data Library",
+  "description": "Curated list of worthy subjects for perpetual mining into AI training data",
+  "for_the_greater_good": true,
+  "subjects": [
+    {
+      "subject_id": "crypto_technology",
+      "subject_name": "Cryptocurrency Technology",
+      "description": "Complete coverage of cryptocurrency, blockchain, and digital asset technology including 220+ technical indicators, protocols, and ecosystem components",
+      "category": "Technology",
+      "priority": 1,
+      "status": "in_progress",
+      "target_pairs": 30000,
+      "rationale": "Democratize access to crypto expertise; currently 79% complete with high quality data",
+      "impact": "Enable anyone to train AI agents with institutional-level crypto knowledge"
+    },
+    {
+      "subject_id": "institutional_crypto",
+      "subject_name": "Institutional Cryptocurrency Finance",
+      "description": "Professional-grade knowledge on institutional crypto trading, custody, derivatives, compliance, and risk management",
+      "category": "Finance",
+      "priority": 2,
+      "status": "pending",
+      "target_pairs": 20000,
+      "rationale": "Bridge gap between retail and institutional crypto knowledge",
+      "impact": "Train AI to provide institutional-quality financial advice"
+    },
+    {
+      "subject_id": "blockchain_development",
+      "subject_name": "Blockchain Development",
+      "description": "Complete smart contract development, dApp building, protocol design, and blockchain programming across all major platforms",
+      "category": "Technology",
+      "priority": 3,
+      "status": "pending",
+      "target_pairs": 25000,
+      "rationale": "Massive demand for blockchain developers, limited quality training resources",
+      "impact": "Enable AI-assisted blockchain development education"
+    },
+    {
+      "subject_id": "defi_protocols",
+      "subject_name": "Decentralized Finance Protocols",
+      "description": "Deep coverage of DeFi protocols, mechanisms, risks, strategies, and best practices",
+      "category": "Finance",
+      "priority": 4,
+      "status": "pending",
+      "target_pairs": 18000,
+      "rationale": "DeFi is complex and evolving; need comprehensive, up-to-date knowledge base",
+      "impact": "Safer DeFi participation through better education"
+    },
+    {
+      "subject_id": "medical_diagnostics",
+      "subject_name": "Medical Diagnostics",
+      "description": "Clinical examination, laboratory interpretation, imaging analysis, differential diagnosis, and diagnostic reasoning",
+      "category": "Healthcare",
+      "priority": 5,
+      "status": "pending",
+      "target_pairs": 40000,
+      "rationale": "Healthcare access is limited globally; AI can help bridge diagnostic gaps",
+      "impact": "Improve healthcare access in underserved regions"
+    },
+    {
+      "subject_id": "pharmacology",
+      "subject_name": "Clinical Pharmacology",
+      "description": "Drug mechanisms, interactions, dosing, side effects, contraindications, and therapeutic applications",
+      "category": "Healthcare",
+      "priority": 6,
+      "status": "pending",
+      "target_pairs": 35000,
+      "rationale": "Drug knowledge is critical for safe prescribing and patient education",
+      "impact": "Reduce medication errors and improve patient safety"
+    },
+    {
+      "subject_id": "legal_research",
+      "subject_name": "Legal Research & Practice",
+      "description": "Case law, statutes, legal reasoning, practice areas, procedures, and legal writing",
+      "category": "Law",
+      "priority": 7,
+      "status": "pending",
+      "target_pairs": 30000,
+      "rationale": "Legal services are expensive; AI can democratize basic legal knowledge",
+      "impact": "Increase access to justice through better legal education"
+    },
+    {
+      "subject_id": "climate_science",
+      "subject_name": "Climate Science & Sustainability",
+      "description": "Climate change mechanisms, impacts, mitigation strategies, renewable energy, and sustainability practices",
+      "category": "Environment",
+      "priority": 8,
+      "status": "pending",
+      "target_pairs": 25000,
+      "rationale": "Existential challenge requiring widespread understanding and action",
+      "impact": "Enable informed climate action and policy decisions"
+    },
+    {
+      "subject_id": "cybersecurity",
+      "subject_name": "Cybersecurity & Privacy",
+      "description": "Security principles, threat vectors, defensive techniques, privacy technologies, and best practices",
+      "category": "Technology",
+      "priority": 9,
+      "status": "pending",
+      "target_pairs": 22000,
+      "rationale": "Growing cyber threats require better security education",
+      "impact": "Improve digital safety for individuals and organizations"
+    },
+    {
+      "subject_id": "machine_learning",
+      "subject_name": "Machine Learning Engineering",
+      "description": "ML algorithms, model training, deployment, optimization, and production ML systems",
+      "category": "Technology",
+      "priority": 10,
+      "status": "pending",
+      "target_pairs": 28000,
+      "rationale": "AI/ML skills are in massive demand with limited quality educational resources",
+      "impact": "Democratize ML education and accelerate AI adoption"
+    },
+    {
+      "subject_id": "nutrition_science",
+      "subject_name": "Nutrition Science & Dietetics",
+      "description": "Macronutrients, micronutrients, dietary guidelines, nutritional therapy, and evidence-based nutrition",
+      "category": "Healthcare",
+      "priority": 11,
+      "status": "pending",
+      "target_pairs": 20000,
+      "rationale": "Nutrition misinformation is rampant; need evidence-based knowledge base",
+      "impact": "Improve public health through better nutritional understanding"
+    },
+    {
+      "subject_id": "mental_health",
+      "subject_name": "Mental Health & Psychology",
+      "description": "Psychological disorders, therapeutic approaches, mental wellness, crisis intervention, and evidence-based psychology",
+      "category": "Healthcare",
+      "priority": 12,
+      "status": "pending",
+      "target_pairs": 30000,
+      "rationale": "Mental health crisis worldwide; limited access to care",
+      "impact": "Increase mental health literacy and support availability"
+    },
+    {
+      "subject_id": "education_pedagogy",
+      "subject_name": "Educational Pedagogy & Learning Science",
+      "description": "Learning theories, teaching methods, assessment strategies, curriculum design, and educational psychology",
+      "category": "Education",
+      "priority": 13,
+      "status": "pending",
+      "target_pairs": 25000,
+      "rationale": "Quality education is fundamental; AI can help scale effective teaching",
+      "impact": "Improve educational outcomes through better pedagogy"
+    },
+    {
+      "subject_id": "financial_literacy",
+      "subject_name": "Personal Financial Literacy",
+      "description": "Budgeting, investing, retirement planning, tax strategies, credit management, and financial decision-making",
+      "category": "Finance",
+      "priority": 14,
+      "status": "pending",
+      "target_pairs": 18000,
+      "rationale": "Financial illiteracy leads to poverty; need accessible financial education",
+      "impact": "Improve financial outcomes for underserved populations"
+    },
+    {
+      "subject_id": "data_science",
+      "subject_name": "Data Science & Analytics",
+      "description": "Statistical analysis, data visualization, predictive modeling, big data technologies, and analytical thinking",
+      "category": "Technology",
+      "priority": 15,
+      "status": "pending",
+      "target_pairs": 24000,
+      "rationale": "Data skills are essential in modern economy; high demand for training",
+      "impact": "Democratize data literacy and analytical capabilities"
+    }
+  ],
+  "selection_criteria": {
+    "impact": "Does this subject benefit humanity?",
+    "access": "Is this knowledge currently limited or expensive?",
+    "quality": "Can we mine comprehensive, accurate training data?",
+    "demand": "Is there significant need for AI agents trained in this domain?",
+    "feasibility": "Can we break this into clear subtopics and generate quality Q&A?"
+  },
+  "expansion_strategy": {
+    "phase_1": "Complete crypto ecosystem (subjects 1-4)",
+    "phase_2": "Healthcare fundamentals (subjects 5-6, 11-12)",
+    "phase_3": "Professional services (subjects 7, 9-10)",
+    "phase_4": "Education & wellbeing (subjects 8, 13-15)",
+    "phase_5": "Community-requested subjects (infinite)"
+  },
+  "metadata": {
+    "created": "2025-11-06",
+    "total_subjects": 15,
+    "estimated_total_pairs": 398000,
+    "estimated_completion_years": "2-3 at current pace",
+    "expandable": true,
+    "community_input": "Open to suggestions for worthy subjects"
+  }
+}
