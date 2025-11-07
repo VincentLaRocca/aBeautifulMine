@@ -1,0 +1,195 @@
+{
+  "agent": "zai",
+  "agent_type": "worker_bee_execution_grunt",
+  "platform": "remote_api",
+  "status": "ready",
+  "perpetual_mode": true,
+  "last_updated": "2025-11-06T02:00:00",
+
+  "current_task": null,
+
+  "queued_tasks": [
+    {
+      "task_id": "quality_analysis_comprehensive",
+      "priority": 1,
+      "status": "ready",
+      "description": "Comprehensive quality analysis of all 27,472 pairs",
+      "estimated_time": "45 minutes",
+      "dependencies": [],
+      "input": {
+        "source": "crypto_indicators_production.db",
+        "total_pairs": 27472
+      },
+      "analysis_metrics": [
+        "answer_length_distribution",
+        "crypto_specificity_percentage",
+        "has_sources_percentage",
+        "has_examples_percentage",
+        "has_formulas_percentage",
+        "indicator_coverage",
+        "category_distribution",
+        "quality_score_per_pair"
+      ],
+      "output": {
+        "report": "outbox/zai/quality_analysis_report.json",
+        "summary": "outbox/zai/quality_summary.txt",
+        "visualizations": "outbox/zai/quality_charts/"
+      }
+    },
+    {
+      "task_id": "embeddings_format_batch_1",
+      "priority": 2,
+      "status": "waiting",
+      "description": "Format first 10,000 pairs for embeddings generation",
+      "estimated_time": "30 minutes",
+      "dependencies": ["quality_analysis_comprehensive"],
+      "input": {
+        "source": "crypto_indicators_production.db",
+        "limit": 10000,
+        "sort": "qa_id ASC"
+      },
+      "format_spec": {
+        "output_format": "jsonl",
+        "task_type": "RETRIEVAL_DOCUMENT",
+        "include_metadata": true,
+        "text_field": "question + answer combined"
+      },
+      "output": {
+        "file": "outbox/zai/embeddings_input_batch_1.jsonl",
+        "ready_for": "gemini_batch_embeddings"
+      }
+    },
+    {
+      "task_id": "data_splits_generation",
+      "priority": 3,
+      "status": "waiting",
+      "description": "Generate train/validation/test splits",
+      "estimated_time": "30 minutes",
+      "dependencies": ["embeddings_format_batch_1"],
+      "input": {
+        "source": "crypto_indicators_production.db",
+        "total_pairs": 27472
+      },
+      "split_config": {
+        "train": 0.8,
+        "validation": 0.1,
+        "test": 0.1,
+        "stratify_by": "indicator_category",
+        "random_seed": 42
+      },
+      "output_formats": [
+        "json",
+        "csv",
+        "parquet"
+      ],
+      "output": {
+        "train": "outbox/zai/splits/train.*",
+        "validation": "outbox/zai/splits/validation.*",
+        "test": "outbox/zai/splits/test.*",
+        "metadata": "outbox/zai/splits/split_metadata.json"
+      }
+    },
+    {
+      "task_id": "visualizations_generation",
+      "priority": 4,
+      "status": "waiting",
+      "description": "Generate data visualizations and dashboards",
+      "estimated_time": "40 minutes",
+      "dependencies": ["data_splits_generation"],
+      "input": {
+        "source": "crypto_indicators_production.db",
+        "quality_report": "outbox/zai/quality_analysis_report.json"
+      },
+      "visualizations": [
+        {
+          "type": "heatmap",
+          "name": "indicator_coverage_heatmap.png",
+          "data": "indicator coverage by category"
+        },
+        {
+          "type": "histogram",
+          "name": "answer_length_distribution.png",
+          "data": "answer lengths"
+        },
+        {
+          "type": "pie",
+          "name": "category_distribution.png",
+          "data": "pairs by category"
+        },
+        {
+          "type": "bar",
+          "name": "quality_metrics_by_category.png",
+          "data": "quality scores"
+        },
+        {
+          "type": "line",
+          "name": "database_growth_over_time.png",
+          "data": "pairs added by date"
+        }
+      ],
+      "output": {
+        "location": "outbox/zai/visualizations/",
+        "dashboard": "outbox/zai/dashboard.html"
+      }
+    },
+    {
+      "task_id": "duplicate_detection_detailed",
+      "priority": 5,
+      "status": "waiting",
+      "description": "Detailed duplicate detection analysis",
+      "estimated_time": "60 minutes",
+      "dependencies": ["visualizations_generation"],
+      "input": {
+        "embeddings": "embeddings_batch_1_results.json",
+        "source": "crypto_indicators_production.db"
+      },
+      "analysis_config": {
+        "similarity_threshold": 0.95,
+        "method": "cosine_similarity",
+        "cluster_similar": true,
+        "recommend_action": true
+      },
+      "output": {
+        "report": "outbox/zai/duplicate_analysis_detailed.json",
+        "similarity_matrix": "outbox/zai/similarity_matrix.npz",
+        "recommendations": "outbox/zai/dedup_recommendations.txt"
+      }
+    },
+    {
+      "task_id": "batch_formatting_continuous",
+      "priority": 6,
+      "status": "waiting",
+      "description": "Continuous batch formatting for new Droid deliveries",
+      "estimated_time": "ongoing",
+      "dependencies": [],
+      "mode": "continuous_monitoring",
+      "watch_folder": "inbox/droid/",
+      "actions": [
+        "detect_new_files",
+        "validate_format",
+        "prepare_for_integration",
+        "notify_claude_code"
+      ],
+      "output": {
+        "log": "outbox/zai/batch_processing_log.json"
+      }
+    }
+  ],
+
+  "completed_tasks": [],
+
+  "statistics": {
+    "total_tasks_completed": 0,
+    "total_files_processed": 0,
+    "total_runtime_minutes": 0,
+    "success_rate": null
+  },
+
+  "faucet_mode": {
+    "enabled": true,
+    "auto_start_next": true,
+    "delivery_location": "outbox/zai/",
+    "notification_method": "file_creation",
+    "quality_checks": true
+  }
+}
