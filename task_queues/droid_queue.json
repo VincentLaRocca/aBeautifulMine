@@ -6,13 +6,19 @@
   "perpetual_mode": true,
   "last_updated": "2025-11-06T02:00:00",
 
-  "current_task": null,
+  "current_task": {
+    "task_id": "batch_4_final_gaps",
+    "status": "in_progress",
+    "activated": "2025-11-08T00:00:00",
+    "activated_by": "claude_code_pasiq",
+    "activation_doc": "gemini/shared/BATCH_4_ACTIVATION_NOV08.md"
+  },
 
   "queued_tasks": [
     {
       "task_id": "batch_4_final_gaps",
       "priority": 1,
-      "status": "ready",
+      "status": "in_progress",
       "description": "Complete final 6 indicators for Sessions 3 & 7",
       "estimated_time": "120 minutes",
       "estimated_pairs": 600,

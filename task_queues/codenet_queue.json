@@ -1,0 +1,93 @@
+{
+  "agent": "codenet",
+  "agent_type": "development_specialist",
+  "platform": "claude_desktop",
+  "status": "active",
+  "perpetual_mode": true,
+  "last_updated": "2025-11-08T00:00:00",
+
+  "current_task": {
+    "task_id": "numerai_quant_finance_research",
+    "status": "in_progress",
+    "activated": "2025-11-08T00:00:00",
+    "activated_by": "claude_code_pasiq",
+    "assignment_doc": "inbox/codenet/CODENET_NUMERAI_ASSIGNMENT.md",
+    "phase": "analysis_and_specification"
+  },
+
+  "queued_tasks": [
+    {
+      "task_id": "numerai_quant_finance_research",
+      "priority": 1,
+      "status": "in_progress",
+      "description": "Numerai Signals quantitative finance research and Q&A generation",
+      "estimated_time": "2-3 weeks",
+      "estimated_pairs": 200,
+      "dependencies": [],
+      "phases": [
+        {
+          "phase": 1,
+          "name": "Analysis & Specification",
+          "deadline": "2025-11-15",
+          "deliverables": [
+            "NUMERAI_GITHUB_ANALYSIS.md",
+            "NUMERAI_TOPIC_SPEC.md",
+            "NUMERAI_SAMPLE_PAIRS.json"
+          ]
+        },
+        {
+          "phase": 2,
+          "name": "Technical Content Generation",
+          "deadline": "2025-11-22",
+          "deliverables": [
+            "numerai_technical_qa_pairs.json (100 pairs)"
+          ]
+        },
+        {
+          "phase": 3,
+          "name": "Token Economics Content",
+          "deadline": "2025-11-29",
+          "deliverables": [
+            "nmr_token_economics_qa_pairs.json (100 pairs)"
+          ]
+        }
+      ],
+      "output": {
+        "format": "json",
+        "location": "inbox/codenet/",
+        "naming": "numerai_{topic}_qa_pairs.json"
+      }
+    }
+  ],
+
+  "completed_tasks": [
+    {
+      "task_id": "initial_integration",
+      "completed": "2025-11-06",
+      "pairs_integrated": 9515,
+      "result": "SUCCESS - Integrated to separate branch"
+    }
+  ],
+
+  "statistics": {
+    "total_pairs_generated": 9515,
+    "average_answer_length": 0,
+    "total_tokens_used": 0,
+    "success_rate": 1.0
+  },
+
+  "collaboration": {
+    "primary_coordinator": "claude_code_pasiq",
+    "parallel_researchers": ["gemini_pasiq"],
+    "integration_pipeline": "inbox/codenet → claude_code → production_db",
+    "communication_channel": "inbox/codenet/"
+  },
+
+  "faucet_mode": {
+    "enabled": true,
+    "auto_start_next": true,
+    "delivery_location": "inbox/codenet/",
+    "notification_method": "file_creation",
+    "quality_threshold": "3000_chars_avg"
+  }
+}
