@@ -1,0 +1,18 @@
+{
+  "indicator": "grayscale_holdings",
+  "session": 28,
+  "category": "institutional",
+  "total_pairs": 100,
+  "qa_pairs": [
+    {
+      "id": 1,
+      "question": "What is Grayscale Holdings, LLC?",
+      "answer": "Grayscale Holdings is a digital currency asset management firm, and a subsidiary of Digital Currency Group (DCG). It is the worlds largest digital currency asset manager, known for its family of cryptocurrency investment products, most notably the Grayscale Bitcoin Trust (GBTC)."
+    },
+    {
+      "id": 2,
+      "question": "What is the Grayscale Bitcoin Trust (GBTC)?",
+      "answer": "GBTC is Grayscales flagship product. It was initially a closed-end trust that held a large amount of Bitcoin, allowing investors to gain exposure to BTC in traditional brokerage and retirement accounts. In January 2024, it converted into a spot Bitcoin ETF, fundamentally changing its structure and market dynamics."
+    }
+  ]
+}
