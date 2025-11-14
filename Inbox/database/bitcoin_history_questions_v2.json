@@ -1,0 +1,558 @@
+{
+  "indicator": "Bitcoin History & Origins",
+  "category": "Bitcoin Fundamentals",
+  "subcategory": "Bitcoin History & Origins",
+  "total_questions": 1000,
+  "answers": [
+    {
+      "question_number": 1,
+      "question": "Who is Satoshi Nakamoto, and what is their significance to Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 2,
+      "question": "What are the leading theories regarding Satoshi Nakamoto's true identity?",
+      "answer": ""
+    },
+    {
+      "question_number": 3,
+      "question": "What linguistic and coding patterns have been analyzed to try and identify Satoshi Nakamoto?",
+      "answer": ""
+    },
+    {
+      "question_number": 4,
+      "question": "Why is Satoshi Nakamoto's anonymity considered a crucial feature of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 5,
+      "question": "How did Satoshi Nakamoto collaborate with early Bitcoin developers?",
+      "answer": ""
+    },
+    {
+      "question_number": 6,
+      "question": "What is the estimated wealth of Satoshi Nakamoto in Bitcoin, and has any of it ever been moved?",
+      "answer": ""
+    },
+    {
+      "question_number": 7,
+      "question": "What is the 'Satoshi' unit, and how many Satoshis are in one Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 8,
+      "question": "What are the main arguments for Satoshi being a collective rather than an individual?",
+      "answer": ""
+    },
+    {
+      "question_number": 9,
+      "question": "What was Satoshi's last known communication, and to whom was it addressed?",
+      "answer": ""
+    },
+    {
+      "question_number": 10,
+      "question": "How does the mystery of Satoshi Nakamoto impact the public perception of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 11,
+      "question": "What is the core problem that the Bitcoin Whitepaper aims to solve?",
+      "answer": ""
+    },
+    {
+      "question_number": 12,
+      "question": "What are the six key components of the Bitcoin system as outlined in the whitepaper?",
+      "answer": ""
+    },
+    {
+      "question_number": 13,
+      "question": "How does the whitepaper propose to solve the 'double-spending' problem without a trusted third party?",
+      "answer": ""
+    },
+    {
+      "question_number": 14,
+      "question": "Explain the concept of a 'peer-to-peer electronic cash system' as described in the whitepaper.",
+      "answer": ""
+    },
+    {
+      "question_number": 15,
+      "question": "What is the role of the 'timestamp server' in the Bitcoin whitepaper's design?",
+      "answer": ""
+    },
+    {
+      "question_number": 16,
+      "question": "How does the whitepaper describe the Proof-of-Work (PoW) mechanism?",
+      "answer": ""
+    },
+    {
+      "question_number": 17,
+      "question": "What is the 'longest chain rule' and its importance for consensus?",
+      "answer": ""
+    },
+    {
+      "question_number": 18,
+      "question": "How does the whitepaper address the issue of transaction fees and miner incentives?",
+      "answer": ""
+    },
+    {
+      "question_number": 19,
+      "question": "What privacy considerations are mentioned in the Bitcoin whitepaper?",
+      "answer": ""
+    },
+    {
+      "question_number": 20,
+      "question": "How has the implementation of Bitcoin deviated from or expanded upon the original whitepaper?",
+      "answer": ""
+    },
+    {
+      "question_number": 21,
+      "question": "What is the Bitcoin Genesis Block, and what is its significance?",
+      "answer": ""
+    },
+    {
+      "question_number": 22,
+      "question": "What is the hidden message in the coinbase of the Genesis Block, and what does it signify?",
+      "answer": ""
+    },
+    {
+      "question_number": 23,
+      "question": "How does the Genesis Block differ from all other blocks in the Bitcoin blockchain?",
+      "answer": ""
+    },
+    {
+      "question_number": 24,
+      "question": "When was the Genesis Block mined, and what was the block reward?",
+      "answer": ""
+    },
+    {
+      "question_number": 25,
+      "question": "Can the Bitcoin from the Genesis Block be spent? Why or why not?",
+      "answer": ""
+    },
+    {
+      "question_number": 26,
+      "question": "What is the 'Cypherpunk' movement, and what were its core ideals?",
+      "answer": ""
+    },
+    {
+      "question_number": 27,
+      "question": "How did the Cypherpunk mailing list contribute to the development of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 28,
+      "question": "Who were some of the key figures in the Cypherpunk movement that influenced Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 29,
+      "question": "What is the relationship between the Cypherpunk ethos and Bitcoin's emphasis on privacy and decentralization?",
+      "answer": ""
+    },
+    {
+      "question_number": 30,
+      "question": "How did the Cypherpunk's vision of digital cash differ from earlier corporate attempts?",
+      "answer": ""
+    },
+    {
+      "question_number": 31,
+      "question": "What were some of the pre-Bitcoin attempts at creating digital cash, such as DigiCash, b-money, and Bit Gold?",
+      "answer": ""
+    },
+    {
+      "question_number": 32,
+      "question": "What were the key innovations of David Chaum's DigiCash, and why did it ultimately fail?",
+      "answer": ""
+    },
+    {
+      "question_number": 33,
+      "question": "How did Wei Dai's 'b-money' proposal influence the design of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 34,
+      "question": "What were the core concepts of Nick Szabo's 'Bit Gold', and how do they relate to Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 35,
+      "question": "What was Adam Back's 'HashCash', and what role did it play in Bitcoin's Proof-of-Work?",
+      "answer": ""
+    },
+    {
+      "question_number": 36,
+      "question": "What were the key milestones in the early years of Bitcoin (2009-2010)?",
+      "answer": ""
+    },
+    {
+      "question_number": 37,
+      "question": "Who was Hal Finney, and what was his role in the first Bitcoin transaction?",
+      "answer": ""
+    },
+    {
+      "question_number": 38,
+      "question": "What was the initial value of Bitcoin, and how was it determined?",
+      "answer": ""
+    },
+    {
+      "question_number": 39,
+      "question": "How did the early Bitcoin community communicate and collaborate?",
+      "answer": ""
+    },
+    {
+      "question_number": 40,
+      "question": "What were the main challenges faced by early adopters of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 41,
+      "question": "What is the BitcoinTalk forum, and why is it significant in Bitcoin's history?",
+      "answer": ""
+    },
+    {
+      "question_number": 42,
+      "question": "What were some of the most important discussions that took place on the BitcoinTalk forum?",
+      "answer": ""
+    },
+    {
+      "question_number": 43,
+      "question": "How did the BitcoinTalk forum contribute to the governance and development of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 44,
+      "question": "Who were some of the influential members of the BitcoinTalk community?",
+      "answer": ""
+    },
+    {
+      "question_number": 45,
+      "question": "How did the BitcoinTalk forum help to establish a sense of community around Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 46,
+      "question": "What was the first Bitcoin exchange, and how did it operate?",
+      "answer": ""
+    },
+    {
+      "question_number": 47,
+      "question": "Who was Jed McCaleb, and what was his role in the creation of Mt. Gox?",
+      "answer": ""
+    },
+    {
+      "question_number": 48,
+      "question": "How did the emergence of exchanges impact the price and liquidity of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 49,
+      "question": "What were the security challenges faced by early Bitcoin exchanges?",
+      "answer": ""
+    },
+    {
+      "question_number": 50,
+      "question": "How did the rise of exchanges contribute to the professionalization of the Bitcoin ecosystem?",
+      "answer": ""
+    },
+    {
+      "question_number": 51,
+      "question": "What is the story behind the Bitcoin Pizza Transaction?",
+      "answer": ""
+    },
+    {
+      "question_number": 52,
+      "question": "Who is Laszlo Hanyecz, and what is his significance in Bitcoin history?",
+      "answer": ""
+    },
+    {
+      "question_number": 53,
+      "question": "How many Bitcoin were spent on the two pizzas, and what is their approximate value today?",
+      "answer": ""
+    },
+    {
+      "question_number": 54,
+      "question": "Why is the Bitcoin Pizza Transaction considered a landmark event?",
+      "answer": ""
+    },
+    {
+      "question_number": 55,
+      "question": "How did the Bitcoin Pizza Transaction demonstrate the potential of Bitcoin as a medium of exchange?",
+      "answer": ""
+    },
+    {
+      "question_number": 56,
+      "question": "When did Satoshi Nakamoto disappear from the Bitcoin project?",
+      "answer": ""
+    },
+    {
+      "question_number": 57,
+      "question": "What were the circumstances surrounding Satoshi's departure?",
+      "answer": ""
+    },
+    {
+      "question_number": 58,
+      "question": "Who did Satoshi hand over the reins of the Bitcoin project to?",
+      "answer": ""
+    },
+    {
+      "question_number": 59,
+      "question": "What has been the long-term impact of Satoshi's disappearance on Bitcoin's decentralization?",
+      "answer": ""
+    },
+    {
+      "question_number": 60,
+      "question": "What are some of the theories about why Satoshi chose to disappear?",
+      "answer": ""
+    },
+    {
+      "question_number": 61,
+      "question": "What was the Silk Road, and what was its connection to Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 62,
+      "question": "How did the Silk Road impact the public perception and adoption of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 63,
+      "question": "Who was Ross Ulbricht (Dread Pirate Roberts), and what was his fate?",
+      "answer": ""
+    },
+    {
+      "question_number": 64,
+      "question": "How did law enforcement agencies track and seize Bitcoin from the Silk Road?",
+      "answer": ""
+    },
+    {
+      "question_number": 65,
+      "question": "What lessons did the Bitcoin community learn from the Silk Road saga?",
+      "answer": ""
+    },
+    {
+      "question_number": 66,
+      "question": "What was the Mt. Gox exchange, and what led to its collapse?",
+      "answer": ""
+    },
+    {
+      "question_number": 67,
+      "question": "How many Bitcoin were lost in the Mt. Gox hack, and what was the impact on the market?",
+      "answer": ""
+    },
+    {
+      "question_number": 68,
+      "question": "What was the role of transaction malleability in the Mt. Gox collapse?",
+      "answer": ""
+    },
+    {
+      "question_number": 69,
+      "question": "What has been the aftermath of the Mt. Gox collapse for its creditors?",
+      "answer": ""
+    },
+    {
+      "question_number": 70,
+      "question": "How did the Mt. Gox failure shape the development of more secure cryptocurrency exchanges?",
+      "answer": ""
+    },
+    {
+      "question_number": 71,
+      "question": "What is a Bitcoin fork, and what is the difference between a hard fork and a soft fork?",
+      "answer": ""
+    },
+    {
+      "question_number": 72,
+      "question": "What were the main motivations behind the creation of Bitcoin XT, Bitcoin Classic, and Bitcoin Unlimited?",
+      "answer": ""
+    },
+    {
+      "question_number": 73,
+      "question": "How did the Bitcoin Cash (BCH) hard fork come about, and what are its key differences from Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 74,
+      "question": "What is Bitcoin SV (BSV), and what is its relationship to Bitcoin Cash?",
+      "answer": ""
+    },
+    {
+      "question_number": 75,
+      "question": "How do forks impact the network effect and community of a cryptocurrency?",
+      "answer": ""
+    },
+    {
+      "question_number": 76,
+      "question": "What was the 'Blocksize War', and what were the main arguments of the opposing sides?",
+      "answer": ""
+    },
+    {
+      "question_number": 77,
+      "question": "How did the Blocksize War demonstrate the challenges of decentralized governance?",
+      "answer": ""
+    },
+    {
+      "question_number": 78,
+      "question": "What was the 'New York Agreement', and what was its role in the scaling debate?",
+      "answer": ""
+    },
+    {
+      "question_number": 79,
+      "question": "How did the Blocksize War ultimately lead to the activation of SegWit and the creation of Bitcoin Cash?",
+      "answer": ""
+    },
+    {
+      "question_number": 80,
+      "question": "What are the long-term implications of the Blocksize War for Bitcoin's development and community?",
+      "answer": ""
+    },
+    {
+      "question_number": 81,
+      "question": "What is Segregated Witness (SegWit), and what problems did it aim to solve?",
+      "answer": ""
+    },
+    {
+      "question_number": 82,
+      "question": "How does SegWit increase Bitcoin's block capacity and lower transaction fees?",
+      "answer": ""
+    },
+    {
+      "question_number": 83,
+      "question": "How did SegWit fix the transaction malleability bug?",
+      "answer": ""
+    },
+    {
+      "question_number": 84,
+      "question": "What was the process of SegWit activation, and why was it so contentious?",
+      "answer": ""
+    },
+    {
+      "question_number": 85,
+      "question": "How has SegWit adoption progressed since its activation in 2017?",
+      "answer": ""
+    },
+    {
+      "question_number": 86,
+      "question": "What is the Lightning Network, and how does it relate to Bitcoin's scalability?",
+      "answer": ""
+    },
+    {
+      "question_number": 87,
+      "question": "When was the Lightning Network mainnet launched, and what has been its impact?",
+      "answer": ""
+    },
+    {
+      "question_number": 88,
+      "question": "How do payment channels work in the Lightning Network?",
+      "answer": ""
+    },
+    {
+      "question_number": 89,
+      "question": "What are the benefits and drawbacks of using the Lightning Network for payments?",
+      "answer": ""
+    },
+    {
+      "question_number": 90,
+      "question": "How has the Lightning Network grown in terms of capacity and adoption?",
+      "answer": ""
+    },
+    {
+      "question_number": 91,
+      "question": "What is the Taproot upgrade, and what are its main components?",
+      "answer": ""
+    },
+    {
+      "question_number": 92,
+      "question": "How do Schnorr signatures improve the efficiency and privacy of Bitcoin transactions?",
+      "answer": ""
+    },
+    {
+      "question_number": 93,
+      "question": "What is MAST (Merkelized Abstract Syntax Trees), and how does it enhance Bitcoin's smart contract capabilities?",
+      "answer": ""
+    },
+    {
+      "question_number": 94,
+      "question": "How did the Taproot upgrade get activated on the Bitcoin network?",
+      "answer": ""
+    },
+    {
+      "question_number": 95,
+      "question": "What new possibilities does Taproot unlock for the future of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 96,
+      "question": "What is a Bitcoin Halving, and why is it a significant event?",
+      "answer": ""
+    },
+    {
+      "question_number": 97,
+      "question": "How have the previous Bitcoin Halvings in 2012, 2016, and 2020 impacted the price of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 98,
+      "question": "What is the 'stock-to-flow' model, and how does it relate to Bitcoin Halvings?",
+      "answer": ""
+    },
+    {
+      "question_number": 99,
+      "question": "How do Bitcoin Halvings affect the profitability and behavior of miners?",
+      "answer": ""
+    },
+    {
+      "question_number": 100,
+      "question": "What are the expectations for the 2024 Bitcoin Halving and beyond?",
+      "answer": ""
+    },
+    {
+      "question_number": 101,
+      "question": "What were the key milestones in Bitcoin's price history, from being worthless to reaching its all-time high?",
+      "answer": ""
+    },
+    {
+      "question_number": 102,
+      "question": "What factors contributed to Bitcoin's major bull runs and bear markets?",
+      "answer": ""
+    },
+    {
+      "question_number": 103,
+      "question": "How has the narrative around Bitcoin's value proposition evolved over time?",
+      "answer": ""
+    },
+    {
+      "question_number": 104,
+      "question": "What was the significance of the approval of Bitcoin ETFs for its price and mainstream adoption?",
+      "answer": ""
+    },
+    {
+      "question_number": 105,
+      "question": "How do Bitcoin's price cycles compare to those of traditional assets?",
+      "answer": ""
+    },
+    {
+      "question_number": 106,
+      "question": "What has been the timeline of institutional adoption of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 107,
+      "question": "Which major corporations have added Bitcoin to their balance sheets, and what was their rationale?",
+      "answer": ""
+    },
+    {
+      "question_number": 108,
+      "question": "How has El Salvador's adoption of Bitcoin as legal tender impacted the country and the broader crypto landscape?",
+      "answer": ""
+    },
+    {
+      "question_number": 109,
+      "question": "What is the role of companies like MicroStrategy and Tesla in the institutional adoption of Bitcoin?",
+      "answer": ""
+    },
+    {
+      "question_number": 110,
+      "question": "How have regulatory developments influenced the pace of institutional adoption?",
+      "answer": ""
+    }
+  ]
+}
